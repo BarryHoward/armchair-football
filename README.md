@@ -44,5 +44,4 @@
 
 3.	Highest Point Scorer - $110.
 
-
-(Constitution)[https://github.build.ge.com/CloudPod/armchair-football/blob/master/Documents/constitution.md]
+[Constitution](https://github.build.ge.com/CloudPod/armchair-football/blob/master/Documents/constitution.md)
