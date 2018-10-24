@@ -23,7 +23,7 @@
 
  - Jonathan Reed (212604636)
 
-### Assistant Commissioner
+### Junior Commissioner
 
  - Jen Strollo (212627594) -- Exiled
 
