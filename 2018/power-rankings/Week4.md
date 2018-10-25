@@ -1,6 +1,6 @@
 ## Week 4
 
-1 ) Dream Drowners  4-0-0 (502.81) -- The highest scoring undefeated team retains the top spot after scoring the blowout of the week against the floundering 0-4-0 croatian crew.  After a somewhat uninspired first week, Dream Drowners has score 130+ points in three consecutive weeks and remains top dog for now.  A matchup against Hit em High should prove a bit more competitive.
+1 ) Dream Drowners  4-0-0 (502.81) -- The highest scoring undefeated team retains the top spot after scoring the blowout of the week against the floundering 0-4 croatian crew.  After a somewhat uninspired first week, Dream Drowners has scored 130+ points in three consecutive weeks and remains top dog for now.  A matchup against Hit em High should prove a bit more competitive.
 
 2 ) Eagle Eye 3-1-0 (526.51) -- The overall point leader rolls again to another 130+ point performance.  After a close loss to open the season, Eagle has been quietly dominating opponents to little fanfare.  They match up against one of the two remaining undefeateds this week in the hopes of moving up to their rightful place in the rankings.
 
