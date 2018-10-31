@@ -31,3 +31,8 @@
 13 - **TeachMeHow2EuroTrip (2-6-0 | 738.21)** -- The victim of Jen's reawakened wrath -- and their own mismanagement -- Mike and Hannah again fall and are now tied for last place.  With no chance at the playoffs, their only goal now is to avoid the inevitable legal battle over split custody of the poo-poo prize.  At least they learned something this year, though.  I hope.
 
 14 - **Harooga Hand Ball (2-6-0 | 739.87)** -- Russell somehow managed to win a game against a seemingly middle tier thanks to a very gracious trade for a much-needed TE.  That probably won't be enough to save him this week though, as said TE goes on BYE.  In race to the bottom, Russell is still the front-runner, but Hannah and Joe are making a strong push... because poop.
+
+
+Date: Oct 30, 2018
+
+Author: Barry (Dream Drowners)
