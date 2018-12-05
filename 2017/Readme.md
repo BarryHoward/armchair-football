@@ -1,1 +1,1 @@
-https://football.fantasysports.yahoo.com/f1/117259
+https://archive.fantasysports.yahoo.com/nfl/2017/871785
