@@ -1,7 +1,7 @@
 # ATL Armchair Football
 
 <p align="center">
-    <img src='https://media1.tenor.com/images/fcfbcc43e43a1d6df2a1a08340334c16/tenor.gif' align="middle" width="800px">
+    <img src='https://media1.tenor.com/images/fcfbcc43e43a1d6df2a1a08340334c16/tenor.gif' align="middle" width="400px">
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@ Welcome to the ATL Armchair Football League.  The league is open to anyone who w
 **However, as decreed by God-Emperor Barry, this is a league for winners, where the fires of competition forge champions.  It is not for the weak, as they will be preyed upon to service the alphas.  You have been warned.**
 
 <p align="center">
-    <img src='https://az616578.vo.msecnd.net/files/2016/07/08/6360355972208043281905013204_trumpdrakehat%20(1).jpg' align="middle" width="800px">
+    <img src='https://az616578.vo.msecnd.net/files/2016/07/08/6360355972208043281905013204_trumpdrakehat%20(1).jpg' align="middle" width="400px">
 </p>
 
 <p align="center">
-    This is the face of winning.  *Deal* with it.
+    This is the face of winning.  Deal with it.
 </p>
 
 ## Getting Around
