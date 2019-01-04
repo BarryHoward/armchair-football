@@ -25,4 +25,5 @@ Welcome to the ATL Armchair Football League.  The league is open to anyone who w
 Information for each season can be found in the subfolder for the year.  The Documents folder contains documents that persist through seasons.
 
 [Constitution](https://github.build.ge.com/CloudPod/armchair-football/blob/master/Documents/constitution.md)
+
 [Offices](https://github.build.ge.com/CloudPod/armchair-football/blob/master/Documents/offices.md)
