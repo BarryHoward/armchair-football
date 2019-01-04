@@ -1,0 +1,11 @@
+**/*.pyc
+# **/*.DS_Store
+
+**/.cache/**
+**/__pycache__/**
+**/*.vscode
+
+**/dump.rdb
+**/.coverage
+.coveragerc
+**/.pytest_cache

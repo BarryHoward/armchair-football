@@ -60,30 +60,30 @@ Unless specified, the information under a team's name is the list of ways they c
     * CLINCHED
 5. **Revenge Tour (8-4-0 | 1401.07)  --  100%**
     * CLINCHED
-6. **Alan Dutch Schaefer (6-6-0 | 1328.45)  --  50%**
+6. **Alan Dutch Schaefer (6-6-0 | 1328.45)  --  57%**
     * ALL of the following happens:
         * Alan Dutch Schaefer Wins  --  70%
-        * Gronkey Kong Loses OR Gronkey Kong doesn't outscore Alan Dutch Schaefer by 7.04  --  70%
+        * Gronkey Kong Loses OR Gronkey Kong doesn't outscore Alan Dutch Schaefer by 7.04  --  80%
         * EasyBreesyBeautiful Loses OR EasyBreesyBeautiful doesn't outscore Alan Dutch Schaefer by 44.45  --  95%
     * ALL of the following happens:
         * Alan Dutch Schaefer Loses  --  30%
-        * Gronkey Kong Loses AND Gronkey Kong doesn't outscore Alan Dutch Schaefer by 7.04  --  25%
+        * Gronkey Kong Loses AND Gronkey Kong doesn't outscore Alan Dutch Schaefer by 7.04  --  35%
         * EasyBreesyBeautiful Loses AND EasyBreesyBeautiful doesn't outscore Alan Dutch Schaefer by 44.45  -- 35%
         * Jen doesn't outscore Alan Dutch Schaefer by 155.29  --  ~ 100%
-7. **Gronkey Kong (6-6-0 | 1321.42)  --  40%**
+7. **Gronkey Kong (6-6-0 | 1321.42)  --  28%**
     * ALL of the following happens:
-        * Gronkey Kong Wins  --  70%
-        * Alan Dutch Schaefer Loses OR Gronkey Kong outscores Alan Dutch Schaefer by 7.04  --  60%
+        * Gronkey Kong Wins  --  55%
+        * Alan Dutch Schaefer Loses OR Gronkey Kong outscores Alan Dutch Schaefer by 7.04  --  40%
         * EasyBreesyBeautiful Loses OR EasyBreesyBeautiful doesn't outscore Gronkey Kong by 37.42  --  90%
     * ALL of the following happens:
-        * Gronkey Kong Loses  --  30%
+        * Gronkey Kong Loses  --  45%
         * Alan Dutch Schaefer Loses AND Gronkey Kong outscores Alan Dutch Schaefer by 7.04  --  20%
         * EasyBreesyBeautiful Loses AND EasyBreesyBeautiful doesn't outscore Gronkey Kong by 37.42  --  90%
         * Jen doesn't outscore Gronkey Kong by 148.26  --  ~ 100%
-8. **EasyBreesyBeautiful (6-6-0 | 1284.00)  -- 10%**
+8. **EasyBreesyBeautiful (6-6-0 | 1284.00)  -- 15%**
     * ALL of the following happens:
         * EasyBreesyBeautiful Wins  --  60%
-        * Gronkey Kong Loses OR EasyBreesyBeautiful outscores Gronkey Kong by 37.42  --  35%
+        * Gronkey Kong Loses OR EasyBreesyBeautiful outscores Gronkey Kong by 37.42  --  50%
         * Alan Dutch Schaefer Loses OR EasyBreesyBeautiful outscores Alan Dutch Schaefer by 44.45  --  32%
     * ALL of the following happens:
         * EasyBreesyBeautiful Loses  --  40%

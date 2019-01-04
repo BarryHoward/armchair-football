@@ -2,34 +2,29 @@
 
 In order to address concerns of rule-breaking, confusion regarding such, and the culture of distrust that has taken root in our previously harmonious fantasy football league, We the members of the ATL Armchair Football League do hereby establish this constitution as a necessary standard of order and as a reference in all future disputes, so help us God.
 
-
 ## Article I – League Charter
 
 The fantasy football league was founded in 2017 as ATL Armchair Football League (ID# 117259) on Yahoo Fantasy Football.  It shall remain as such until transferred to another platform by unanimous vote by all active league members.  The rules of the league are determined by the commissioner and ratified by a majority vote by the members, so long as the number of teams does not exceed fourteen.
-
 
 ### Section 1 – League Entry
 
 Entry to the league is contingent upon an empty spot being available with no other applicants.   If more than one applicant applies for the same league spot, active members of the league will decide which applicant best fits the desired characteristics for league membership.
 
-
 ### Section 2 - Fees
 
 The entry fee for each season is $40 paid to the league treasurer (or commissioner if no league treasurer is appointed).  All fees should be paid prior to one week before the league draft.  Failure to provide the fee at the required time will result in forfeiture of a member’s reserved spot for the year, allowing for new applicants to apply for said members spot.
-
 
 ### Section 3 – Payouts
 
 League payouts are as follows:
 
-1.	1st Place – $400 and name inscribed into trophy.
+1. 1st Place – $400 and name inscribed into trophy.
 
-2.	2nd Place - $40.
+2. 2nd Place - $40.
 
-3.	Highest Point Scorer - $110.
+3. Highest Point Scorer - $110.
 
 League payouts may be changed by amending the constitution one week prior to the league draft.
-
 
 ### Section 4 – Trophies
 
@@ -39,16 +34,13 @@ The winner’s trophy will have the name of the winner, the winning team’s nam
 
 The loser’s toilet bowl trophy MUST be displayed on the loser’s desk until they finish a season not in last place, at which point the trophy is transferred to the new loser.  If a loser leaves the league while owning the loser’s toilet bowl trophy, they MUST keep the trophy and purchase a new one for the league.
 
-
 ### Section 5 – Constitution Amendments
 
 Constitution amendments may be proposed by any league member, and can be added to the constitution with a 2/3 majority vote of active members.
 
-
 ### Section 6 – League Autonomy
 
 The league functions irrespective of the General Electric organizational hierarchy.  Any punishments from the league are subject solely to the rules of this constitution as agreed upon by the league members.  Any attempt by members to use their positions at the company to influence the competitive balance of the league or escape its justice is strictly forbidden.
-
 
 ## Article 2 – League Rules
 
@@ -58,33 +50,29 @@ Teams must be managed exclusively by their listed manager(s).  Allowing others t
 
 In the event that a manager is unable to access their team, they may request that specific moves be made on their behalf by the commissioner or co-commissioners.  The request must be in the form of a written email to the entire league and give specific instructions as to which moves are to be made.  Move choices must be explicit and not left to the discretion of the person making the moves.  No advice is to be solicited, and there shall be no guarantee that the move will actually be made.
 
-
 ### Section 2 – Management Negligence
 
 Teams must be continually managed throughout the season until said team is eliminated from playoff contention.  Failure to actively manage a team during this period may result in expulsion from the league after the season.
-
 
 ### Section 3 – Trades Vetoes
 
 The commissioner may only temporarily cancel pending trades if he/she suspects collusion or if both trading parties agree to withdraw the trade.  If collusion is proven, the trade is cancelled permanently.  If collusion is suspected but not proven, the remaining members of the league must vote with a simple majority to uphold the veto, with any collusion punishments being applied if the veto is upheld.  If the vote fails, the trade will be reinitiated without commissioner interference.
 
-
 ### Section 4 – Trash Talk
 
 All trash talk is permitted without official repercussion from the league.  This, however, does not protect league members from consequences of broken friendships or HR intervention.
-
 
 ### Section 5 – Collusion
 
 Collusion is strictly prohibited and defined as follows:  Any actions designed to aid any team not managed by the party.  This includes, but is not limited to:
 
-1.	Attempting negative trades with a preferred team when out of contention (Trade Tanking)
+1. Attempting negative trades with a preferred team when out of contention (Trade Tanking)
 
-2.	Dropping quality players with the intention that they are picked up by a preferred team when out of contention (Drop Tanking)
+2. Dropping quality players with the intention that they are picked up by a preferred team when out of contention (Drop Tanking)
 
-3.	Attempting negative trades with a team playing against a competing team with the intention of helping them to win for the week (Loaning)
+3. Attempting negative trades with a team playing against a competing team with the intention of helping them to win for the week (Loaning)
 
-4.	Managing more than one team (Ghost Managing if the manager has their own team)
+4. Managing more than one team (Ghost Managing if the manager has their own team)
 
 Any proven cases of collusion may result in the IMMEDIATE expulsion of both parties.
 
@@ -110,7 +98,6 @@ Any proven cases of collusion may result in the IMMEDIATE expulsion of both part
     -	League members failing to perform their responsibilities can be expelled from the league by a majority vote of active members at the time designated in the specific responsibility.
 
 Unless otherwise stated, all member rules and regulations apply to other offices.  If a member is expelled, they are also removed from all other offices.
-
 
 ### Section 2 – Treasurer
 
