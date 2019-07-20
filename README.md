@@ -13,7 +13,7 @@ Welcome to the ATL Armchair Football League.  The league is open to anyone who w
 **However, as decreed by God-Emperor Barry, this is a league for winners, where the fires of competition forge champions.  It is not for the weak, as they will be preyed upon to service the alphas.  You have been warned.**
 
 <p align="center">
-    <img src='https://az616578.vo.msecnd.net/files/2016/07/08/6360355972208043281905013204_trumpdrakehat%20(1).jpg' align="middle" width="200px">
+    <img src='https://vice-images.vice.com/images/content-images/2015/11/06/remembering-john-barron-donald-trumps-spokesman-alter-ego-1106-body-image-1446847744.jpg' align="middle" width="200px">
 </p>
 
 <p align="center">
