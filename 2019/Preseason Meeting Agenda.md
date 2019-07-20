@@ -2,7 +2,7 @@
 
 ## Time
 
-### 1PM, June 26, 2019
+### 1PM -- June 26, 2019
 
 ## Location
 
@@ -33,13 +33,13 @@
 * Anthony Edwards (212698735)
 * Barry Howard (212603989)
 * Joe Labiosa (200020596)
+* Jack Laing (212589176)
 * Jonathan Reed (212604636)
 * Jen Strollo (212627594)
-* Jack Laing (212589176)
 * Mike Smith (212679694) - Former Co-Manager
 * Hannah Douglas (212573913) - Former Co-Manager
 
-#### Leaving (5 spots):
+#### Leaving (5 spots)
 
 * Lynn Baker (212582756) --  Co-Manager
 * Francesca Brumm (212615983) --  Co-Manager
@@ -47,13 +47,13 @@
 * Russell Endicott (212601587)
 * Adam Raymer (200010962)
 
-#### Undecided (1 spot):
+#### Undecided (1 spot)
 
 * Grant Paszkowski (212606376)
 
 ### 5. Fill Remaining Spots
 
-#### New (3 spots):
+#### New (3 spots)
 
 * Dan Suciu (212627556)
 * Danielle Garcia (212737221)
@@ -63,7 +63,7 @@
 
 ### 6. Confirming of Minor Offices
 
-* Scribe    | Master of Whispers  --  Barry Howard
-* Treasurer | Master of Coin      --  Jeffrey Arendondo
+* Scribe / Master of Whispers -- Barry Howard
+* Treasurer / Master of Coin --- Jeffrey Arendondo
 
 ### 7. Commissioner and Co-Commissioner Elections
