@@ -1,10 +1,20 @@
-# Preseason Meeting Agenda
+# Preseason Meeting 2019
 
-1. Airing of Grievances
+## Time
 
-2. Reviewing of the Constitution
+### 1PM, June 26, 2019
 
-3. Proposed Changes:
+## Location
+
+### Falcons Meeting Room
+
+## Agenda
+
+1. **Airing of Grievances**
+
+2. **Reviewing of the Constitution**
+
+3. **Proposed Changes:**
 
     * Draft Style:  Auction vs Snake
     * Trade Deadline:  Move up a week vs previous date
@@ -14,9 +24,9 @@
     * Draft Positions:  Randomize now vs At time of Draft
     * Additional Proposals after Constituion Review
 
-4. Confirm Current Members
+4. **Confirm Current Members**
 
-    Returning (10 spots -- Mike/Hannah taking two spots):
+    *Returning (10 spots -- Mike/Hannah taking two spots):*
 
     * Jeffrey Arredondo (212694503)
     * Andrew Crawford (212601043)
@@ -29,7 +39,7 @@
     * Mike Smith (212679694) - Former Co-Manager
     * Hannah Douglas (212573913) - Former Co-Manager
 
-    Leaving (5 spots):
+    *Leaving (5 spots):*
 
     * Lynn Baker (212582756) --  Co-Manager
     * Francesca Brumm (212615983) --  Co-Manager
@@ -37,20 +47,23 @@
     * Russell Endicott (212601587)
     * Adam Raymer (200010962)
 
-    Undecided (1 spot):
+    *Undecided (1 spot):*
+
     * Grant Paszkowski (212606376)
 
-5. Fill Remaining Spots
+5. **Fill Remaining Spots**
 
-    New (3 spots):
+    *New (3 spots):*
 
     * Dan Suciu (212627556)
     * Danielle Garcia (212737221)
     * Alexandra Miller-Browne (212627554)
 
-6. Confirming of Minor Offices
+    *Confirm Access to Slack Channel and Github Repository*
+
+6. **Confirming of Minor Offices**
 
     * Scribe / Master of Whispers:  Barry Howard
     * Treasurer / Master of Coin:  Jeffrey Arendondo
 
-7. Commissioner and Co-Commissioner Elections
+7. **Commissioner and Co-Commissioner Elections**
