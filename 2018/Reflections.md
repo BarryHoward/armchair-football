@@ -29,3 +29,5 @@ So much drama, so much pain, so many (failed) attempts to leave the slack channe
 Be like Conan.
 
 As for me, I will be taking a break from scribing duties after this post.  I bid you all farewell, for I have a ski trip to go on, and the league is paying for it!
+
+Barry (The Art of the Deal)

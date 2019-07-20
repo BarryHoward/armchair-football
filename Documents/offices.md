@@ -11,6 +11,7 @@
 * Anthony Edwards (212698735) --  Manager
 * Russell Endicott (212601587) --  Manager
 * Barry Howard (212603989) --  Manager
+* Jack Laing (212589176) -- Manager
 * Joe Labiosa (200020596) --  Manager
 * Grant Paszkowski (212606376) --  Manager
 * Adam Raymer (200010962) --  Manager
