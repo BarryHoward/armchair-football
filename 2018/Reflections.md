@@ -30,4 +30,12 @@ Be like Conan.
 
 As for me, I will be taking a break from scribing duties after this post.  I bid you all farewell, for I have a ski trip to go on, and the league is paying for it!
 
+<p align="center">
+ <img src="https://media.giphy.com/media/H22hyf0K1Bsc/giphy.gif" align="middle">
+</p>
+
+<p align="center">
+ Peace
+</p>
+
 Barry (The Art of the Deal)
