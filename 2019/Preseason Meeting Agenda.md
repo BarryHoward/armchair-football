@@ -76,35 +76,35 @@ Below is a short explanation for the changes being voted on
 
 ### Draft Styles
 
-#### Auction
+* Auction
 
 Teams use an auction budget to bid on players. Teams take turns nominating players for auction and the team with the highest bid is awarded the player. Auctions continue until every team's roster is fille
 
-#### Snake
+* Snake
 
 Every team selects one player per round until their roster is full. The draft order reverses each round, so the team that starts the first round will end the second, and the team that ends the first round will start the second.
 
 ### Trade Vetos
 
-#### Votes
+* Votes
 
 Accepted trades will be vetoed when at least some percentage of the league's members vote to overturn it.
 
-#### Commissioner
+* Commissioner
 
 Accepted trades can only be overturned by the league commissioner.
 
 ### Waivers
 
-#### Rolling Priority
+* Rolling Priority
 
 Waiver claims are processed in waiver priority order and each successful claim moves a manager to the end of the waiver priority list
 
-#### Resetting Priority
+* Resetting Priority
 
 Waiver claims are processed in reverse order of standings and successful claims do not affect waiver priority list
 
-#### FAAB
+* FAAB
 
 Each manager receives a dollar amount to place blind bids on waived players. The manager with the highest bid at the end of the waiver period claims that player and that bid amount is deducted from the team's acquisition budget. If multiple managers place an equal bid on a player, tiebreak options are available as described above.
 
