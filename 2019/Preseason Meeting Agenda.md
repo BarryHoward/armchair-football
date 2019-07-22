@@ -108,6 +108,14 @@ Below is a short explanation for the changes being voted on
 
     Each manager receives a dollar amount to place blind bids on waived players. The manager with the highest bid at the end of the waiver period claims that player and that bid amount is deducted from the team's acquisition budget. If multiple managers place an equal bid on a player, tiebreak options are available as described above.
 
+### Trade Deadlines
+
+* Oct 26th
+
+* Nov 2nd
+
+* Nov 9th (Default)
+
 ### Consolation Bracket
 
 The consolation bracket is a playoff format for teams that do not make the postseason.  As of now, there is no reward for winning other than final placement (6-12).  If consolation bracket is removed, the final standings for 6-12 will be determined by standings at the end of the regular season
