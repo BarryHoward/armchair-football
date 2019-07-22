@@ -2,11 +2,11 @@
 
 ## Time
 
-### 1PM -- June 26, 2019
+1PM -- June 26, 2019
 
 ## Location
 
-### Falcons Meeting Room
+Falcons Meeting Room
 
 ## Agenda
 
@@ -69,3 +69,45 @@
 ### 7. Commissioner and Co-Commissioner Elections
 
 ### 8. Set Draft Day and Time / Draft Order Drawing (if necessary)
+
+## Explanations
+
+Below is a short explanation for the changes being voted on
+
+### Draft Styles
+
+#### Auction
+
+Teams use an auction budget to bid on players. Teams take turns nominating players for auction and the team with the highest bid is awarded the player. Auctions continue until every team's roster is fille
+
+#### Snake
+
+Every team selects one player per round until their roster is full. The draft order reverses each round, so the team that starts the first round will end the second, and the team that ends the first round will start the second.
+
+### Trade Vetos
+
+#### Votes
+
+Accepted trades will be vetoed when at least some percentage of the league's members vote to overturn it.
+
+#### Commissioner
+
+Accepted trades can only be overturned by the league commissioner.
+
+### Waivers
+
+#### Rolling Priority
+
+Waiver claims are processed in waiver priority order and each successful claim moves a manager to the end of the waiver priority list
+
+#### Resetting Priority
+
+Waiver claims are processed in reverse order of standings and successful claims do not affect waiver priority list
+
+#### FAAB
+
+Each manager receives a dollar amount to place blind bids on waived players. The manager with the highest bid at the end of the waiver period claims that player and that bid amount is deducted from the team's acquisition budget. If multiple managers place an equal bid on a player, tiebreak options are available as described above.
+
+### Consolation Bracket
+
+The consolation bracket is a playoff format for teams that do not make the postseason.  As of now, there is no reward for winning other than final placement (6-12).  If consolation bracket is removed, the final standings for 6-12 will be determined by standings at the end of the regular season
