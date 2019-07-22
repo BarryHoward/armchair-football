@@ -84,11 +84,11 @@ Below is a short explanation for the changes being voted on
 
     Every team selects one player per round until their roster is full. The draft order reverses each round, so the team that starts the first round will end the second, and the team that ends the first round will start the second.
 
-### Trade Vetos
+### Trade Vetoes
 
 * Votes
 
-    Accepted trades will be vetoed when at least some percentage of the league's members vote to overturn it.
+    Accepted trades will be vetoed when at least 1/3 of the league's members vote to overturn it.
 
 * Commissioner
 
