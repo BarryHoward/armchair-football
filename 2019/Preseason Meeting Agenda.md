@@ -68,4 +68,4 @@
 
 ### 7. Commissioner and Co-Commissioner Elections
 
-### 8. Draft Order Drawing (if necessary)
+### 8. Set Draft Day and Time / Draft Order Drawing (if necessary)
