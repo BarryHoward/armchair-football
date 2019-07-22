@@ -64,7 +64,7 @@ Falcons Meeting Room
 ### 6. Confirming of Minor Offices
 
 * Scribe / Master of Whispers -- Barry Howard
-* Treasurer / Master of Coin --- Jeffrey Arendondo
+* Treasurer / Master of Coin --- Jeffrey Arredondo
 
 ### 7. Commissioner and Co-Commissioner Elections
 
