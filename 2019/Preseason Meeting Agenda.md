@@ -110,4 +110,4 @@ Below is a short explanation for the changes being voted on
 
 ### Consolation Bracket
 
-    The consolation bracket is a playoff format for teams that do not make the postseason.  As of now, there is no reward for winning other than final placement (6-12).  If consolation bracket is removed, the final standings for 6-12 will be determined by standings at the end of the regular season
+The consolation bracket is a playoff format for teams that do not make the postseason.  As of now, there is no reward for winning other than final placement (6-12).  If consolation bracket is removed, the final standings for 6-12 will be determined by standings at the end of the regular season
