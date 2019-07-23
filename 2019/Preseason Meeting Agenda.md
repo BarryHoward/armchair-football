@@ -23,6 +23,7 @@ Falcons Meeting Room
 * Consolation Bracket:  Keep vs Remove
 * Draft Positions:  Randomize now vs At time of Draft
 * Additional Proposals after Constituion Review
+* Access to Github / Slack:  League Only vs By Request
 
 ### 4. Confirm Current Members
 
