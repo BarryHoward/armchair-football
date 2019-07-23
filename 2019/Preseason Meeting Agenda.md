@@ -52,13 +52,14 @@ Falcons Meeting Room
 
 ### 5. Fill Remaining Spots
 
-#### New (5 spots)
+#### New (6 spots)
 
 * Ben Whitelaw (212570719)
 * Timothy Azan (212773635)
 * Dan Suciu (212627556)
 * Danielle Garcia (212737221)
 * Alexandra Miller-Browne (212627554)
+* Alicia Blackburn (212599646)
 
 #### Confirm Access to Slack Channel and Github Repository
 
