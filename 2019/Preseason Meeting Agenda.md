@@ -26,7 +26,7 @@ Falcons Meeting Room
 
 ### 4. Confirm Current Members
 
-#### Returning (8 spots -- Mike/Hannah taking two spots):
+#### Returning (8 spots):
 
 * Jeffrey Arredondo (212694503)
 * Andrew Crawford (212601043)
@@ -38,7 +38,7 @@ Falcons Meeting Room
 * Jen Strollo (212627594)
 
 
-#### Leaving (6 spots)
+#### Leaving (5 spots)
 
 * Lynn Baker (212582756) --  Co-Manager
 * Francesca Brumm (212615983) --  Co-Manager
