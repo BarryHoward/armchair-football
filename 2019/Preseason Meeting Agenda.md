@@ -47,6 +47,7 @@ Falcons Meeting Room
 * Adam Raymer (200010962)
 * Mike Smith (212679694) - Former Co-Manager
 * Hannah Douglas (212573913) - Former Co-Manager
+* Grant Paszkowski (212606376)
 
 
 ### 5. Fill Remaining Spots
