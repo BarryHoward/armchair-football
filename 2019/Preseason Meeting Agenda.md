@@ -38,7 +38,7 @@ Falcons Meeting Room
 * Jen Strollo (212627594)
 
 
-#### Leaving (5 spots)
+#### Leaving (6 spots)
 
 * Lynn Baker (212582756) --  Co-Manager
 * Francesca Brumm (212615983) --  Co-Manager
