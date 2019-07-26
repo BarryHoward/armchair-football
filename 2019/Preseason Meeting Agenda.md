@@ -22,7 +22,8 @@ Falcons Meeting Room
 * Waivers:  Rolling Priority vs FAAB vs Resetting Priority
 * Consolation Bracket:  Keep vs Remove
 * Draft Positions:  Randomize now vs At time of Draft
-* Additional Proposals after Constituion Review
+* Temporary Trades
+* No co-manager
 * Access to Github / Slack:  League Only vs By Request
 
 ### 4. Confirm Current Members
