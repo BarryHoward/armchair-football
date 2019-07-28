@@ -39,22 +39,20 @@ Falcons Meeting Room
 * Mike Smith (212679694) - Former Co-Manager
 * Hannah Douglas (212573913) - Former Co-Manager
 
-#### Leaving (5 spots)
+#### Leaving (6 spots)
 
 * Lynn Baker (212582756) --  Co-Manager
 * Francesca Brumm (212615983) --  Co-Manager
 * Cheryl Eckardt (200008672)
 * Russell Endicott (212601587)
 * Adam Raymer (200010962)
-
-#### Undecided (1 spot)
-
 * Grant Paszkowski (212606376)
 
 ### 5. Fill Remaining Spots
 
-#### New (3 spots)
+#### New (4 spots)
 
+* Ben Whitelaw (212570719)
 * Dan Suciu (212627556)
 * Danielle Garcia (212737221)
 * Alexandra Miller-Browne (212627554)
@@ -64,7 +62,7 @@ Falcons Meeting Room
 ### 6. Confirming of Minor Offices
 
 * Scribe / Master of Whispers -- Barry Howard
-* Treasurer / Master of Coin --- Jeffrey Arendondo
+* Treasurer / Master of Coin --- Jeffrey Arredondo
 
 ### 7. Commissioner and Co-Commissioner Elections
 
