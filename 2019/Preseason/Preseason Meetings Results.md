@@ -10,10 +10,10 @@
 6.  Temporary Trades -- Allowed vs Not Allowed (Winner)
 7.  Consolation Teams -- Locked (Winner) vs Not Locked
 8.  Payouts:
-   * First Place -- $330
-   * Second Place -- $80
-   * Third Place -- $40
-   * Points Leader -- $100
+     * First Place -- $330
+     * Second Place -- $80
+     * Third Place -- $40
+     * Points Leader -- $100
 9.  IR Roster Sport -- Yea (Winner) vs Nay
 
 ## Draft Order
