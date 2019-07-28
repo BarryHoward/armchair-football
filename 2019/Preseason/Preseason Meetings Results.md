@@ -3,7 +3,7 @@
 ## Rule Changes
 
 1.  Draft Style
-        Auction vs Snake (Winner)
+        * Auction vs Snake (Winner)
 2.  Draft Position -- Yahoo Randomize vs Randomize at Meeting (Winner)
 3.  Trades -- League Veto vs No Veto (Winner)
 4.  Waiver Priority -- FAAB vs Resetting vs Rolling (Winner)
