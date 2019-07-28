@@ -2,7 +2,6 @@
 
 ## Rule Changes
 
-1. Draft Style -- Auction vs Snake
-
-   Snake Draft won
-
+### Draft Style
+   
+#### Auction vs Snake (Winner)
