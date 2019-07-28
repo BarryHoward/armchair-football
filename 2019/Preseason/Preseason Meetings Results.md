@@ -9,7 +9,7 @@
 5.  Co-managers added during season -- Allowed vs Not Allowed (Winner)
 6.  Temporary Trades -- Allowed vs Not Allowed (Winner)
 7.  Consolation Teams -- Locked (Winner) vs Not Locked
-8.  Payoffs --
+8.  Payouts:
    1.  First Place -- $330
    2.  Second Place -- $80
    3.  Third Place -- $40
