@@ -22,11 +22,14 @@ Falcons Meeting Room
 * Waivers:  Rolling Priority vs FAAB vs Resetting Priority
 * Consolation Bracket:  Keep vs Remove
 * Draft Positions:  Randomize now vs At time of Draft
-* Additional Proposals after Constituion Review
+* League Payouts
+* Temporary Trades
+* No co-manager
+* Access to Github / Slack:  League Only vs By Request
 
 ### 4. Confirm Current Members
 
-#### Returning (10 spots -- Mike/Hannah taking two spots):
+#### Returning (8 spots):
 
 * Jeffrey Arredondo (212694503)
 * Andrew Crawford (212601043)
@@ -36,8 +39,7 @@ Falcons Meeting Room
 * Jack Laing (212589176)
 * Jonathan Reed (212604636)
 * Jen Strollo (212627594)
-* Mike Smith (212679694) - Former Co-Manager
-* Hannah Douglas (212573913) - Former Co-Manager
+
 
 #### Leaving (6 spots)
 
@@ -46,16 +48,21 @@ Falcons Meeting Room
 * Cheryl Eckardt (200008672)
 * Russell Endicott (212601587)
 * Adam Raymer (200010962)
+* Mike Smith (212679694) - Former Co-Manager
+* Hannah Douglas (212573913) - Former Co-Manager
 * Grant Paszkowski (212606376)
+
 
 ### 5. Fill Remaining Spots
 
-#### New (4 spots)
+#### New (6 spots)
 
 * Ben Whitelaw (212570719)
+* Timothy Azan (212773635)
 * Dan Suciu (212627556)
 * Danielle Garcia (212737221)
 * Alexandra Miller-Browne (212627554)
+* Alicia Blackburn (212599646)
 
 #### Confirm Access to Slack Channel and Github Repository
 
