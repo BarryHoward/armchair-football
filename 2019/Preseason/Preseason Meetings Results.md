@@ -4,5 +4,5 @@
 
 1. Draft Style -- Auction vs Snake
 
-Snake Draft won
+   Snake Draft won
 
