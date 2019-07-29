@@ -4,25 +4,25 @@
 
 1.  Draft Style
      * Auction
-     * Snake (Winner)
+     * **Snake (Winner)**
 2.  Draft Position
      * Yahoo Randomize
-     * Randomize at Meeting (Winner)
+     * **Randomize at Meeting (Winner)**
 3.  Trades
      * League Veto
-     * No Veto (Winner)
+     * **No Veto (Winner)**
 4.  Waiver Priority
      * FAAB
      * Resetting
-     * Rolling (Winner)
+     * **Rolling (Winner)**
 5.  Co-managers added during season
      * Yea
-     * Nay (Winner)
+     * **Nay (Winner)**
 6.  Temporary Trades
      * Yea
-     * Nay (Winner)
+     * **Nay (Winner)**
 7.  Consolation Teams
-     * Locked (Winner)
+     * **Locked (Winner)**
      * Not Locked
 8.  Payouts:
      * First Place -- $330
@@ -30,7 +30,7 @@
      * Third Place -- $40
      * Points Leader -- $100
 9.  IR Roster Sport
-     * Yea (Winner)
+     * **Yea (Winner)**
      * Nay
 
 ## Draft Order
