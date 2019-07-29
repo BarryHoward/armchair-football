@@ -18,11 +18,13 @@ The entry fee for each season is $40 paid to the league treasurer (or commission
 
 League payouts are as follows:
 
-1. 1st Place – $400 and name inscribed into trophy.
+1. 1st Place – $300 and name inscribed into trophy.
 
-2. 2nd Place - $40.
+2. 2nd Place - $80.
 
-3. Highest Point Scorer - $110.
+3. 3rd Place - $40.
+
+4. Highest Point Scorer - $100.
 
 League payouts may be changed by amending the constitution one week prior to the league draft.
 
@@ -32,7 +34,7 @@ Currently a winner’s trophy and a loser’s toilet bowl trophy have been purch
 
 The winner’s trophy will have the name of the winner, the winning team’s name, and the season year engraved at years end.  The winner may choose to keep the trophy on their desk for the following year or store it in a neutral location.  They MAY NOT take it home.
 
-The loser’s toilet bowl trophy MUST be displayed on the loser’s desk until they finish a season not in last place, at which point the trophy is transferred to the new loser.  If a loser leaves the league while owning the loser’s toilet bowl trophy, they MUST keep the trophy and purchase a new one for the league.
+The loser’s toilet bowl trophy MUST be displayed on the loser’s desk until they finish a season not in last place, at which point the trophy is transferred to the new loser.  If a loser leaves the league while owning the loser’s toilet bowl trophy, they MUST keep the trophy until the end of the next season, at which point is transfers to the new loser.
 
 ### Section 5 – Constitution Amendments
 
@@ -76,8 +78,18 @@ Collusion is strictly prohibited and defined as follows:  Any actions designed t
 
 Any proven cases of collusion may result in the IMMEDIATE expulsion of both parties.
 
+## Article 3 - League Configuration
 
-## Article 3 – League Titles
+- Draft: Live, random postions
+- Teams: 14
+- Scoring: Head-to-Head
+- Trade Deadline: November 9, 2019
+- Waiver Priority: Rolling
+- Trades: No League Veto
+- Consolation Teams: Locked during playoffs
+- IR: Active
+
+## Article 4 – League Titles
 
 ### Section 1 – Member
 
