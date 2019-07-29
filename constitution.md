@@ -80,7 +80,7 @@ Any proven cases of collusion may result in the IMMEDIATE expulsion of both part
 
 ## Article 3 - League Configuration
 
-- Draft: Live, random postions
+- Draft: Live, Snake, Random postions / predetermined
 - Teams: 14
 - Scoring: Head-to-Head
 - Trade Deadline: November 9, 2019
