@@ -200,3 +200,21 @@ Unless otherwise stated, all member rules and regulations apply to other offices
 -	Impeachment:  
 
     -	The league scribe may be impeached if the league deems their writings to be biased or frankly not very good, presuming that a new scribe is willing to take his/her place.
+
+### Section 6 – Enforcer
+
+- Eligibility:
+
+  - In times of great freeloaders, an enforcer may be forced in a crucible of rage.
+
+- Powers and Responsibilities:
+
+  - The league enforcer is empowered to break knees when missing fees
+
+- Limitations:
+
+  - The league enforcer is outside the law.  A hero of the darkness.  He/she has no limits on the way they choose to exact payment
+
+- Impeachment:  
+
+  - The league scribe may be impeached if he/she goes overboard.  What that means is determined by the league
