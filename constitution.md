@@ -217,4 +217,4 @@ Unless otherwise stated, all member rules and regulations apply to other offices
 
 - Impeachment:  
 
-  - The league scribe may be impeached if he/she goes overboard.  What that means is determined by the league
+  - The league enforcer may be impeached if he/she goes overboard.  What that means is determined by the league
