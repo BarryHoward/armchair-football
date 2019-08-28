@@ -2,9 +2,7 @@
 
 ## Links
 
-* [League](https://football.fantasysports.yahoo.com/f1/117259)
-
-* [Draft](https://football.fantasysports.yahoo.com/f1/117259/draft)
+* [League](https://archive.fantasysports.yahoo.com/nfl/2018/117259)
 
 ## Final Standings
 
