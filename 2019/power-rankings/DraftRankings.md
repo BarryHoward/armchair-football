@@ -96,12 +96,6 @@ But for now, she has a legitimate middle of the pack team, with potential for im
 
 Another newcomer out to forge her own destiny, Danielle picked ahead of the ADP in each of her first 10 picks, though some of those picks might have been pretty savvy.  Snatching Gurley, Ryan, and Green before the rest of the league had a chance at them might end up paying huge dividends if Gurley returns to form and Green comes back healthy.  While these may be question marks, there's no question that she is lacking at TE.  But champions dig themselves out of TE-shaped holes all the time, so she should have a chance to improve on this minor issue.  They say you can't win a league with the draft, but you can certainly lose it, and Danielle has managed to avoid doing both, as her team looks to be middle of the pack with a decently high ceiling.
 
-QB: B+
-RB: B-
-WR: B+
-TE: D
-DEF/K: B-
-
 ## Tier 3 -- Toilet Teeterers
 
 12 - **Azan-axe**
