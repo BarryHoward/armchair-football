@@ -9,3 +9,5 @@
 **/.coverage
 .coveragerc
 **/.pytest_cache
+
+api/**
