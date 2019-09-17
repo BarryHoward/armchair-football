@@ -7,7 +7,9 @@ Behold your arbitrary draft rankings / bulletin board material.  After much rese
 1 - **The Art of the Deal**
 
 | Record | Points | Points Against | Change |
+
 |:---:|:---:|:---:|:---:|:---:|
+
 | 2-0-0 | 240.6 | 194.14 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='20px'> 1 |
 
 Normally not the strongest drafter, I can't help but be excited about this team thanks to Zeke once again finding his way onto my team under questionable circumstances -- and I have his backup in case he misses time. An elite backfield, the top TE, and serviceable players at my other positions, the reigning champ got his quest for a repeat off to a great start this year with a strong overall team. Even with doubts regarding Derek Henry and a somewhat underwhelming bench, this team is an undeniable contender going into week one. It is, however, undeniably inferior to last year's super team, so if y'all are looking to make some trades that will piss off the rest of the league, I'm always listening.
