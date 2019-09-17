@@ -1,8 +1,12 @@
-{% if week.get("PowerRankings", None) %}# Week {{index}} Power Rankings
+# Week {{index}} Report
+{% if week.get("Trades", None) %}## Trades
+
+{% endif %}
+{% if week.get("PowerRankings", None) %}## Power Rankings
 
 {{ week.PowerRankings.Introduction }}
 {% for single_rank in week.PowerRankings.Ranks %}{% if loop.index|string in week.PowerRankings.Tiers.keys() %}
-## {{ week.PowerRankings.Tiers[loop.index|string] }}
+### {{ week.PowerRankings.Tiers[loop.index|string] }}
 {% endif %}
 {{loop.index}} - **{{ single_rank.Team }}**
 
