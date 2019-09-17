@@ -22,7 +22,7 @@ class Generator(object):
 
     def write(self):
         file_name = "Week%i.md" % GEN_INDEX
-        with open(join(self.dir_path, file_name), 'w') as output_file:
+        with open(join(dirname(self.dir_path), file_name), 'w') as output_file:
             output_file.write(self.markdown)
 
     def render(self):
