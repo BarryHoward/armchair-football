@@ -1,0 +1,14 @@
+{% if week.get("PowerRankings", None) %}# Week {{index}} Power Rankings
+
+{{ week.PowerRankings.Introduction }}
+{% for single_rank in week.PowerRankings.Ranks %}{% if loop.index|string in week.PowerRankings.Tiers.keys() %}
+## {{ week.PowerRankings.Tiers[loop.index|string] }}
+{% endif %}
+{{loop.index}} - **{{ single_rank.Team }}**
+
+| Record | Points | Points Against | Change |
+|:---:|:---:|:---:|:---:|
+| {{single_rank.Metadata.Wins}}-{{single_rank.Metadata.Losses}}-{{single_rank.Metadata.Ties}} | {{single_rank.Metadata.Points}} | {{single_rank.Metadata.PointsAgainst}} | {{single_rank.Metadata.Change}} |
+
+{{ single_rank.Text }}
+{% endfor %}{% endif %}
