@@ -4,6 +4,8 @@ import json
 import jinja2
 
 GEN_INDEX = 2
+UP_ARROW = 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg'
+DOWN_ARROW = 'https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg'
 
 class Generator(object):
 
@@ -62,8 +64,8 @@ class Generator(object):
         if current_rank == previous_rank:
             return "--"
         if current_rank < previous_rank:
-            return "<img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> %i" % (previous_rank - current_rank)
-        return "<img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> %i" % (current_rank - previous_rank)
+            return "<img src='%s' width='15px'> %i" % (UP_ARROW, previous_rank - current_rank)
+        return "<img src='%s' width='15px'> %i" % (DOWN_ARROW, current_rank - previous_rank)
 
 
     @staticmethod
@@ -91,7 +93,8 @@ class Generator(object):
             x[team_name] for x in team_results
         ])
         metadata["PointsAgainst"] = sum([
-            value for (key, value) in x.items() if key != team_name for x in team_results
+            value for x in team_results
+            for (key, value) in x.items() if key.lower() != team_name.lower()  
         ])
 
         return metadata

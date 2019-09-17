@@ -1,7 +1,29 @@
-# Week {{index}} Report
-{% if week.get("Trades", None) %}## Trades
+# Week {{index}} Recap
 
-{% endif %}
+## News
+{% if week.get("News", None) %}{% for single_item in week["News"] %}
+* {{ single_item }}
+{% endfor %}{% else %}**No News**{% endif %}
+## Trades
+{% if week.get("Trades", None) %}{% for single_trade in week["Trades"] %}
+### Trade {{ loop.index}}
+
+#### Exchange
+
+| {{ single_trade.Traders[0]["Team"] }} | {{single_trade.Traders[1]["Team"]}} |
+|:---:|:---:|
+| {{single_trade.Traders[0]["Players"][0]}} | {{single_trade.Traders[1]["Players"][0]}} |
+{% if single_trade.Traders[0]["Players"]|length > 1 %}| {{single_trade.Traders[0]["Players"][1]}} | {{single_trade.Traders[1]["Players"][1]}} |{% endif %}
+{% if single_trade.Traders[0]["Players"]|length > 2 %}| {{single_trade.Traders[0]["Players"][2]}} | {{single_trade.Traders[1]["Players"][2]}} |{% endif %}
+
+#### Opinion
+
+{{single_trade.Opinion}}
+
+#### Results
+
+{{single_trade.Results}}
+{% endfor %}{% else %}**No Trades Were Made**{% endif %}
 {% if week.get("PowerRankings", None) %}## Power Rankings
 
 {{ week.PowerRankings.Introduction }}
