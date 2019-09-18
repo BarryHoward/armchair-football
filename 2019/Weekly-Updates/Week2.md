@@ -82,7 +82,7 @@ This season started off with all sorts or surprises both in the NFL and in our l
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 10 | 2-0-0 | 279.71 | 187.23 | 139.855 | 93.615 |
 
 ```
-But champions dig themselves out of TE-shaped holes all the time, so she should have a chance to improve on this minor issue.
+But champions dig themselves out of TE-shaped holes all the time, <br>\n so she should have a chance to improve on this minor issue.
 ```
 
 Novice or Secret Genius?  In a year where everyone seemingly has a major draft bust and injuries grip the league in fear, Danielle seemingly made all the right moves on draft day and has leaped to the front of the back.  More than anything, her success can be traced to the breakout of the Ravens offense and the emergence of Mark Andrews as one the league's top TE -- something we clearly all saw coming.  AJ Green might be out longer than anticipated and Ekeler's stellar start should only last as long as Melvin Gordon is holding out, but otherwise there is nothing to suggest that a little maintenance will keep this team in championship form for the rest of the season.
