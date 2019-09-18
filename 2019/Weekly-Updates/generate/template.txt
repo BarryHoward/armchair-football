@@ -31,11 +31,11 @@
 {% endfor %}{% else %}**No Trades Were Made**{% endif %}
 </details>
 
-{% if week.get("PowerRankings", None) %}## Power Rankings
+{% if week.get("PowerRankings", None) %}# Power Rankings
 
 {{ week.PowerRankings.Introduction }}
 {% for single_rank in week.PowerRankings.Ranks %}{% if loop.index|string in week.PowerRankings.Tiers.keys() %}
-### {{ week.PowerRankings.Tiers[loop.index|string] }}
+## {{ week.PowerRankings.Tiers[loop.index|string] }}
 {% endif %}
 {{loop.index}} - **{{ single_rank.Team }}**
 

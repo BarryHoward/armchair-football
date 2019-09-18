@@ -69,11 +69,11 @@ Jonathan was REALLY not happy.
 
 </details>
 
-## Power Rankings
+# Power Rankings
 
 This season started off with all sorts or surprises both in the NFL and in our league.  With this in mind, I think my preseason rankings were pretty close with a few notable exceptions.  Enjoy the new format.
 
-### Top Dogs
+## Top Dogs
 
 1 - **Mrs. OBJ**
 
@@ -95,7 +95,7 @@ Novice or Secret Genius?  In a year where everyone seemingly has a major draft b
 
 Welp, the defending champion is back to his old tricks, acquiring top-tier talent in risky trades that might pay huge dividends.  After acquiring a hold-out RB1 and a WR1 with a few accusations over his head and more than a few mental issues, Barry is well on his way to dominating the league for a second year in a row if his perilous trades bear fruit.  But even if they don't, he still has a solid team with better bench depth than he had two weeks ago thanks to his fortunate avoiding of the injuries plaguing the rest of the league amd some savvy waiver wire pickups.  This week will should be a great matchup, as the trophy-owner takes on upstart Danielle in what might be a possible playoff preview.
 
-### The Pack
+## The Pack
 
 3 - **Haters Gonna Hate**
 
@@ -157,7 +157,7 @@ Narrator:  He isn't.  After fleecing Jen for Tyler Boyd, Ben was the latest pers
 
 Sometimes teams struggle, and the cause eludes me for quite a while.  This is not one of those times.  Cam Newton is the cause of Joe's pain, and you hate to see it.  In my humble opinion, Cam Newton is a loud-mouthed bum whom I have hated for most of a decade, and I can't help but revel in his precipitous decline.  Here's a guy who's only saving graces are his arm strength and his legs, and right now he doesn't have either.  Now he has to rely on his concussion-addled mind to win games, and that clearly ain't happening.  As for Joe, he has an elite team being dragged down by poor QB play and the highest points against in the league (by a considerable margin).  He's put up almost 200 points, with his QB only providing 17 of them.  I expect Joe to rebound soon with or without Cam at QB.  He is still a very dangerous team.
 
-### Scrappy Doos
+## Scrappy Doos
 
 9 - **Eagle Eye**
 
@@ -199,7 +199,7 @@ As of now, Kyler has been benched, but Andrew wishes that was his biggest proble
 
 The people's champion, Tim's year started off with a heartbreaking loss to your lovable champion by a score of 0.31 points -- the new record for closest game (previous was Cheryl winning last year by 0.39).  It's been downhill since.  Another case of a QB situation that is just the tip of the iceberg, Tim has been yet another casualty of the Steelers' ineptitude and of AB stealing targets from other Patriot receivers.  When Le'Veon Bell is your team's only reliable player, you might be in trouble.  The bright side is that Tim has a lot of players under-performing, and one or two of them getting it going could put him back near the middle of the pack.  Unfortunately, the last thing he wants to see right now is Dan's red rocket team.
 
-### Screwed the Pooch
+## Screwed the Pooch
 
 13 - **Kiss the Baby**
 
