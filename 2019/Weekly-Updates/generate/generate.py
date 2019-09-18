@@ -92,10 +92,12 @@ class Generator(object):
         metadata["Points"] = sum([
             x[team_name] for x in team_results
         ])
+        metadata["PointsAvg"] = metadata["Points"] / len(team_results)
         metadata["PointsAgainst"] = sum([
             value for x in team_results
-            for (key, value) in x.items() if key.lower() != team_name.lower()  
+            for (key, value) in x.items() if key.lower() != team_name.lower()
         ])
+        metadata["PointsAgainstAvg"] = metadata["PointsAgainst"] / len(team_results)
 
         return metadata
 
