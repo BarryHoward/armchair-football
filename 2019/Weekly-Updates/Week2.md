@@ -83,7 +83,7 @@ This season started off with all sorts or surprises both in the NFL and in our l
 
 > But champions dig themselves out of TE-shaped holes all the time, so she should have a chance to improve on this minor issue.
 
-Novice or Secret Genius?  In a year where everyone seemingly has a major draft bust and injuries grip the league in fear, Danielle seemingly made all the right moves on draft day and has leaped to the front of the back.  More than anything, her success can be traced to the breakout of the Ravens offense and the emergence of Mark Andrews as one the league's top TE -- something we clearly all saw coming.  AJ Green might be out longer than anticipated and Ekeler's stellar start should only last as long as Melvin Gordon is holding out, but otherwise there is nothing to suggest that a little maintenance will keep this team in championship form for the rest of the season.
+Novice or Secret Genius?  In a year where everyone seemingly has a major draft bust as injuries abound, Danielle seemingly made all the right moves on draft day and has leaped to the front of the pack.  More than anything, her success can be traced to the breakout of the Ravens offense and the emergence of Mark Andrews as one the league's top TE -- something we clearly all saw coming.  AJ Green might be out longer than anticipated and Ekeler's stellar start should only last as long as Melvin Gordon is holding out, but otherwise there is nothing to suggest that a little maintenance won't keep this team in championship form for the rest of the season.
 
 ### 2 - The Art of the Deal
 
@@ -93,7 +93,7 @@ Novice or Secret Genius?  In a year where everyone seemingly has a major draft b
 
 > So if y'all are looking to make some trades that will piss off the rest of the league, I'm always listening.
 
-Welp, the defending champion is back to his old tricks, acquiring top-tier talent in risky trades that might pay huge dividends.  After acquiring a hold-out RB1 and a WR1 with a few accusations over his head and more than a few mental issues, Barry is well on his way to dominating the league for a second year in a row if his perilous trades bear fruit.  But even if they don't, he still has a solid team with better bench depth than he had two weeks ago thanks to his fortunate avoiding of the injuries plaguing the rest of the league amd some savvy waiver wire pickups.  This week will should be a great matchup, as the trophy-owner takes on upstart Danielle in what might be a possible playoff preview.
+Welp, the defending champion is back to his old tricks, acquiring top-tier talent in risky trades that might pay huge dividends.  After acquiring a hold-out RB1 and a WR1 with a few accusations over his head and more than a few mental issues, Barry is well on his way to dominating the league for a second year in a row if his perilous trades bear fruit.  But even if they don't, he still has a solid team with better bench depth than he had two weeks ago thanks to his ability to avoid injuries amd some savvy waiver wire pickups.  This week should be a great matchup, as the trophy-owner takes on upstart Danielle in what might be a possible playoff preview.
 
 ## The Pack
 
@@ -135,7 +135,7 @@ Case in point on why Preseason rankings are not to be trusted, almost everything
 
 > It seems that only Jack and Yahoo think that Jordan Howard is going to be relevant in the Eagles offense this year.
 
-Stop me if you've heard this before:  Jack dominates one week, Jack gets crushed the next, Jack is in the middle of the pack.  Once again, Jack-in-the-box starts the season bouncing up and down -- going from nightmare fuel to harmless joke.  After breakout performances by Sammy Watkins and Deshaun Watson, both under-performed, and Jack suffered a pretty rough defeat.  His inconsistency might continue unfortunately, since Jordan Howard turned out to be the bust we all feared, and he is without a true RB2.  A few great players and a few not-so-great players means Jack will continue to be inconsistent until he can fill some gaps in his lineup.  I still think this has the foundation of playoff team, but there's a lot of work to be done.
+Stop me if you've heard this before:  Jack dominates one week, Jack gets crushed the next, Jack is in the middle of the pack.  Once again, Jack-in-the-box starts the season bouncing up and down -- going from nightmare fuel to harmless joke.  After breakout performances by Sammy Watkins and Deshaun Watson, both under-performed, and Jack suffered a pretty rough defeat.  His inconsistency might continue unfortunately, since Jordan Howard turned out to be the bust we all feared, and he is without a true RB2.  A few great players and a few not-so-great players means Jack will probably bounce around week-to-week until he can fill some gaps in his lineup.  I still think this has the foundation of playoff team, but there's a lot of work to be done.
 
 ### 7 - Ben's Notable Team
 
@@ -145,7 +145,7 @@ Stop me if you've heard this before:  Jack dominates one week, Jack gets crushed
 
 > Also, it will help him significantly if Baker Mayfield is as good as Mike thinks he is.
 
-Narrator:  He isn't.  After fleecing Jen for Tyler Boyd, Ben was the latest person to grow tired of AB's shenanigans, as he shipped him off to Barry for a much more stable receiver.  Ben's real issue, however, might be that Cleveland is starting to play like the Browns, which is having an effect on cocksure Baker Mayfield.  Unfortunately, a little ice cream is his only option unless Andy Dalton regains that Ginger magic.  This combined with him STILL starting Lesean McCoy at RB2 means that Ben may need to make some course corrections in the coming weeks, though his competition is pretty week for the next two weeks.
+Ron Howard Voice:  He isn't.     After fleecing Jen for Tyler Boyd, Ben was the latest person to grow tired of AB's shenanigans, as he shipped him off to Barry for a much more stable receiver.  Ben's real issue, however, might be that Cleveland is starting to play like the Browns, which is having an effect on cocksure Baker Mayfield.  Unfortunately, a little ice cream is his only option unless Andy Dalton regains that Ginger magic.  This combined with him STILL starting Lesean McCoy at RB2 means that Ben may need to make some course corrections in the coming weeks, though his competition is pretty soft for the his next two games.
 
 ### 8 - noLuck
 
@@ -177,7 +177,7 @@ Only one can live while the other survives.  Desean Jackson, in spite of my pred
 
 > A regression by the Chief's offense or a lengthy Melvin Gordon holdout may be the only things that can possibly keep Jeff out of the playoffs this year
 
-Oh, Jeff, you poetic, noble land-mermaid, I'm sorry this has happened to you again.  I feel partially responsible that in my rush to crown Jeff preseason champion, I did not foresee the tornado of severed limbs that would befall him.  Tyreek Hill, Ben Roethlisberger, Hunter Henry, Alshon Jeffrey, and Tyrell Williams are just some of the players injured on Jeff's watch.  Last year's Mr. Unlucky has outdone himself this time, as despite having a championship team in his infirmary, Jeff will need to pull himself out of an early season hole.  Luckily, he should make some good money now that his life story is being made into a major motion picture.  A heartwarming tale of a down-on-his-luck underdog that audiences are rooting for, Joker is coming to theaters October 4th.
+Oh, Jeff, you poetic, noble land-mermaid, I'm sorry this has happened to you again.  I feel partially responsible that in my rush to crown Jeff preseason champion, I did not foresee the tornado of severed limbs that would befall him.  Tyreek Hill, Ben Roethlisberger, Hunter Henry, Alshon Jeffrey, and Tyrell Williams are just some of the players injured on Jeff's watch.  Last year's Mr. Unlucky has outdone himself this time, as despite having a championship team in his infirmary, Jeff will need to pull himself out of an early season hole.  Luckily, he should make some good money now that his life story is being made into a major motion picture.  A heartwarming tale of a down-on-his-luck underdog that audiences are rooting for, Joker is coming to theaters on October 4th.
 
 ### 11 - Eat Dawg Eat
 
@@ -197,7 +197,7 @@ As of now, Kyler has been benched, but Andrew wishes that was his biggest proble
 
 > Now he probably has nobody to fall back on if Carr struggles in year 2 under Gruden.
 
-The people's champion, Tim's year started off with a heartbreaking loss to your lovable champion by a score of 0.31 points -- the new record for closest game (previous was Cheryl winning last year by 0.39).  It's been downhill since.  Another case of a QB situation that is just the tip of the iceberg, Tim has been yet another casualty of the Steelers' ineptitude and of AB stealing targets from other Patriot receivers.  When Le'Veon Bell is your team's only reliable player, you might be in trouble.  The bright side is that Tim has a lot of players under-performing, and one or two of them getting it going could put him back near the middle of the pack.  Unfortunately, the last thing he wants to see right now is Dan's red rocket team.
+The people's champion, Tim's year started off with a heartbreaking loss to your lovable scribe by a score of 0.31 points -- the new record for closest game (previous was Cheryl winning last year by 0.39).  It's been downhill since.  Another case of a QB situation that is just the tip of the iceberg, Tim has been yet another casualty of the Steelers' ineptitude and of AB stealing targets from other Patriot receivers.  When Le'Veon Bell is your team's only reliable player, you might be in trouble.  The bright side is that Tim has a lot of players under-performing, and one or two of them getting it going could put him back near the middle of the pack.  Unfortunately, the last thing he wants to see right now is Dan's red rocket team.
 
 ## Screwed the Pooch
 
