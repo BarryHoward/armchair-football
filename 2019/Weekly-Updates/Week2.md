@@ -71,7 +71,7 @@ Jonathan was REALLY not happy.
 
 # Power Rankings
 
-This season started off with all sorts or surprises both in the NFL and in our league.  With this in mind, I think my preseason rankings were pretty close with a few notable exceptions.  Enjoy the new format.
+This season started off with all sorts or surprises both in the NFL and in our league.  With this in mind, I think my preseason rankings were pretty close with a few notable exceptions.  Enjoy the new format.  The tiers are dog-themed, because for a lot of teams, these first few weeks have been ruff... I need sleep.
 
 ## Top Dogs
 
