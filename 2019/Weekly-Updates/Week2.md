@@ -73,7 +73,7 @@ Jonathan was REALLY not happy.
 
 This season started off with all sorts or surprises both in the NFL and in our league.  With this in mind, I think my preseason rankings were pretty close with a few notable exceptions.  Enjoy the new format.
 
-### Championship Contenders
+### Top Dogs
 
 1 - **Mrs. OBJ**
 
@@ -94,6 +94,8 @@ Novice or Secret Genius?  In a year where everyone seemingly has a major draft b
 > So if y'all are looking to make some trades that will piss off the rest of the league, I'm always listening.
 
 Welp, the defending champion is back to his old tricks, acquiring top-tier talent in risky trades that might pay huge dividends.  After acquiring a hold-out RB1 and a WR1 with a few accusations over his head and more than a few mental issues, Barry is well on his way to dominating the league for a second year in a row if his perilous trades bear fruit.  But even if they don't, he still has a solid team with better bench depth than he had two weeks ago thanks to his fortunate avoiding of the injuries plaguing the rest of the league amd some savvy waiver wire pickups.  This week will should be a great matchup, as the trophy-owner takes on upstart Danielle in what might be a possible playoff preview.
+
+### The Pack
 
 3 - **Haters Gonna Hate**
 
@@ -135,8 +137,6 @@ Case in point on why Preseason rankings are not to be trusted, almost everything
 
 Stop me if you've heard this before:  Jack dominates one week, Jack gets crushed the next, Jack is in the middle of the pack.  Once again, Jack-in-the-box starts the season bouncing up and down -- going from nightmare fuel to harmless joke.  After breakout performances by Sammy Watkins and Deshaun Watson, both under-performed, and Jack suffered a pretty rough defeat.  His inconsistency might continue unfortunately, since Jordan Howard turned out to be the bust we all feared, and he is without a true RB2.  A few great players and a few not-so-great players means Jack will continue to be inconsistent until he can fill some gaps in his lineup.  I still think this has the foundation of playoff team, but there's a lot of work to be done.
 
-### Middle Men
-
 7 - **Ben's Notable Team**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
@@ -156,6 +156,8 @@ Narrator:  He isn't.  After fleecing Jen for Tyler Boyd, Ben was the latest pers
 > He is pinning all his hopes on the increasingly injury-prone Cam Newton with no legitimate backup in place
 
 Sometimes teams struggle, and the cause eludes me for quite a while.  This is not one of those times.  Cam Newton is the cause of Joe's pain, and you hate to see it.  In my humble opinion, Cam Newton is a loud-mouthed bum whom I have hated for most of a decade, and I can't help but revel in his precipitous decline.  Here's a guy who's only saving graces are his arm strength and his legs, and right now he doesn't have either.  Now he has to rely on his concussion-addled mind to win games, and that clearly ain't happening.  As for Joe, he has an elite team being dragged down by poor QB play and the highest points against in the league (by a considerable margin).  He's put up almost 200 points, with his QB only providing 17 of them.  I expect Joe to rebound soon with or without Cam at QB.  He is still a very dangerous team.
+
+### Scrappy Doos
 
 9 - **Eagle Eye**
 
@@ -187,8 +189,6 @@ Oh, Jeff, you poetic, noble land-mermaid, I'm sorry this has happened to you aga
 
 As of now, Kyler has been benched, but Andrew wishes that was his biggest problem.  He may have to absorb two additional busts with OJ Howard putting up 3 points over 2 weeks, and Damien Williams having volume issues.  Two potential busts with no depth to replace them and a QB not panning out yet means Andrew is pretty firmly on the struggle bus for a while.  While there is time for this team to turn itself around, it probably isn't long before he starts telling us how well he's doing in his other league.
 
-### Toilet Teeterers
-
 12 - **Azan-axe**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
@@ -199,6 +199,8 @@ As of now, Kyler has been benched, but Andrew wishes that was his biggest proble
 
 The people's champion, Tim's year started off with a heartbreaking loss to your lovable champion by a score of 0.31 points -- the new record for closest game (previous was Cheryl winning last year by 0.39).  It's been downhill since.  Another case of a QB situation that is just the tip of the iceberg, Tim has been yet another casualty of the Steelers' ineptitude and of AB stealing targets from other Patriot receivers.  When Le'Veon Bell is your team's only reliable player, you might be in trouble.  The bright side is that Tim has a lot of players under-performing, and one or two of them getting it going could put him back near the middle of the pack.  Unfortunately, the last thing he wants to see right now is Dan's red rocket team.
 
+### Screwed the Pooch
+
 13 - **Kiss the Baby**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
@@ -207,7 +209,7 @@ The people's champion, Tim's year started off with a heartbreaking loss to your 
 
 > Hopefully distance away from the rest of the league won't hamstring her trading ability, so that she can capitalize on this early momentum.
 
-Any momentum Alicia had is officially dead.  Joe Mixon has been a bust so far, Njoku left week 2 without scoring any points, and Phillip Rivers didn't exactly inspire as a QB1.  Overall, her team has the potential to pull out of this early hole, but the results so far have not been pretty.  Now an early contender for the toilet bowl, she's going to have to dookie it out this week to stay ahead of her main competition Alex.  I would say more here, but she doesn't talk to me.
+Any momentum Alicia had is officially dead.  Joe Mixon has been a bust so far, Njoku left week 2 without scoring any points, and Phillip Rivers didn't exactly inspire as a QB1.  Overall, her team has the potential to pull out of this early hole, but the results so far have not been pretty.  Now an early contender for the toilet bowl, she's going to have to dookie it out this week to stay ahead of her main competition Alex.  I would say more here, but Alicia doesn't talk to me.
 
 14 - **A1 Since Day 1**
 
@@ -217,4 +219,4 @@ Any momentum Alicia had is officially dead.  Joe Mixon has been a bust so far, N
 
 > This little lady put all her faith in the little man from the team for little people.  Now her fate is linked with that of the New Orleans offense
 
-A poor bedfellow the Saints offense has turned out to be.  Alex put all her eggs in one basket, and Aaron Donald just smashed that basket on top of his head.  The team Alex drafted was not ideal, but now it's a full-blown catastrophe.  Drew Brees on IR not only drops her QB1, but also severely limits her WR1 and TE1.  Unfortunately, his all happened before Brees put up any points, so Alex managed only a measly 55 points last week, not only costing her a loss, but plummeting her to the bottom of the standings with little hope in sight.  It may be early in the season, but I would be impressed if she can recover from this.
+A poor bedfellow the Saints offense has turned out to be.  Alex put all her eggs in one basket, and Aaron Donald just smashed that basket on top of his head.  The team Alex drafted was not ideal, but now it's a full-blown catastrophe.  Drew Brees on IR not only drops her QB1, but also severely limits her WR1 and TE1.  Unfortunately, this all happened before Brees put up any points, so Alex managed only a measly 55 points last week, not only costing her a loss, but plummeting her to the bottom of the standings with little hope in sight.  It may be early in the season, but I would be impressed if she can recover from this.
