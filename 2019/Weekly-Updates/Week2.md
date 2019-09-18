@@ -78,7 +78,7 @@ This season started off with all sorts or surprises both in the NFL and in our l
 1 - **Mrs. OBJ**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 10 | 2-0-0 | 279.71 | 187.23 | 139.855 | 93.615 |
 
 ```But champions dig themselves out of TE-shaped holes all the time, so she should have a chance to improve on this minor issue.```
@@ -88,7 +88,7 @@ Novice or Secret Genius?  In a year where everyone seemingly has a major draft b
 2 - **The Art of the Deal**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | -- | 2-0-0 | 240.6 | 199.46 | 120.3 | 99.73 |
 
 ```So if y'all are looking to make some trades that will piss off the rest of the league, I'm always listening.```
@@ -98,7 +98,7 @@ Welp, the defending champion is back to his old tricks, acquiring top-tier talen
 3 - **Haters Gonna Hate**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 2-0-0 | 211.81 | 181.93 | 105.905 | 90.965 |
 
 ```Jonathan knows by now that 'good' isn't good enough come playoff time, so I hardly expect him to be complacent.```
@@ -108,7 +108,7 @@ If you were to talk to Jonathan over the last week, you might not realize that h
 4 - **red rocket**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 2-0-0 | 214.05 | 180.08 | 107.025 | 90.04 |
 
 ```While heavily dependent on a resurgent year from Tom Brady...```
@@ -118,7 +118,7 @@ One of only a handful of people that likes Antonio Brown at the moment, Dan's be
 5 - **Silver Snakes**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 5 | 2-0-0 | 221.54 | 176.14 | 110.77 | 88.07 |
 
 ```She came away with solid RB and WR groups but dreadful QB and TE groups -- if you can even call them that, since she only got one QB.```
@@ -128,7 +128,7 @@ Case in point on why Preseason rankings are not to be trusted, almost everything
 6 - **The Paradise Process**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 1-1-0 | 229.63 | 211.09 | 114.815 | 105.545 |
 
 ```It seems that only Jack and Yahoo think that Jordan Howard is going to be relevant in the Eagles offense this year.```
@@ -140,7 +140,7 @@ Stop me if you've heard this before:  Jack dominates one week, Jack gets crushed
 7 - **Ben's Notable Team**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 2-0-0 | 207.45 | 184.96 | 103.725 | 92.48 |
 
 ```Also, it will help him significantly if Baker Mayfield is as good as Mike thinks he is.```
@@ -150,7 +150,7 @@ Narrator:  He isn't.  After fleecing Jen for Tyler Boyd, Ben was the latest pers
 8 - **noLuck**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 5 | 0-2-0 | 198.88 | 293.91 | 99.44 | 146.955 |
 
 ```He is pinning all his hopes on the increasingly injury-prone Cam Newton with no legitimate backup in place```
@@ -160,7 +160,7 @@ Sometimes teams struggle, and the cause eludes me for quite a while.  This is no
 9 - **Eagle Eye**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 4 | 1-1-0 | 214.26 | 171.42 | 107.13 | 85.71 |
 
 ```Nelson Agholor and Desean Jackson are probably not starters on a championship team```
@@ -170,7 +170,7 @@ Only one can live while the other survives.  Desean Jackson, in spite of my pred
 10 - **2SpoonSwaggu**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 9 | 0-2-0 | 183.19 | 232.97 | 91.595 | 116.485 |
 
 ```A regression by the Chief's offense or a lengthy Melvin Gordon holdout may be the only things that can possibly keep Jeff out of the playoffs this year```
@@ -180,7 +180,7 @@ Oh, Jeff, you poetic, noble land-mermaid, I'm sorry this has happened to you aga
 11 - **Eat Dawg Eat**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 5 | 0-2-0 | 186.23 | 236.42 | 93.115 | 118.21 |
 
 ```Kyler needs to play well or he needs to get another QB```
@@ -192,7 +192,7 @@ As of now, Kyler has been benched, but Andrew wishes that was his biggest proble
 12 - **Azan-axe**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | -- | 0-2-0 | 180.36 | 205.48 | 90.18 | 102.74 |
 
 ```Now he probably has nobody to fall back on if Carr struggles in year 2 under Gruden.```
@@ -202,7 +202,7 @@ The people's champion, Tim's year started off with a heartbreaking loss to your 
 13 - **Kiss the Baby**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 4 | 0-2-0 | 171.84 | 188.09 | 85.92 | 94.045 |
 
 ```Hopefully distance away from the rest of the league won't hamstring her trading ability, so that she can capitalize on this early momentum.```
@@ -212,7 +212,7 @@ Any momentum Alicia had is officially dead.  Joe Mixon has been a bust so far, N
 14 - **A1 Since Day 1**
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Change |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | -- | 0-2-0 | 164.22 | 254.59 | 82.11 | 127.295 |
 
 ```This little lady put all her faith in the little man from the team for little people.  Now her fate is linked with that of the New Orleans offense```
