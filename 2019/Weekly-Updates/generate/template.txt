@@ -43,7 +43,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | {{single_rank.Metadata.Change}} | {{single_rank.Metadata.Wins}}-{{single_rank.Metadata.Losses}}-{{single_rank.Metadata.Ties}} | {{single_rank.Metadata.Points}} | {{single_rank.Metadata.PointsAgainst}} | {{single_rank.Metadata.PointsAvg}} | {{single_rank.Metadata.PointsAgainstAvg}} |
 
-```{{ single_rank.Quote }}```
+    {{ single_rank.Quote }}
 
 {{ single_rank.Text }}
 {% endfor %}{% endif %}
