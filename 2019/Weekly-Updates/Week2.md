@@ -75,7 +75,7 @@ This season started off with all sorts or surprises both in the NFL and in our l
 
 ## Top Dogs
 
-1 - **Mrs. OBJ**
+### 1 - Mrs. OBJ
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -85,7 +85,7 @@ This season started off with all sorts or surprises both in the NFL and in our l
 
 Novice or Secret Genius?  In a year where everyone seemingly has a major draft bust and injuries grip the league in fear, Danielle seemingly made all the right moves on draft day and has leaped to the front of the back.  More than anything, her success can be traced to the breakout of the Ravens offense and the emergence of Mark Andrews as one the league's top TE -- something we clearly all saw coming.  AJ Green might be out longer than anticipated and Ekeler's stellar start should only last as long as Melvin Gordon is holding out, but otherwise there is nothing to suggest that a little maintenance will keep this team in championship form for the rest of the season.
 
-2 - **The Art of the Deal**
+### 2 - The Art of the Deal
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -97,7 +97,7 @@ Welp, the defending champion is back to his old tricks, acquiring top-tier talen
 
 ## The Pack
 
-3 - **Haters Gonna Hate**
+### 3 - Haters Gonna Hate
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -107,7 +107,7 @@ Welp, the defending champion is back to his old tricks, acquiring top-tier talen
 
 If you were to talk to Jonathan over the last week, you might not realize that he is sitting at 2-0 after dismantling rival Jack.  Cranky that trades are happening without him, Jonathan has been mostly quiet moves-wise, leaning on a solid roster to dispatch his first two opponents.  With Devonta Freeman starting to look like a bust and Gallup going down for a few weeks, Mr. Reed may need to make a little more noise if he wants to hang with the pack long-term, but for now he's still a solid contender off to a good start for the year.  He goes into an even matchup with Anthony this week.
 
-4 - **red rocket**
+### 4 - red rocket
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -117,7 +117,7 @@ If you were to talk to Jonathan over the last week, you might not realize that h
 
 One of only a handful of people that likes Antonio Brown at the moment, Dan's bet on Mr. Brady looks like it's going to payout big, as the 50 year old avocado husk now has one of the best receiving corps in the league to throw to.  This in addition to Dalvin Cook ironically being healthy for once has led to red rocket's hot start.  While not exactly obliterating his opponents, Dan has managed to put up decent numbers both weeks against weaker opponents to remain undefeated so far.  After a struggling Tim, his schedule tightens up significantly, so he will need to up his game a bit if he wants to keep out of the loss column.
 
-5 - **Silver Snakes**
+### 5 - Silver Snakes
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -127,7 +127,7 @@ One of only a handful of people that likes Antonio Brown at the moment, Dan's be
 
 Case in point on why Preseason rankings are not to be trusted, almost everything I said about Jen's team has been proven incorrect in less than two weeks --  the exception being my prediction that she would make an early panic trade.  The team that she didn't trade away, however, has been a revelation.  Her 'dreadful' TE group has been solid, with Waller in particular having some good upside.  In her QB (not Kirk Cousins), she has found her own mini-Mahomes that has been carrying an otherwise middling squad.  For Jen, a lot will come down to whether the Ravens offense can stay hot and if Conner, Evans, and Diggs decide they want to start scoring points again.  This week she has a tough matchup with the down-but-dangerous noLuck squad.
 
-6 - **The Paradise Process**
+### 6 - The Paradise Process
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -137,7 +137,7 @@ Case in point on why Preseason rankings are not to be trusted, almost everything
 
 Stop me if you've heard this before:  Jack dominates one week, Jack gets crushed the next, Jack is in the middle of the pack.  Once again, Jack-in-the-box starts the season bouncing up and down -- going from nightmare fuel to harmless joke.  After breakout performances by Sammy Watkins and Deshaun Watson, both under-performed, and Jack suffered a pretty rough defeat.  His inconsistency might continue unfortunately, since Jordan Howard turned out to be the bust we all feared, and he is without a true RB2.  A few great players and a few not-so-great players means Jack will continue to be inconsistent until he can fill some gaps in his lineup.  I still think this has the foundation of playoff team, but there's a lot of work to be done.
 
-7 - **Ben's Notable Team**
+### 7 - Ben's Notable Team
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -147,7 +147,7 @@ Stop me if you've heard this before:  Jack dominates one week, Jack gets crushed
 
 Narrator:  He isn't.  After fleecing Jen for Tyler Boyd, Ben was the latest person to grow tired of AB's shenanigans, as he shipped him off to Barry for a much more stable receiver.  Ben's real issue, however, might be that Cleveland is starting to play like the Browns, which is having an effect on cocksure Baker Mayfield.  Unfortunately, a little ice cream is his only option unless Andy Dalton regains that Ginger magic.  This combined with him STILL starting Lesean McCoy at RB2 means that Ben may need to make some course corrections in the coming weeks, though his competition is pretty week for the next two weeks.
 
-8 - **noLuck**
+### 8 - noLuck
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -159,7 +159,7 @@ Sometimes teams struggle, and the cause eludes me for quite a while.  This is no
 
 ## Scrappy Doos
 
-9 - **Eagle Eye**
+### 9 - Eagle Eye
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -169,7 +169,7 @@ Sometimes teams struggle, and the cause eludes me for quite a while.  This is no
 
 Only one can live while the other survives.  Desean Jackson, in spite of my prediction, had a monster first game for Anthony.  Desean then got broken in half by the Falcons secondary, and Agholor suddenly becomes a top WR.  It seems I was half right in that one -- but not both  -- of those receivers can start for a championship team.  Despite all the Eagle WR jockeying, Anthony has managed to go 1-1.  But diving into these results... when a defense puts up 1/3 of a team's points, and the win comes at the expense of an opponent that only scored 55, one begins to question sustainability.  Anthony may have moved up in the rankings, but I can't help but think he shouldn't unpack his things, as he might be heading back down real soon.
 
-10 - **2SpoonSwaggu**
+### 10 - 2SpoonSwaggu
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -179,7 +179,7 @@ Only one can live while the other survives.  Desean Jackson, in spite of my pred
 
 Oh, Jeff, you poetic, noble land-mermaid, I'm sorry this has happened to you again.  I feel partially responsible that in my rush to crown Jeff preseason champion, I did not foresee the tornado of severed limbs that would befall him.  Tyreek Hill, Ben Roethlisberger, Hunter Henry, Alshon Jeffrey, and Tyrell Williams are just some of the players injured on Jeff's watch.  Last year's Mr. Unlucky has outdone himself this time, as despite having a championship team in his infirmary, Jeff will need to pull himself out of an early season hole.  Luckily, he should make some good money now that his life story is being made into a major motion picture.  A heartwarming tale of a down-on-his-luck underdog that audiences are rooting for, Joker is coming to theaters October 4th.
 
-11 - **Eat Dawg Eat**
+### 11 - Eat Dawg Eat
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -189,7 +189,7 @@ Oh, Jeff, you poetic, noble land-mermaid, I'm sorry this has happened to you aga
 
 As of now, Kyler has been benched, but Andrew wishes that was his biggest problem.  He may have to absorb two additional busts with OJ Howard putting up 3 points over 2 weeks, and Damien Williams having volume issues.  Two potential busts with no depth to replace them and a QB not panning out yet means Andrew is pretty firmly on the struggle bus for a while.  While there is time for this team to turn itself around, it probably isn't long before he starts telling us how well he's doing in his other league.
 
-12 - **Azan-axe**
+### 12 - Azan-axe
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -201,7 +201,7 @@ The people's champion, Tim's year started off with a heartbreaking loss to your 
 
 ## Screwed the Pooch
 
-13 - **Kiss the Baby**
+### 13 - Kiss the Baby
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -211,7 +211,7 @@ The people's champion, Tim's year started off with a heartbreaking loss to your 
 
 Any momentum Alicia had is officially dead.  Joe Mixon has been a bust so far, Njoku left week 2 without scoring any points, and Phillip Rivers didn't exactly inspire as a QB1.  Overall, her team has the potential to pull out of this early hole, but the results so far have not been pretty.  Now an early contender for the toilet bowl, she's going to have to dookie it out this week to stay ahead of her main competition Alex.  I would say more here, but Alicia doesn't talk to me.
 
-14 - **A1 Since Day 1**
+### 14 - A1 Since Day 1
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|

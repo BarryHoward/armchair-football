@@ -37,7 +37,7 @@
 {% for single_rank in week.PowerRankings.Ranks %}{% if loop.index|string in week.PowerRankings.Tiers.keys() %}
 ## {{ week.PowerRankings.Tiers[loop.index|string] }}
 {% endif %}
-{{loop.index}} - **{{ single_rank.Team }}**
+### {{loop.index}} - {{ single_rank.Team }}
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
 |:---:|:---:|:---:|:---:|:---:|:---:|
