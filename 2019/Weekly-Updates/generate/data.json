@@ -376,6 +376,66 @@
             ]
         },
         {   "PowerRankings": {
+                "Introduction": "Hello! It is I, your guest power ranker, Jen. Barry is taking a BYE this week to devote all his emotional energy to the Braves playoff run.",
+                "Ranks": [
+                    {
+                        "Team": "Kiss the Baby",
+                        "Text": "Alicia is our waiver queen of the North. This might be a bold prediction, but I'm a bold person. I feel like this week, all of the teams that Alica's players play for realized that they were like, good at their jobs, which is good for her team's future. Was that a coherent sentence? I'm new here."
+                    },
+                    {
+                        "Team": "noLuck",
+                        "Text": "Listen, Joe would be hands-down my #1 this week if I hadn't just noticed his whole team is on week 5 Byes. THIS IS OUR WEEK TO TAKE BACK THE POINTS LEAD PEOPLE!! Real talk, after this week he's going to continue his murder spree."
+                    },
+                    {
+                        "Team": "The Art of the Deal",
+                        "Text": "I hate to make this about me, but like, I did a great thing this week for all of us. THANK GOD we don't have to hear Barry go on about how he's 'been undefeated for a whole calendar year' in fantasy football."
+                    },
+                    {
+                        "Team": "Eagle Eye",
+                        "Text": "I, for one, am excited at the prospect of a defense carrying someone so far in this league, especially when the defense carrying Anthony's team means that my beloved Patriots are killin' it."
+                    },
+                    {
+                        "Team": "red rocket",
+                        "Text": "I asked Dan where I should Power Rank him and though he didn't answer me with a number, his face said fifth. So Dan is fifth."
+                    },
+                    {
+                        "Team": "Mrs. OBJ",
+                        "Text": "This one was hard, and I just have a lot of questions. On the one hand, is Austin Ekler really going to lose *all* of his touches to Melvin Gordon? On the other hand, can the Falcons keep an O-line healthy enough to let Matt Ryan throw the ball? On my third hand, what is happening to OBJ?"
+                    },
+                    {
+                        "Team": "Ben's Notable Team",
+                        "Text": "I'm very excited to see how Ben does when his golden boy Golden Tate returns this week. Maybe Tate has been playing beer pong in the garage with Danny Dime too. Or he could suck! Should be exciting."
+                    },
+                    {
+                        "Team": "Silver Snakes",
+                        "Text": "I'm big enough to admit that I'm not the real deal. This is all a fluke. Only one player on my team shows up each week, last week it was Mike Evans, this week it was James Conner. We're just not ever going to be on the same page. IT'S FINE. I'm fine."
+                    },
+                    {
+                        "Team": "Haters Gonna Hate",
+                        "Text": "I always looked at Jonathan as one of the fantasy elites in this league, but for some reason he appears quite mediocre this year. Jonathan, as a test I think you should trade for James White so you can always have all the Patriots RBs playing at the same time. There's a much better chance that you'll score points that way."
+                    },
+                    {
+                        "Team": "The Paradise Process",
+                        "Text": "Much like the Miami Dolphins, Jack is *floundering*. This is all just a fish pun."
+                    },
+                    {
+                        "Team": "2SpoonSwaggu",
+                        "Text": "Eleventh is a comfort place for Jeff. Just far away enough from toilet that he won't make any crazy trade moves."
+                    },
+                    {
+                        "Team": "Eat Dawg Eat",
+                        "Text": "Andrew, the people want WRs, share the love man! Then maybe you'll get a nice QB in return and move up in these rankings."
+                    },
+                    {
+                        "Team": "Azan-axe",
+                        "Text": "Tim, quite frankly I just think your team is bad, but for some reason you're winning over superior teams. Some things are unexplainable."
+                    },
+                    {
+                        "Team": "A1 Since Day 1",
+                        "Text": "Alex, congrats on your win this week. I think you can beat Tim this week, except for the fact that he keeps getting lucky wins against people. I don't know how he's doing it."
+                    }
+                ],
+                "Tiers": {},
                 "Author": "Jen (PATHETIC)"
             },
             "Results": [
