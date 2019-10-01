@@ -33,6 +33,8 @@
 
 {% if week.get("PowerRankings", None) %}# Power Rankings
 
+Author: {{ week.PowerRankings.Author }}
+
 {{ week.PowerRankings.Introduction }}
 {% for single_rank in week.PowerRankings.Ranks %}{% if loop.index|string in week.PowerRankings.Tiers.keys() %}
 ## {{ week.PowerRankings.Tiers[loop.index|string] }}

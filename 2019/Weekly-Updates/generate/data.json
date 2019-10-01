@@ -79,7 +79,8 @@
                     "1": "Championship Contenders",
                     "7": "Middle Men",
                     "12": "Toilet Teeterers"
-                }
+                },
+                "Author": "Barry (The Art of the Deal)"
             }
         },
         {
@@ -259,7 +260,8 @@
                     "3": "The Pack",
                     "9": "Scrappy Doos",
                     "13": "Screwed the Pooch"
-                }
+                },
+                "Author": "Barry (The Art of the Deal)"
             },
             "Results": [
                 {
@@ -373,7 +375,9 @@
                 }
             ]
         },
-        {
+        {   "PowerRankings": {
+                "Author": "Jen (PATHETIC)"
+            },
             "Results": [
                 {
                     "The Art of the Deal": 76.30,
