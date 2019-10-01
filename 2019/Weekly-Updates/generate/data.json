@@ -263,7 +263,7 @@
             },
             "Results": [
                 {
-                    "The Art of the Deal": 137.90,
+                    "The Art of the Deal": 138,
                     "noLuck": 97.07
                 },
                 {
@@ -289,6 +289,119 @@
                 {
                     "Azan-axe": 77.97,
                     "Silver Snakes": 102.78
+                }
+            ]
+        },
+        {
+            "News": [
+                "Everyone who was good is now bad.",
+                "Everyone who was bad is now good.",
+                "The Falcons suck",
+                "The Falcons really suck",
+                "Why do the Falcons suck so much?"
+            ],
+            "Trades": [
+                {
+                    "Traders": [
+                        {
+                            "Team": "Azan-axe",
+                            "Players": [
+                                "JuJu Smith-Shuster"
+                            ]
+                        },
+                        {
+                            "Team": "Haters Gonna Hate",
+                            "Players": [
+                                "Carson Wentz"
+                            ]
+                        }
+                    ],
+                    "Opinion": "Tim was desperate for QB help, and Jonathan obliged.  If JuJu turns it around, both sides got better.  If not, Jonathan gave away a valuable trade piece for a bust.",
+                    "Results": "Tim has won 2 games since the trade.  Jonathan has lost 2.  Carson has been a solid QB1/2.  Juju still plays for the Steelers.  So far, Tim is very ahead in this trade.",
+                    "Date": "9/18/19"
+                },
+                {
+                    "Traders": [
+                        {
+                            "Team": "Silver Snakes",
+                            "Players": [
+                                "Stefon Diggs",
+                                "Frank Gore",
+                                "Indianapolis"
+                            ]
+                        },
+                        {
+                            "Team": "Ben's Notable Team",
+                            "Players": [
+                                "Larry Fitzgerald"
+                            ]
+                        }
+                    ],
+                    "Opinion": "I wish I could say I was surprised.  Jen gave away 2 solid players and what should be an WR1 for an WR3 due to her obsession with short-term results.  Unless Diggs, Gore, and the entire Indianapolis defense die in a plane crash, there is no way this is an even trade.",
+                    "Results": "Stefon Diggs had a decent game.  Larry Fitzgerald played like you would expect him to.  Jen already regrets another trade.",
+                    "Date": "9/25/19"
+                }
+            ],
+            "Results": [
+                {
+                    "The Art of the Deal": 135.78,
+                    "Mrs. OBJ": 86.96
+                },
+                {
+                    "Haters Gonna Hate": 86.96,
+                    "Eagle Eye": 93.20
+                },
+                {
+                    "2SpoonSwaggu": 106.81,
+                    "The Paradise Process": 105.24
+                },
+                {
+                    "Kiss the Baby": 104.02,
+                    "A1 Since Day 1": 90.94
+                },
+                {
+                    "Eat Dawg Eat": 123.17,
+                    "Ben's Notable Team": 122.90
+                },
+                {
+                    "Azan-axe": 114.36,
+                    "red rocket": 111.69
+                },
+                {
+                    "noLuck": 144.75,
+                    "Silver Snakes": 137.68
+                }
+            ]
+        },
+        {
+            "Results": [
+                {
+                    "The Art of the Deal": 76.30,
+                    "Silver Snakes": 102.93
+                },
+                {
+                    "Haters Gonna Hate": 75.57,
+                    "Kiss the Baby": 126.65
+                },
+                {
+                    "2SpoonSwaggu": 94.60,
+                    "Eagle Eye": 130.38
+                },
+                {
+                    "The Paradise Process": 66.40,
+                    "Mrs. OBJ": 109.38
+                },
+                {
+                    "Eat Dawg Eat": 62.59,
+                    "A1 Since Day 1": 115.14
+                },
+                {
+                    "Azan-axe": 105.30,
+                    "Ben's Notable Team": 87.72
+                },
+                {
+                    "noLuck": 152.55,
+                    "red rocket": 76.65
                 }
             ]
         }
