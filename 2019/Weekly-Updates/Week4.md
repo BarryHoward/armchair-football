@@ -3,13 +3,57 @@
 ## News
 
 <details>
-**No News**
+
+* Everyone who was good is now bad.
+
+* Everyone who was bad is now good.
+
+* The Falcons suck
+
+* The Falcons really suck
+
+* Why do the Falcons suck so much?
+
 </details>
 
 ## Trades
 
 <details>
-**No Trades Were Made**
+
+### Trade 1
+
+#### Exchange
+
+| Azan-axe | Haters Gonna Hate |
+|:---:|:---:|
+| JuJu Smith-Shuster | Carson Wentz |
+
+
+#### Opinion
+
+Tim was desperate for QB help, and Jonathan obliged.  If JuJu turns it around, both sides got better.  If not, Jonathan gave away a valuable trade piece for a bust.
+
+#### Results
+
+Tim has won 2 games since the trade.  Jonathan has lost 2.  Carson has been a solid QB1/2.  Juju still plays for the Steelers.  So far, Tim is very ahead in this trade.
+
+### Trade 2
+
+#### Exchange
+
+| Silver Snakes | Ben's Notable Team |
+|:---:|:---:|
+| Stefon Diggs | Larry Fitzgerald |
+| Frank Gore |  |
+| Indianapolis |  |
+#### Opinion
+
+I wish I could say I was surprised.  Jen gave away 2 solid players and what should be an WR1 for an WR3 due to her obsession with short-term results.  Unless Diggs, Gore, and the entire Indianapolis defense die in a plane crash, there is no way this is an even trade.
+
+#### Results
+
+Stefon Diggs had a decent game.  Larry Fitzgerald played like you would expect him to.  Jen already regrets another trade.
+
 </details>
 
 # Power Rankings

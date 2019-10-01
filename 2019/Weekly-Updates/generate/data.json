@@ -295,6 +295,38 @@
             ]
         },
         {
+            "Results": [
+                {
+                    "The Art of the Deal": 135.78,
+                    "Mrs. OBJ": 86.96
+                },
+                {
+                    "Haters Gonna Hate": 86.96,
+                    "Eagle Eye": 93.20
+                },
+                {
+                    "2SpoonSwaggu": 106.81,
+                    "The Paradise Process": 105.24
+                },
+                {
+                    "Kiss the Baby": 104.02,
+                    "A1 Since Day 1": 90.94
+                },
+                {
+                    "Eat Dawg Eat": 123.17,
+                    "Ben's Notable Team": 122.90
+                },
+                {
+                    "Azan-axe": 114.36,
+                    "red rocket": 111.69
+                },
+                {
+                    "noLuck": 144.75,
+                    "Silver Snakes": 137.68
+                }
+            ]
+        },
+        {
             "News": [
                 "Everyone who was good is now bad.",
                 "Everyone who was bad is now good.",
@@ -344,38 +376,7 @@
                     "Date": "9/25/19"
                 }
             ],
-            "Results": [
-                {
-                    "The Art of the Deal": 135.78,
-                    "Mrs. OBJ": 86.96
-                },
-                {
-                    "Haters Gonna Hate": 86.96,
-                    "Eagle Eye": 93.20
-                },
-                {
-                    "2SpoonSwaggu": 106.81,
-                    "The Paradise Process": 105.24
-                },
-                {
-                    "Kiss the Baby": 104.02,
-                    "A1 Since Day 1": 90.94
-                },
-                {
-                    "Eat Dawg Eat": 123.17,
-                    "Ben's Notable Team": 122.90
-                },
-                {
-                    "Azan-axe": 114.36,
-                    "red rocket": 111.69
-                },
-                {
-                    "noLuck": 144.75,
-                    "Silver Snakes": 137.68
-                }
-            ]
-        },
-        {   "PowerRankings": {
+            "PowerRankings": {
                 "Introduction": "Hello! It is I, your guest power ranker, Jen. Barry is taking a BYE this week to devote all his emotional energy to the Braves playoff run.",
                 "Ranks": [
                     {
