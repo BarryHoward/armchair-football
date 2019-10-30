@@ -1,5 +1,7 @@
 from os.path import dirname, abspath, join
 import json
+from collections import OrderedDict
+
 
 import jinja2
 
@@ -35,9 +37,10 @@ class Generator(object):
 
     def calculate(self):
         results_dict = {
-            "Week%i" % index: x.get("Results", [])
+            index: x.get("Results", [])
             for index, x in enumerate(self.data["Weeks"]) if index > 0 and index <= GEN_INDEX
         }
+        print(results_dict)
 
         for rank in self.week.get("PowerRankings", {}).get("Ranks", []):
             team_name = rank["Team"]
@@ -70,9 +73,10 @@ class Generator(object):
 
     @staticmethod
     def get_team_data(team_name, results_dict):
+
         team_results = [
             x for x in
-            [j for i in results_dict.values() for j in i]
+            [j for i in (results_dict[key] for key in sorted(results_dict.keys())) for j in i]
             if team_name in x.keys()
         ]
 
