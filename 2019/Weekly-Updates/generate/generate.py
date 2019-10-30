@@ -93,12 +93,12 @@ class Generator(object):
         metadata["Points"] = sum([
             x[team_name] for x in team_results
         ])
-        metadata["PointsAvg"] = metadata["Points"] / len(team_results)
+        metadata["PointsAvg"] = round(metadata["Points"] / len(team_results), 2)
         metadata["PointsAgainst"] = sum([
             value for x in team_results
             for (key, value) in x.items() if key.lower() != team_name.lower()
         ])
-        metadata["PointsAgainstAvg"] = metadata["PointsAgainst"] / len(team_results)
+        metadata["PointsAgainstAvg"] = round(metadata["PointsAgainst"] / len(team_results), 2)
 
         metadata["WinsLast3"] = len([
             x for x in team_results[-3:]
@@ -113,14 +113,14 @@ class Generator(object):
             if max(x.values()) == min(x.values())
         ])
         metadata["RecordLast3"] = "%i-%i-%i" % (metadata["WinsLast3"], metadata["LossesLast3"], metadata["TiesLast3"])
-        metadata["PointsAvgLast3"] = sum([
+        metadata["PointsAvgLast3"] = round(sum([
             x[team_name] for x in team_results[-3:]
-        ]) / 3
+        ]) / 3, 2)
 
-        metadata["PointsAgainstAvgLast3"] = sum([
+        metadata["PointsAgainstAvgLast3"] = round(sum([
             value for x in team_results[-3:]
             for (key, value) in x.items() if key.lower() != team_name.lower()
-        ]) / 3
+        ]) / 3, 2)
 
         return metadata
 
