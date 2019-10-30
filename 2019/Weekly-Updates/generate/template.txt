@@ -43,7 +43,7 @@ Author: {{ week.PowerRankings.Author }}
 ### {{loop.index}} - {{ single_rank.Team }}
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | {{single_rank.Metadata.Change}} | {{single_rank.Metadata.Record}} | {{single_rank.Metadata.Points}} | {{single_rank.Metadata.PointsAgainst}} | {{single_rank.Metadata.PointsAvg}} | {{single_rank.Metadata.PointsAgainstAvg}} | {{single_rank.Metadata.RecordLast3}} | {{single_rank.Metadata.PointsAvgLast3}} | {{single_rank.Metadata.PointsAgainstAvgLast3}} |
 
 {% if single_rank.Quote %}> {{ single_rank.Quote }}{% endif %}

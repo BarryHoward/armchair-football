@@ -74,7 +74,7 @@ You beloved wordsmith is back after a short hiatus away from sports due to them 
 ### 1 - noLuck
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 5-3-0 | 986.94 | 872.13 | 123.3675 | 109.01625 | 2-1-0 | 123.596666667 | 91.2366666667 |
 
 
@@ -84,7 +84,7 @@ Joe continues to prove that two elite RBs is about all it takes to run the leagu
 ### 2 - The Art of the Deal
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 5-3-0 | 903.18 | 830.9 | 112.8975 | 103.8625 | 1-2-0 | 99.0966666667 | 109.42 |
 
 
@@ -94,7 +94,7 @@ Though stumbling of late, the reigning champ has managed to stay near the top of
 ### 3 - Mrs. OBJ
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 3 | 6-2-0 | 906.7 | 760.99 | 113.3375 | 95.12375 | 2-1-0 | 105.643333333 | 89.0433333333 |
 
 
@@ -104,7 +104,7 @@ Quietly fending off the pack, Danielle sits atop the standings despite back-to-b
 ### 4 - red rocket
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 5-3-0 | 850.94 | 885.07 | 106.3675 | 110.63375 | 1-2-0 | 87.94 | 117.083333333 |
 
 
@@ -116,7 +116,7 @@ The beneficiary of an offensive explosion this last week, red rocket blasted thr
 ### 5 - Silver Snakes
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 3 | 5-3-0 | 858.42 | 817.18 | 107.3025 | 102.1475 | 3-0-0 | 103.696666667 | 79.9866666667 |
 
 
@@ -126,7 +126,7 @@ It's Tuesday, and that means it's Jen talks herself out of suicide day.  A 5-3 t
 ### 6 - Eagle Eye
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 2 | 4-4-0 | 901.89 | 809.24 | 112.73625 | 101.155 | 2-1-0 | 131.62 | 104.286666667 |
 
 
@@ -136,7 +136,7 @@ What is there to say about Anthony that hasn't already been said already?  Not m
 ### 7 - A1 Since Day 1
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 7 | 4-4-0 | 832.33 | 820.67 | 104.04125 | 102.58375 | 2-1-0 | 108.816666667 | 91.86 |
 
 
@@ -146,7 +146,7 @@ Like a Phoenix rising from the ashes of fantasy despair, the Millennial Masher h
 ### 8 - Haters Gonna Hate
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 4-4-0 | 823.02 | 801.86 | 102.8775 | 100.2325 | 1-2-0 | 91.1666666667 | 108.826666667 |
 
 
@@ -156,7 +156,7 @@ After what seems to be a pretty profitable trade, last years runner-up drops the
 ### 9 - The Paradise Process
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 4-4-0 | 808.51 | 784.74 | 101.06375 | 98.0925 | 1-2-0 | 82.74 | 93.93 |
 
 
@@ -166,7 +166,7 @@ Midway through the season, and Jack continues to stick to a .500 record like Rob
 ### 10 - Kiss the Baby
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 9 | 4-4-0 | 770.07 | 767.05 | 96.25875 | 95.88125 | 2-1-0 | 105.79 | 106.243333333 |
 
 
@@ -176,7 +176,7 @@ The Jen curse is alive and well, as Alicia has struggled since Jen inexplicably 
 ### 11 - Azan-axe
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 2 | 4-4-0 | 740.89 | 787.3 | 92.61125 | 98.4125 | 3-0-0 | 91.0933333333 | 82.0266666667 |
 
 
@@ -188,7 +188,7 @@ It's pretty rare that at this point in the season you can be ranked 11th in the 
 ### 12 - Ben's Notable Team
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 5 | 2-6-0 | 787.0 | 914.35 | 98.375 | 114.29375 | 0-3-0 | 86.1133333333 | 104.056666667 |
 
 
@@ -198,7 +198,7 @@ A disappointing year so far for Lions enthusiast Ben, as he's taken firm command
 ### 13 - 2SpoonSwaggu
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 2 | 2-6-0 | 727.03 | 851.95 | 90.87875 | 106.49375 | 1-2-0 | 86.9366666667 | 97.0733333333 |
 
 
@@ -208,7 +208,7 @@ The leader in bad luck version 2 - injury boogaloo, Jeff continues to fill roste
 ### 14 - Eat Dawg Eat
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 2 | 2-6-0 | 719.98 | 913.47 | 89.9975 | 114.18375 | 0-3-0 | 72.95 | 102.126666667 |
 
 
