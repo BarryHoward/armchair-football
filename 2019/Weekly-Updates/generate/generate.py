@@ -78,6 +78,8 @@ class Generator(object):
             [j for i in (results_dict[key] for key in sorted(results_dict.keys())) for j in i]
             if team_name in x.keys()
         ]
+        recent = 3
+        recent_length = len(team_results[-recent:])
 
         metadata = {}
         metadata["Wins"] = len([
@@ -104,26 +106,26 @@ class Generator(object):
         metadata["PointsAgainstAvg"] = round(metadata["PointsAgainst"] / len(team_results), 2)
 
         metadata["WinsLast3"] = len([
-            x for x in team_results[-3:]
+            x for x in team_results[-recent:]
             if x[team_name] == max(x.values()) and max(x.values()) != min(x.values())
         ])
         metadata["LossesLast3"] = len([
-            x for x in team_results[-3:]
+            x for x in team_results[-recent:]
             if x[team_name] == min(x.values()) and max(x.values()) != min(x.values())
         ])
         metadata["TiesLast3"] = len([
-            x for x in team_results[-3:]
+            x for x in team_results[-recent:]
             if max(x.values()) == min(x.values())
         ])
         metadata["RecordLast3"] = "%i-%i-%i" % (metadata["WinsLast3"], metadata["LossesLast3"], metadata["TiesLast3"])
         metadata["PointsAvgLast3"] = round(sum([
-            x[team_name] for x in team_results[-3:]
-        ]) / 3, 2)
+            x[team_name] for x in team_results[-recent:]
+        ]) / recent_length, 2)
 
         metadata["PointsAgainstAvgLast3"] = round(sum([
-            value for x in team_results[-3:]
+            value for x in team_results[-recent:]
             for (key, value) in x.items() if key.lower() != team_name.lower()
-        ]) / 3, 2)
+        ]) / recent_length, 2)
 
         return metadata
 

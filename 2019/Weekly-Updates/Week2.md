@@ -84,7 +84,7 @@ This season started off with all sorts or surprises both in the NFL and in our l
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 10 | 2-0-0 | 279.71 | 187.23 | 139.85 | 93.62 | 2-0-0 | 93.24 | 62.41 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 10 | 2-0-0 | 279.71 | 187.23 | 139.85 | 93.62 | 2-0-0 | 139.85 | 93.62 |
 
 > But champions dig themselves out of TE-shaped holes all the time, so she should have a chance to improve on this minor issue.
 
@@ -94,7 +94,7 @@ Novice or Secret Genius?  In a year where everyone seemingly has a major draft b
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| -- | 2-0-0 | 240.7 | 199.46 | 120.35 | 99.73 | 2-0-0 | 80.23 | 66.49 |
+| -- | 2-0-0 | 240.7 | 199.46 | 120.35 | 99.73 | 2-0-0 | 120.35 | 99.73 |
 
 > So if y'all are looking to make some trades that will piss off the rest of the league, I'm always listening.
 
@@ -106,7 +106,7 @@ Welp, the defending champion is back to his old tricks, acquiring top-tier talen
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 2-0-0 | 211.61 | 181.93 | 105.81 | 90.97 | 2-0-0 | 70.54 | 60.64 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 2-0-0 | 211.61 | 181.93 | 105.81 | 90.97 | 2-0-0 | 105.81 | 90.97 |
 
 > Jonathan knows by now that 'good' isn't good enough come playoff time, so I hardly expect him to be complacent.
 
@@ -116,7 +116,7 @@ If you were to talk to Jonathan over the last week, you might not realize that h
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 2-0-0 | 214.05 | 180.08 | 107.03 | 90.04 | 2-0-0 | 71.35 | 60.03 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 2-0-0 | 214.05 | 180.08 | 107.03 | 90.04 | 2-0-0 | 107.03 | 90.04 |
 
 > While heavily dependent on a resurgent year from Tom Brady...
 
@@ -126,7 +126,7 @@ One of only a handful of people that likes Antonio Brown at the moment, Dan's be
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 5 | 2-0-0 | 221.54 | 176.14 | 110.77 | 88.07 | 2-0-0 | 73.85 | 58.71 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 5 | 2-0-0 | 221.54 | 176.14 | 110.77 | 88.07 | 2-0-0 | 110.77 | 88.07 |
 
 > She came away with solid RB and WR groups but dreadful QB and TE groups -- if you can even call them that, since she only got one QB.
 
@@ -136,7 +136,7 @@ Case in point on why Preseason rankings are not to be trusted, almost everything
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 1-1-0 | 229.63 | 210.89 | 114.81 | 105.44 | 1-1-0 | 76.54 | 70.3 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 1-1-0 | 229.63 | 210.89 | 114.81 | 105.44 | 1-1-0 | 114.81 | 105.44 |
 
 > It seems that only Jack and Yahoo think that Jordan Howard is going to be relevant in the Eagles offense this year.
 
@@ -146,7 +146,7 @@ Stop me if you've heard this before:  Jack dominates one week, Jack gets crushed
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 2-0-0 | 207.45 | 184.96 | 103.72 | 92.48 | 2-0-0 | 69.15 | 61.65 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 1 | 2-0-0 | 207.45 | 184.96 | 103.72 | 92.48 | 2-0-0 | 103.72 | 92.48 |
 
 > Also, it will help him significantly if Baker Mayfield is as good as Mike thinks he is.
 
@@ -156,7 +156,7 @@ Ron Howard Voice:  He isn't.     After fleecing Jen for Tyler Boyd, Ben was the 
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 5 | 0-2-0 | 198.88 | 294.01 | 99.44 | 147.0 | 0-2-0 | 66.29 | 98.0 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 5 | 0-2-0 | 198.88 | 294.01 | 99.44 | 147.0 | 0-2-0 | 99.44 | 147.0 |
 
 > He is pinning all his hopes on the increasingly injury-prone Cam Newton with no legitimate backup in place
 
@@ -168,7 +168,7 @@ Sometimes teams struggle, and the cause eludes me for quite a while.  This is no
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 4 | 1-1-0 | 214.26 | 171.42 | 107.13 | 85.71 | 1-1-0 | 71.42 | 57.14 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 4 | 1-1-0 | 214.26 | 171.42 | 107.13 | 85.71 | 1-1-0 | 107.13 | 85.71 |
 
 > Nelson Agholor and Desean Jackson are probably not starters on a championship team
 
@@ -178,7 +178,7 @@ Only one can live while the other survives.  Desean Jackson, in spite of my pred
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 9 | 0-2-0 | 183.19 | 232.97 | 91.59 | 116.48 | 0-2-0 | 61.06 | 77.66 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 9 | 0-2-0 | 183.19 | 232.97 | 91.59 | 116.48 | 0-2-0 | 91.59 | 116.48 |
 
 > A regression by the Chief's offense or a lengthy Melvin Gordon holdout may be the only things that can possibly keep Jeff out of the playoffs this year
 
@@ -188,7 +188,7 @@ Oh, Jeff, you poetic, noble land-mermaid, I'm sorry this has happened to you aga
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 5 | 0-2-0 | 186.23 | 236.42 | 93.12 | 118.21 | 0-2-0 | 62.08 | 78.81 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 5 | 0-2-0 | 186.23 | 236.42 | 93.12 | 118.21 | 0-2-0 | 93.12 | 118.21 |
 
 > Kyler needs to play well or he needs to get another QB
 
@@ -198,7 +198,7 @@ As of now, Kyler has been benched, but Andrew wishes that was his biggest proble
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| -- | 0-2-0 | 180.36 | 205.48 | 90.18 | 102.74 | 0-2-0 | 60.12 | 68.49 |
+| -- | 0-2-0 | 180.36 | 205.48 | 90.18 | 102.74 | 0-2-0 | 90.18 | 102.74 |
 
 > Now he probably has nobody to fall back on if Carr struggles in year 2 under Gruden.
 
@@ -210,7 +210,7 @@ The people's champion, Tim's year started off with a heartbreaking loss to your 
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 4 | 0-2-0 | 171.84 | 188.09 | 85.92 | 94.05 | 0-2-0 | 57.28 | 62.7 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 4 | 0-2-0 | 171.84 | 188.09 | 85.92 | 94.05 | 0-2-0 | 85.92 | 94.05 |
 
 > Hopefully distance away from the rest of the league won't hamstring her trading ability, so that she can capitalize on this early momentum.
 
@@ -220,7 +220,7 @@ Any momentum Alicia had is officially dead.  Joe Mixon has been a bust so far, N
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| -- | 0-2-0 | 164.22 | 254.59 | 82.11 | 127.3 | 0-2-0 | 54.74 | 84.86 |
+| -- | 0-2-0 | 164.22 | 254.59 | 82.11 | 127.3 | 0-2-0 | 82.11 | 127.3 |
 
 > This little lady put all her faith in the little man from the team for little people.  Now her fate is linked with that of the New Orleans offense
 
