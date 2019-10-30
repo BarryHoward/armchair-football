@@ -3,7 +3,7 @@ import json
 
 import jinja2
 
-GEN_INDEX = 4
+GEN_INDEX = 8
 UP_ARROW = 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg'
 DOWN_ARROW = 'https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg'
 
@@ -89,6 +89,7 @@ class Generator(object):
             x for x in team_results
             if max(x.values()) == min(x.values())
         ])
+        metadata["Record"] = "%i-%i-%i" % (metadata["Wins"], metadata["Losses"], metadata["Ties"])
         metadata["Points"] = sum([
             x[team_name] for x in team_results
         ])
@@ -98,6 +99,28 @@ class Generator(object):
             for (key, value) in x.items() if key.lower() != team_name.lower()
         ])
         metadata["PointsAgainstAvg"] = metadata["PointsAgainst"] / len(team_results)
+
+        metadata["WinsLast3"] = len([
+            x for x in team_results[-3:]
+            if x[team_name] == max(x.values()) and max(x.values()) != min(x.values())
+        ])
+        metadata["LossesLast3"] = len([
+            x for x in team_results[-3:]
+            if x[team_name] == min(x.values()) and max(x.values()) != min(x.values())
+        ])
+        metadata["TiesLast3"] = len([
+            x for x in team_results[-3:]
+            if max(x.values()) == min(x.values())
+        ])
+        metadata["RecordLast3"] = "%i-%i-%i" % (metadata["WinsLast3"], metadata["LossesLast3"], metadata["TiesLast3"])
+        metadata["PointsAvgLast3"] = sum([
+            x[team_name] for x in team_results[-3:]
+        ]) / 3
+
+        metadata["PointsAgainstAvgLast3"] = sum([
+            value for x in team_results[-3:]
+            for (key, value) in x.items() if key.lower() != team_name.lower()
+        ]) / 3
 
         return metadata
 

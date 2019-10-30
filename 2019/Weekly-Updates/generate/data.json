@@ -269,7 +269,7 @@
                     "noLuck": 97.07
                 },
                 {
-                    "Haters Gonna Hate": 102.54,
+                    "Haters Gonna Hate": 102.34,
                     "The Paradise Process": 84.16
                 },
                 {
@@ -297,11 +297,11 @@
         {
             "Results": [
                 {
-                    "The Art of the Deal": 135.78,
+                    "The Art of the Deal": 135.79,
                     "Mrs. OBJ": 86.96
                 },
                 {
-                    "Haters Gonna Hate": 86.96,
+                    "Haters Gonna Hate": 86.09,
                     "Eagle Eye": 93.20
                 },
                 {
@@ -467,6 +467,285 @@
                 {
                     "noLuck": 152.55,
                     "red rocket": 76.65
+                }
+            ]
+        },
+        {
+            "Results": [
+                {
+                    "The Art of the Deal": 110.12,
+                    "red rocket": 111.42
+                },
+                {
+                    "Haters Gonna Hate": 147.02,
+                    "Eat Dawg Eat": 80.97
+                },
+                {
+                    "The Paradise Process": 128.11,
+                    "Eagle Eye": 98.82
+                },
+                {
+                    "noLuck": 144.09,
+                    "Ben's Notable Team": 69.05
+                },
+                {
+                    "Kiss the Baby": 94.09,
+                    "2SpoonSwaggu": 78.54
+                },
+                {
+                    "Mrs. OBJ": 132.35,
+                    "Silver Snakes": 88.09
+                },
+                {
+                    "Azan-axe": 86.46,
+                    "A1 Since Day 1": 126.74
+                }
+            ]
+        },
+        {
+            "Results": [
+                {
+                    "The Art of the Deal": 119.05,
+                    "Ben's Notable Team": 100.82
+                },
+                {
+                    "Haters Gonna Hate": 87.67,
+                    "Azan-axe": 92.64
+                },
+                {
+                    "The Paradise Process": 86.10,
+                    "Kiss the Baby": 101.65
+                },
+                {
+                    "noLuck": 111.05,
+                    "A1 Since Day 1": 86.80
+                },
+                {
+                    "Eat Dawg Eat": 85.50,
+                    "2SpoonSwaggu": 95.52
+                },
+                {
+                    "Mrs. OBJ": 129.19,
+                    "Eagle Eye": 107.42
+                },
+                {
+                    "Silver Snakes": 120.34,
+                    "red rocket": 93.86
+                }
+            ]
+        },
+        {
+            "Results": [
+                {
+                    "The Art of the Deal": 101.94,
+                    "A1 Since Day 1": 124.51
+                },
+                {
+                    "Haters Gonna Hate": 110.26,
+                    "noLuck": 107.19
+                },
+                {
+                    "The Paradise Process": 95.72,
+                    "Eat Dawg Eat": 70.76
+                },
+                {
+                    "Eagle Eye": 157.06,
+                    "Kiss the Baby": 89.07
+                },
+                {
+                    "Mrs. OBJ": 78.36,
+                    "red rocket": 93.31
+                },
+                {
+                    "2SpoonSwaggu": 70.69,
+                    "Azan-axe": 75.34
+                },
+                {
+                    "Silver Snakes": 87.82,
+                    "Ben's Notable Team": 69.80
+                }
+            ]
+        },
+        {
+            "News": [
+                "Nobody in the league is really that good",
+                "Nobody in the league is really that bad",
+                "Coaches are gonna start getting fired soon me thinks"
+            ],
+            "Trades": [
+                {
+                    "Traders": [
+                        {
+                            "Team": "The Art of the Deal",
+                            "Players": [
+                                "DJ Chark Jr",
+                                "Derrick Henry",
+                                "Daniel Jones"
+                            ]
+                        },
+                        {
+                            "Team": "Haters Gonna Hate",
+                            "Players": [
+                                "JuJu Smith-Shuster",
+                                "Josh Jacobs",
+                                "Michael Gallup"
+                            ]
+                        }
+                    ],
+                    "Opinion": "Jonathan and Barry finally completed a trade after more than 2 years of foreplay.  A blockbust deal that sends and RB1, a WR2 and a QB10 to Jonthan for three high-upside players to Barry.  Both managers got needed players in this deal, but Jonathan may have some regrets after dropping Danny Dimes soon after.",
+                    "Results": null,
+                    "Date": "10/2/19"
+                },
+                {
+                    "Traders": [
+                        {
+                            "Team": "Silver Snakes",
+                            "Players": [
+                                "Mike Evans"
+                            ]
+                        },
+                        {
+                            "Team": "Ben's Notable Team",
+                            "Players": [
+                                "Tyler Boyd"
+                            ]
+                        }
+                    ],
+                    "Opinion": "Jen traded a WR for a worse WR.  The world tried to hold it's collective gasps.",
+                    "Results": null,
+                    "Date": "10/7/19"
+                },
+                {
+                    "Traders": [
+                        {
+                            "Team": "The Art of the Deal",
+                            "Players": [
+                               "Jimmy Garoppolo",
+                               "Hunter Henry"
+                            ]
+                        },
+                        {
+                            "Team": "Haters Gonna Hate",
+                            "Players": [
+                                "DJ Chark Jr",
+                                "Sam Darnold"
+                            ]
+                        }
+                    ],
+                    "Opinion": "A trade that materialized much faster than the previous.  Barry grabbed back DJ Chark and HOPEFULLY upgraded at backup QB in exchange for TE1 Hunter Henry.  This was the haul Barry was hoping for, but for a waiver-wire pick up that was never going to actually start, it's not the worst return in the world.",
+                    "Results": null,
+                    "Date": "10/21/19"
+                }
+            ],
+            "PowerRankings":{
+                "Introduction": "You beloved wordsmith is back after a short hiatus away from sports due to them being terrible.  Duty calls, however, so I've got some new rankings for you all.  I would like to thank Jen for filling in for me, while I was busy marveling at how funny she is.",
+                "Ranks": [
+                    {
+                        "Team": "noLuck",
+                        "Quote": null,
+                        "Text": "Joe continues to prove that two elite RBs is about all it takes to run the league, as CMC and Aaron Jones have been the monsters that have ruined quite a few people's week.  Now that Kerryon Johnson is done for the season, he will need them more than ever to maintain his stranglehold on the points lead.  We don't hear much from Joe these days, but that might change if he finally ascends to the heights I predicted back in week 2."
+                    },
+                    {
+                        "Team": "The Art of the Deal",
+                        "Quote": null,
+                        "Text": "Though stumbling of late, the reigning champ has managed to stay near the top of league despite a team that is clearly underperforming.  A bench that is almost too deep and a starting lineup that can run with anyone, Barry' boys are almost bye-week-proof, as they were able to handle Jonathan without Zeke.  The return for Hunter Henry may not have been what he wanted, but watching Sam Darnold outscore Jimmy G was almost worth it.  Now that he's entering the weaker part of his schedule, it would be hard to imagine Barry missing the playoffs."
+                    },
+                    {
+                        "Team": "Mrs. OBJ",
+                        "Quote": null,
+                        "Text": "Quietly fending off the pack, Danielle sits atop the standings despite back-to-back poor showings.  The beneficiary of the lowest points against total, Danielle may soon be the Cheryl of this year, holding onto a top spot that nobody thinks she quite deserves. That may be short-lived however if she can't make up for Ekeler's decreased production and Matt Ryan going on Bye this week.  Look for the Newbie Queen to fall from grace against Ben's spiteful bunch."
+                    },
+                    {
+                        "Team": "red rocket",
+                        "Quote": null,
+                        "Text": "The beneficiary of an offensive explosion this last week, red rocket blasted through Ben to reclaim a spot among the league's best.  If the 49ers continue running out the clock in the 2nd quarter, Tevin Coleman becomes an excellent RB2 to Dalvin Cook, and Dan's team's starting roster becomes one of the best in the league.  Approaching a level of success Dan  has yet to see in Yahoo football, look for an exciting matchup between him and the suddenly dangerous Alex."
+                    },
+                    {
+                        "Team": "Silver Snakes",
+                        "Quote": null,
+                        "Text": "It's Tuesday, and that means it's Jen talks herself out of suicide day.  A 5-3 team with a considerable points total would usually put a manager in a good mood, but those stats take into account things that happened more than 10 minutes ago, so Jen isn't really paying attention.  Having just benched two players out of frustration, we all eagerly wait to see which player Jen trades away now that she's in full-blown panic mode, because reasons.  Will Jen's self-destructive tendencies cause her to once again smash her chances at the playoffs like a Hulk in a China shop?  The rest of this very crowded league can only hope."
+                    },
+                    {
+                        "Team": "Eagle Eye",
+                        "Quote": null,
+                        "Text": "What is there to say about Anthony that hasn't already been said already?  Not much, so I'll just repeat myself, because it feels nice to act like there is a God.  The Patriots defense has accounted for 19.1% of Anthony's points, which is to say - take away the most absurd defense in fantasy history, and Anthony is a toilet bowl contender.  Even with them, he's sitting squarely middle of a very crowded pack.  If we assume the Pats defense puts up 15+ points per game, Anthony will need some improvement from the rest of his team to be a contender, as nobody else seems to really be producing consistently.  But what do I know?  I assumed that a defense outscoring all but 2 RBs was not a likely outcome."
+                    },
+                    {
+                        "Team": "A1 Since Day 1",
+                        "Quote": null,
+                        "Text": "Like a Phoenix rising from the ashes of fantasy despair, the Millennial Masher has put the smackdown on her elders and finds herself squarely in the middle class.  The hottest team in the league - other than maybe Joe - Alex has spent the last 5 weeks playing catch up, but now finds herself in prime position to start her ascension to the top.  The return of Drew Brees means that it is once again a good time to invest in the Saints offense (and osteoporosis medication).  That and the emergence of Miles Sanders means that Alex has a good shot at the playoffs and a fair shot at making noise when she gets there."
+                    },
+                    {
+                        "Team": "Haters Gonna Hate",
+                        "Quote": null,
+                        "Text": "After what seems to be a pretty profitable trade, last years runner-up drops the rematch of last year's championship, partially due to a disappointing showing from newly-acquired Hunter Henry... which was all part of the plan.  Like the falcon's Super Bowl hangover following their own championship collapse, Jonathan has yet to recapture the magic that almost won him the trophy.  Due to the circumstances, I can't help but recall a quote from former 6th round pick Thomas Brady - 'Only I can live forever'."
+                    },
+                    {
+                        "Team": "The Paradise Process",
+                        "Quote": null,
+                        "Text": "Midway through the season, and Jack continues to stick to a .500 record like Robert Kraft wearing WR gloves in a Florida spa.  Jack has won 3 out of his last 4, but he still finds himself near the bottom of the 4-4 pack due to uninspiring points total.  He has one more week until Kamara returns, however, so if he can stay competitive until then, he could be dangerous again.  It would also help immensely if Zach Ertz at least started playing like a TE2 - maybe even a TE1.  Otherwise, he's got a good team, but he'll need to start showing it if he wants to once again sneak into the playoffs."
+                    },
+                    {
+                        "Team": "Kiss the Baby",
+                        "Quote": null,
+                        "Text": "The Jen curse is alive and well, as Alicia has struggled since Jen inexplicably ranked her at the top of the league.  Sorry Alicia, I feel partially responsible for giving her that much leeway.  While clearly not a top contender, at 4-4, Alicia -- like 80% of the league - is in position to make a playoff run, but her team doesn't seem to want to cooperate.  Luckily, she faces off against toilet bowl favorite Andrew this week in most-likely must-win game.  With Saquon in full force however, Andrew is no longer the push over he was two week ago."
+                    },
+                    {
+                        "Team": "Azan-axe",
+                        "Quote": null,
+                        "Text": "It's pretty rare that at this point in the season you can be ranked 11th in the league and still be in good playoff position, but that's the place Tim finds himself in.  With Carson Wentz struggling and the Jets being unable to move Le'Veon, however, his position might become seriously in doubt if he can't scratch out a win this week.  A low points total means that Tim won't be winning any tie-breakers, which means that wins are his only way to move up.  Considering his schedule going forward, however, he's at serious risk of dropping down to be with the remedial kids."
+                    },
+                    {
+                        "Team": "Ben's Notable Team",
+                        "Quote": null,
+                        "Text": "A disappointing year so far for Lions enthusiast Ben, as he's taken firm command of the points against lead.  After jumping out to a 2-0 start, Ben has been destroyed 6 times in a row by some pretty nasty scores.  His own team hasn't been helping him out in that department either, as his own point total is nothing to get excited about... but it's Ben, so he's naturally way more optimistic than is warranted.  5 more games means that he pretty much needs to run the table to sneak into the playoffs.  One more loss though could put him in the toilet bowl lead, but he seems like the kind of guy who doesn't really care what trophy he gets, so maybe it's all for the best."
+                    },
+                    {
+                        "Team": "2SpoonSwaggu",
+                        "Quote": null,
+                        "Text": "The leader in bad luck version 2 - injury boogaloo, Jeff continues to fill roster spots with semi-warm bodies and continues to pay for it.  Desperate to keep the stench of the toilet bowl as far away as possible, a sudden win by Andrew puts all that in doubt, as Jeff might now be the favorite for last place among the 2-6 crews and the league in general.  'If Pat Mahomes goes down, he's done', a wise man once said, and Pat Mahomes is still on the sidelines for the now struggling Chief's offense.  Like a sad self-fulfilling prophecy, every one of Jeff's moves meant to protect him from this dark fate only seems to bring him closer to it.  He will have to steal a game to from Barry if he wants to stay out of last place."
+                    },
+                    {
+                        "Team": "Eat Dawg Eat",
+                        "Quote": null,
+                        "Text": "Andrew has put up 100 points twice this season, and both times have been wins - including last week's upset of soul-seller, Anthony.  Now that Saquon is back, these higher scores could become more the norm, as Andrew is trying to claw his way out of the ditch and pass the hot turd potato to Ben or Jeff.  There has been many questions around the league as to whether Andrew would even honor the toilet trophy if bestowed upon him, but Andrew can make those questions irrelevant by taking care of business against struggling Alicia."
+                    }
+                ],
+                "Tiers": {
+                    "1": "Honor Students",
+                    "5": "C's Get Degrees",
+                    "12": "Remedial Kids"
+                },
+                "Author": "Barry (The Art of the Deal)"
+            },
+            "Results": [
+                {
+                    "The Art of the Deal": 119.28,
+                    "Haters Gonna Hate": 104.80
+                },
+                {
+                    "The Paradise Process": 97.31,
+                    "Azan-axe": 86.43
+                },
+                {
+                    "Eagle Eye": 100.75,
+                    "Eat Dawg Eat": 110.76
+                },
+                {
+                    "Mrs. OBJ": 90.75,
+                    "Kiss the Baby": 82.75
+                },
+                {
+                    "2SpoonSwaggu": 97.68,
+                    "noLuck": 128.43
+                },
+                {
+                    "Silver Snakes": 100.02,
+                    "A1 Since Day 1": 123.98
+                },
+                {
+                    "red rocket": 149.96,
+                    "Ben's Notable Team": 129.26
                 }
             ]
         }

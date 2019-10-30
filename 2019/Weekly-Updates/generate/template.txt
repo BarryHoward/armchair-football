@@ -21,14 +21,15 @@
 | {{single_trade.Traders[0]["Players"][0]}} | {{single_trade.Traders[1]["Players"][0]}} |
 {% if single_trade.Traders[0]["Players"]|length > 1 %}| {{single_trade.Traders[0]["Players"][1]}} | {{single_trade.Traders[1]["Players"][1]}} |{% endif %}
 {% if single_trade.Traders[0]["Players"]|length > 2 %}| {{single_trade.Traders[0]["Players"][2]}} | {{single_trade.Traders[1]["Players"][2]}} |{% endif %}
+
 #### Opinion
 
 {{single_trade.Opinion}}
 
-#### Results
+{% if single_trade.Results %}#### Results
 
 {{single_trade.Results}}
-{% endfor %}{% else %}**No Trades Were Made**{% endif %}
+{% endif %}{% endfor %}{% else %}**No Trades Were Made**{% endif %}
 </details>
 
 {% if week.get("PowerRankings", None) %}# Power Rankings
@@ -41,11 +42,11 @@ Author: {{ week.PowerRankings.Author }}
 {% endif %}
 ### {{loop.index}} - {{ single_rank.Team }}
 
-| Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against |
+| Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| {{single_rank.Metadata.Change}} | {{single_rank.Metadata.Wins}}-{{single_rank.Metadata.Losses}}-{{single_rank.Metadata.Ties}} | {{single_rank.Metadata.Points}} | {{single_rank.Metadata.PointsAgainst}} | {{single_rank.Metadata.PointsAvg}} | {{single_rank.Metadata.PointsAgainstAvg}} |
+| {{single_rank.Metadata.Change}} | {{single_rank.Metadata.Record}} | {{single_rank.Metadata.Points}} | {{single_rank.Metadata.PointsAgainst}} | {{single_rank.Metadata.PointsAvg}} | {{single_rank.Metadata.PointsAgainstAvg}} | {{single_rank.Metadata.RecordLast3}} | {{single_rank.Metadata.PointsAvgLast3}} | {{single_rank.Metadata.PointsAgainstAvgLast3}} |
 
-> {{ single_rank.Quote }}
+{% if single_rank.Quote %}> {{ single_rank.Quote }}{% endif %}
 
 {{ single_rank.Text }}
 {% endfor %}{% endif %}
