@@ -12,7 +12,7 @@
 
 <details>
 {% if week.get("Trades", None) %}{% for single_trade in week["Trades"] %}
-### Trade {{ loop.index}}
+### Trade {{ loop.index}} -- {{single_trade.Date}}
 
 #### Exchange
 

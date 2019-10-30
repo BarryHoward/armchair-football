@@ -5,7 +5,7 @@ from collections import OrderedDict
 
 import jinja2
 
-GEN_INDEX = 8
+GEN_INDEX = 2
 UP_ARROW = 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg'
 DOWN_ARROW = 'https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg'
 
@@ -40,7 +40,6 @@ class Generator(object):
             index: x.get("Results", [])
             for index, x in enumerate(self.data["Weeks"]) if index > 0 and index <= GEN_INDEX
         }
-        print(results_dict)
 
         for rank in self.week.get("PowerRankings", {}).get("Ranks", []):
             team_name = rank["Team"]

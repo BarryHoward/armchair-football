@@ -16,7 +16,7 @@
 
 <details>
 
-### Trade 1
+### Trade 1 -- 10/2/19
 
 #### Exchange
 
@@ -31,7 +31,7 @@
 Jonathan and Barry finally completed a trade after more than 2 years of foreplay.  A blockbust deal that sends and RB1, a WR2 and a QB10 to Jonthan for three high-upside players to Barry.  Both managers got needed players in this deal, but Jonathan may have some regrets after dropping Danny Dimes soon after.
 
 
-### Trade 2
+### Trade 2 -- 10/7/19
 
 #### Exchange
 
@@ -46,7 +46,7 @@ Jonathan and Barry finally completed a trade after more than 2 years of foreplay
 Jen traded a WR for a worse WR.  The world tried to hold it's collective gasps.
 
 
-### Trade 3
+### Trade 3 -- 10/21/19
 
 #### Exchange
 
