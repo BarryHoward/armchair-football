@@ -8,7 +8,11 @@
 
 * Alex wins 5th in a row
 
+* Ben breaks 8 game losing streak
+
 * Art of the Deal Jumps into first
+
+* Toilet Bowl race just got a new entry
 
 </details>
 
@@ -28,7 +32,7 @@
 
 #### Opinion
 
-None
+Well, this trade hasn't worked out for anyone so far, as neither RBs are producing, and Cooks has been out since the trade went down.  This trade can safely be called a garbage shuffle unless Frank Gore starts producing again
 
 
 ### Trade 2 -- 10/29/19
@@ -43,7 +47,7 @@ None
 
 #### Opinion
 
-None
+A backup of a guy that is out for a backup of a guy that isn't out.  Seems pretty obvious who go the raw end of this supposedly low-stakes trade.
 
 
 </details>
@@ -162,6 +166,8 @@ Oh, how the 'mighty' have played to their actual expectations.  After getting ca
 
 Tim is probably the highest ranked team with no real playoff prospects.  Right outside the bubble, and having not put up more than 100 pts since week 4, Tim's caught in limbo -- too bad for the playoffs, too good for the toilet bowl.  Overall, he's done a fine job for a first timer, with a lot of potential for improvement.  His matchups against Alicia and Andrew will undoubtedly have an impact on the final standings, so Tim is in perfect position to play spoilier.
 
+## Shit Tier Shoguns
+
 ### 11 - The Paradise Process
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
@@ -171,8 +177,6 @@ Tim is probably the highest ranked team with no real playoff prospects.  Right o
 
 
 After flirting with a .500 record for most of the season, Jack has taken after his beloved Dolphins, lost three in a row, and begun to tank -- possibly on route to something dirty.  With the three amigos all scraping together a win recently, Jack has entered into the toilet bowl conversation, a disappointing fate for the perennial contender.  His final game against Ben could very likely decide if this down turn is going to end in a full-on crater.
-
-## Shit Tier Shoguns
 
 ### 12 - Ben's Notable Team
 

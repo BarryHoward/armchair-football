@@ -817,7 +817,9 @@
             "News": [
                 "Lots of streaks broken this week",
                 "Alex wins 5th in a row",
-                "Art of the Deal Jumps into first"
+                "Ben breaks 8 game losing streak",
+                "Art of the Deal Jumps into first",
+                "Toilet Bowl race just got a new entry"
             ],
             "Trades": [
                 {
@@ -836,7 +838,7 @@
                             ]
                         }
                     ],
-                    "Opinion": null,
+                    "Opinion": "Well, this trade hasn't worked out for anyone so far, as neither RBs are producing, and Cooks has been out since the trade went down.  This trade can safely be called a garbage shuffle unless Frank Gore starts producing again",
                     "Results": null,
                     "Date": "10/28/19"
                 },
@@ -855,7 +857,7 @@
                             ]
                         }
                     ],
-                    "Opinion": null,
+                    "Opinion": "A backup of a guy that is out for a backup of a guy that isn't out.  Seems pretty obvious who go the raw end of this supposedly low-stakes trade.",
                     "Results": null,
                     "Date": "10/29/19"
                 }
@@ -939,7 +941,7 @@
                     "3": "Dandy Dancers",
                     "6": "Bubble Buddies",
                     "9": "Couch Crashers",
-                    "12": "Shit Tier Shoguns"
+                    "11": "Shit Tier Shoguns"
                 },
                 "Author": "Barry (The Art of the Deal)"
             },
