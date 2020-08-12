@@ -72,15 +72,17 @@ Collusion is strictly prohibited and defined as follows:  Any actions designed t
 
 2. Dropping quality players with the intention that they are picked up by a preferred team when out of contention (Drop Tanking)
 
-3. Attempting negative trades with a team playing against a competing team with the intention of helping them to win for the week (Loaning)
+3. Using waiver priority or funds to pick up a player on behalf of another person to be traded at an agreed upon time.  *Note: An agreement must be reached before the players is picked up to qualify.  Picking up players with the intention of stashing them for future unconfirmed trades is permitted.* (Waiver Trading)
 
-4. Managing more than one team (Ghost Managing if the manager has their own team)
+4. Attempting negative trades with a team playing against a competing team with the intention of helping them to win for the week (Loaning)
+
+5. Managing more than one team (Ghost Managing if the manager has their own team)
 
 Any proven cases of collusion may result in the IMMEDIATE expulsion of both parties.
 
 ## Article 3 - League Configuration
 
-- Draft: Live, Snake, Random postions / predetermined
+- Draft: Live, Snake, Random positions / predetermined
 - Teams: 14
 - Scoring: Head-to-Head
 - Trade Deadline: November 9, 2019
@@ -93,113 +95,110 @@ Any proven cases of collusion may result in the IMMEDIATE expulsion of both part
 
 ### Section 1 – Member
 
-- 	Eligibility:  
+- Eligibility:  
 
-    -	New league members are added according to the provisions listed Article 1, Section 1.  Members must work at the Buckhead office during the majority of the season.
+  - New league members are added according to the provisions listed Article 1, Section 1.  Members must work at the Buckhead office during the majority of the season.  Once a member has completed a full season, they may be eligible to continue if they no longer qualify in future seasons (moving / leaving GE).
 
--	Powers and Responsibilities:  
+- Powers and Responsibilities:  
 
-    -	League members must manage their team in accordance with the provisions listed in Article 2, Sections 1 and 2.  Failure to do so, may result in expulsion following the end of the season.
+  - League members must manage their team in accordance with the provisions listed in Article 2, Sections 1 and 2.  Failure to do so, may result in expulsion following the end of the season.
 
-    -	League member may not collude in any way in accordance with Article 2, Section 5.  Proof of collusion may result in IMMEDIATE expulsion of both parties.
+  - League member may not collude in any way in accordance with Article 2, Section 5.  Proof of collusion may result in IMMEDIATE expulsion of both parties.
 
-    -	League members must pay fees in accordance with Article 1 Section 2.  Failure to do so will result in the forfeiture of their reserved spot in the league
+  - League members must pay fees in accordance with Article 1 Section 2.  Failure to do so will result in the forfeiture of their reserved spot in the league
 
--	Expulsion:  
+- Expulsion:  
 
-    -	League members failing to perform their responsibilities can be expelled from the league by a majority vote of active members at the time designated in the specific responsibility.
+  - League members failing to perform their responsibilities can be expelled from the league by a majority vote of active members at the time designated in the specific responsibility.
 
 Unless otherwise stated, all member rules and regulations apply to other offices.  If a member is expelled, they are also removed from all other offices.
 
 ### Section 2 – Treasurer
 
-- 	Eligibility:  
+- Eligibility:  
 
-    -	If deemed required a treasurer may be appointed by a majority vote of the league.
+  - If deemed required a treasurer may be appointed by a majority vote of the league.
 
--	Powers and Responsibilities:
+- Powers and Responsibilities:
 
-    -	The treasurer is empowered and required to collect entry fees at the beginning of the season in accordance with Article 2, Section 2.
+  - The treasurer is empowered and required to collect entry fees at the beginning of the season in accordance with Article 2, Section 2.
 
-    -	The treasurer is empowered and required to complete payouts to league members based on final placements
+  - The treasurer is empowered and required to complete payouts to league members based on final placements
 
--	Impeachment:  
+- Impeachment:  
 
-    -	The league treasurer may be impeached by a majority vote of active members if they are found to be negligent in their duties or intentionally withholding of league funds for personal use.
+  - The league treasurer may be impeached by a majority vote of active members if they are found to be negligent in their duties or intentionally withholding of league funds for personal use.
 
 
 ### Section 3 – Commissioner
 
--	Eligibility: 
+- Eligibility:
 
-    -	When a new commissioner is required – via resignation or impeachment – a ranked-choice vote will be held for all nominated members to determine the new commissioner
+  - When a new commissioner is required – via resignation or impeachment – a ranked-choice vote will be held for all nominated members to determine the new commissioner
 
--	Powers and Responsibilities:
+- Powers and Responsibilities:
 
-    -	The commissioner is empowered and required to review all trades made by the league and has the power of temporary veto in accordance with Article 2, Section 3.
+  - The commissioner is empowered and required to review all trades made by the league and has the power of temporary veto in accordance with Article 2, Section 3.
 
-    -	The commissioner is empowered and required to propose league rules at the beginning of a new season to be approved by a majority of the league.
+  - The commissioner is empowered and required to propose league rules at the beginning of a new season to be approved by a majority of the league.
 
-    -	If no treasurer is appointed, the commissioner is empowered and required to fulfill the role of league treasurer.
+  - If no treasurer is appointed, the commissioner is empowered and required to fulfill the role of league treasurer.
 
--	Limitations:
+- Limitations:
 
-    -	The commissioner may not make changes to other team rosters under any circumstances beyond proven collusion in accordance with Article 2, Section 5.
+  - The commissioner may not make changes to other team rosters under any circumstances beyond proven collusion in accordance with Article 2, Section 5.
 
-    -	The commissioner may not change league rules, fees, or payouts after the league draft.
+  - The commissioner may not change league rules, fees, or payouts after the league draft.
 
-    -	The commissioner may not use threats to intimidate other members.
+  - The commissioner may not use threats to intimidate other members.
 
-    -	The commissioner may not manipulate draft order or any other parameters in order to gain a competitive advantage.
+  - The commissioner may not manipulate draft order or any other parameters in order to gain a competitive advantage.
 
--	Impeachment:  
+- Impeachment:  
 
-    -	The commissioner may be impeached by a majority vote of active members if they are found to be negligent in their duties, in breach of their limitations, or in any other way abuses the power of the office.
+  - The commissioner may be impeached by a majority vote of active members if they are found to be negligent in their duties, in breach of their limitations, or in any other way abuses the power of the office.
 
 ### Section 4 – Assistant Commissioner
 
--	Eligibility: 
+- Eligibility:
 
-    -	An assistant commissioner may be appointed by the commissioner or by a popular vote of the members of the league.
+  - An assistant commissioner may be appointed by the commissioner or by a popular vote of the members of the league.
 
+- Powers and Responsibilities:
 
--	Powers and Responsibilities:
+  - An assistant commissioner is empowered and required to perform the duties of the commissioner when the commissioner is unavailable OR when given direct authorization from the commissioner.  Any action taken that is deemed in opposition to the the rules of the league or the will of the commissioner must be reviewed by the members of the league if the commissioner remains incapacitated.
 
-    -	An assistant commissioner is empowered and required to perform the duties of the commissioner when the commissioner is unavailable OR when given direct authorization from the commissioner.  Any action taken that is deemed in opposition to the the rules of the league or the will of the commissioner must be reviewed by the members of the league if the commissioner remains incapacitated.
+  - An assistant commissioner is empowered and required to bring all actions of the commissioner to the attention of the league if said actions are deemed by the assistant commissioner to be in breach of power of the commissioner.
 
+- Limitations:
 
-    -	An assistant commissioner is empowered and required to bring all actions of the commissioner to the attention of the league if said actions are deemed by the assistant commissioner to be in breach of power of the commissioner.
+  - A assistant commissioner may not take any action if the commissioner is available to make said action.
 
--	Limitations:
+  - A assistant commissioner's actions are bound by the same limitations as that of the commissioner.
 
-    -	A assistant commissioner may not take any action if the commissioner is available to make said action.
+- Impeachment:  
 
-
-    -	A assistant commissioner's actions are bound by the same limitations as that of the commissioner.
-
--	Impeachment:  
-
-    -	An assistant commissioner may be impeached or expelled by the commissioner if they were appointed by the commissioner.  If they were appointed by the league, they can only be impeachment by a 2/3 league vote
+  - An assistant commissioner may be impeached or expelled by the commissioner if they were appointed by the commissioner.  If they were appointed by the league, they can only be impeachment by a 2/3 league vote
 
 ### Section 5 – Scribe
 
--	Eligibility: 
+- Eligibility:
 
-    -	The league scribe may be appointed by the commissioner or a popular vote of the league if deemed necessary.
+  - The league scribe may be appointed by the commissioner or a popular vote of the league if deemed necessary.
 
--	Powers and Responsibilities:
+- Powers and Responsibilities:
 
-    - The league scribe is empowered and required to document changes in league documents through the official github repository.
+  - The league scribe is empowered and required to document changes in league documents through the official github repository.
 
-    - The league scribe is empowered to catalog drama, power rankings, league results, etc. for future reference.
+  - The league scribe is empowered to catalog drama, power rankings, league results, etc. for future reference.
 
--	Limitations:
+- Limitations:
 
-    -	The league scribe may not change official documents (this constitution) without authorization from the league.
+  - The league scribe may not change official documents (this constitution) without authorization from the league.
 
--	Impeachment:  
+- Impeachment:  
 
-    -	The league scribe may be impeached if the league deems their writings to be biased or frankly not very good, presuming that a new scribe is willing to take his/her place.
+  - The league scribe may be impeached if the league deems their writings to be biased or frankly not very good, presuming that a new scribe is willing to take his/her place.
 
 ### Section 6 – Enforcer
 
