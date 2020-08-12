@@ -68,7 +68,7 @@ This will be the last set of power rankings before the playoffs, since next week
 
 
 
-Death, taxes, Barry at the top of the standings.  Some things in this world are all but certain.  After 4 straight weeks of dominance, Barry has finally capitalized on the stumbles of Danielle and Joe and is now in line for a second straight year of being the top seed.  Furthermore, an uncharacteristically poor showing by Joe has again put him in striking distance of the points championship.  Current standings + recent results make Barry the favorite for the repeat, a horrible prospect or the rest of the league who seem unable to even hold down a cripple.
+Death, taxes, Barry at the top of the standings.  Some things in this world are all but certain.  After 4 straight weeks of dominance, Barry has finally capitalized on the stumbles of Danielle and Joe and is now in line for a second straight year of being the top seed.  Furthermore, an uncharacteristically poor showing by Joe has again put him in striking distance of the points championship.  Current standings + recent results make Barry the favorite for the repeat, a horrible prospect for the rest of the league who seem unable to even hold down a cripple.
 
 ### 2 - noLuck
 
