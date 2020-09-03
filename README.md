@@ -32,11 +32,11 @@ Your champion Alex has forsaken you, as she refuses to add a decree to the page.
 
 ## Current Officers
 
-* Commissioner - Jonathan "Too good for GE" Reed
-* Assistant Commissioner - Vacant (I think)
-* Treasurer - Jeff "Invisible Hand" Arredondo
-* Scribe - Barry "Drama Drinker" Howard
-* Enforcer - Jen "The Kneecapper" Strollo
+* Commissioner             Jonathan "Too good for GE" Reed
+* Assistant Commissioner   Vacant (I think)
+* Treasurer                Jeff "Invisible Hand" Arredondo
+* Scribe                   Barry "Drama Drinker" Howard
+* Enforcer                 Jen "The Kneecapper" Strollo
 
 ## Getting Around
 
