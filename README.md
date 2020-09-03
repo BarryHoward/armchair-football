@@ -14,15 +14,12 @@ Welcome to the ATL Armchair Football League, a high-drama league filled with GE 
 
 ## A Word from our Current Champion
 
-Your champion Alex has forsaken you, as she refuses to add a decree to the page.  Therefore, this lovely picture will remain in place until she decides that she loves you again.
+As decreed by Queen Alex, this is not a league for plebs, only the elite can survive. To be a winner, is to be part of the bad and bougie social class. I suggest you strive for that. 
 
 <p align="center">
-    <img src='https://vice-images.vice.com/images/content-images/2015/11/06/remembering-john-barron-donald-trumps-spokesman-alter-ego-1106-body-image-1446847744.jpg' align="middle" width="400px">
+    <img src='https://media.giphy.com/media/Qe5C3J0wRkyGs/giphy.gif' align="middle" width="400px">
 </p>
 
-<p align="center">
-    I am inevitable...
-</p>
 
 ## Past Champions
 
