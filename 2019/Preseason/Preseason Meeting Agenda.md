@@ -40,7 +40,6 @@ Falcons Meeting Room
 * Jonathan Reed (212604636)
 * Jen Strollo (212627594)
 
-
 #### Leaving (6 spots)
 
 * Lynn Baker (212582756) --  Co-Manager
@@ -51,7 +50,6 @@ Falcons Meeting Room
 * Mike Smith (212679694) - Former Co-Manager
 * Hannah Douglas (212573913) - Former Co-Manager
 * Grant Paszkowski (212606376)
-
 
 ### 5. Fill Remaining Spots
 
