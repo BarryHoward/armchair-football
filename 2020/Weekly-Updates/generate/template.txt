@@ -1,0 +1,52 @@
+# Week {{index}} Recap
+
+## News
+
+<details>
+{% if week.get("News", None) %}{% for single_item in week["News"] %}
+* {{ single_item }}
+{% endfor %}{% else %}**No News**{% endif %}
+</details>
+
+## Trades
+
+<details>
+{% if week.get("Trades", None) %}{% for single_trade in week["Trades"] %}
+### Trade {{ loop.index}} -- {{single_trade.Date}}
+
+#### Exchange
+
+| {{ single_trade.Traders[0]["Team"] }} | {{single_trade.Traders[1]["Team"]}} |
+|:---:|:---:|
+| {{single_trade.Traders[0]["Players"][0]}} | {{single_trade.Traders[1]["Players"][0]}} |
+{% if single_trade.Traders[0]["Players"]|length > 1 %}| {{single_trade.Traders[0]["Players"][1]}} | {{single_trade.Traders[1]["Players"][1]}} |{% endif %}
+{% if single_trade.Traders[0]["Players"]|length > 2 %}| {{single_trade.Traders[0]["Players"][2]}} | {{single_trade.Traders[1]["Players"][2]}} |{% endif %}
+
+#### Opinion
+
+{{single_trade.Opinion}}
+
+{% if single_trade.Results %}#### Results
+
+{{single_trade.Results}}
+{% endif %}{% endfor %}{% else %}**No Trades Were Made**{% endif %}
+</details>
+
+{% if week.get("PowerRankings", None) %}# Power Rankings
+
+Author: {{ week.PowerRankings.Author }}
+
+{{ week.PowerRankings.Introduction }}
+{% for single_rank in week.PowerRankings.Ranks %}{% if loop.index|string in week.PowerRankings.Tiers.keys() %}
+## {{ week.PowerRankings.Tiers[loop.index|string] }}
+{% endif %}
+### {{loop.index}} - {{ single_rank.Team }}
+
+| Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| {{single_rank.Metadata.Change}} | {{single_rank.Metadata.Record}} | {{single_rank.Metadata.Points}} | {{single_rank.Metadata.PointsAgainst}} | {{single_rank.Metadata.PointsAvg}} | {{single_rank.Metadata.PointsAgainstAvg}} | {{single_rank.Metadata.RecordLast3}} | {{single_rank.Metadata.PointsAvgLast3}} | {{single_rank.Metadata.PointsAgainstAvgLast3}} |
+
+{% if single_rank.Quote %}> {{ single_rank.Quote }}{% endif %}
+
+{{ single_rank.Text }}
+{% endfor %}{% endif %}
