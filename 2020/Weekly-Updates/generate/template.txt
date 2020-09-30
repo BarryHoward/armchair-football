@@ -48,5 +48,5 @@ Author: {{ week.PowerRankings.Author }}
 
 {% if single_rank.Quote %}> {{ single_rank.Quote }}{% endif %}
 
-{{ single_rank.Text }}
+{{ single_rank.Text | replace("`", '"') }}
 {% endfor %}{% endif %}
