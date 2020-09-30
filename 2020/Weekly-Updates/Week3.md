@@ -46,7 +46,7 @@ Never has my excitement for a football season been so quickly drowned in a batht
 
 > This year her roster might even be better...
 
-The clear frontrunner in any other year, Danielle's great start is obviously overshadowed by Jen's spiteful bludgeoning, but very impressive nonetheless.  What differentiates this team from last years is that she isn't just scraping by.  Her team has been a model of consistency, putting up 130+ every week thanks to Josh Allen having a breakout year and her WRs covering her deficiencies at RB2.  She has a tough matchup with Joe, but she wouldn't be forgiven for looking ahead to her showdown with Jen, which will likely determine first place for the first half of the season.  Last year's villain, Danielle may play hero this time around, as she has set herself up as maybe the only challenge to Jen's dominance.
+The clear frontrunner in any other year, Danielle's great start is obviously overshadowed by Jen's spiteful bludgeoning, but very impressive nonetheless.  What differentiates this team from last years is that she isn't just scraping by.  Her team has been a model of consistency, putting up 130+ every week thanks to Josh Allen having a breakout year and her WRs covering her deficiencies at RB2.  She has a tough matchup with Joe, but she would be forgiven for looking ahead to her showdown with Jen, which will likely determine first place for the first half of the season.  Last year's villain, Danielle may play hero this time around, as she has set herself up as maybe the only challenge to Jen's dominance.
 
 ## Jedi Knights
 
@@ -90,7 +90,7 @@ It's been a tale of two seasons this year for Anthony.  On the one hand, he's be
 
 > If AJ Green doesn't return to form, he will need to keep a very close eye on the waiver market the first couple weeks hoping to snag an early season breakout...
 
-So far this has been a pretty middling year for Jonathan.  As predicted, he has struggled getting points at WR, but 'help' is on the way in the form of OBJ.  What would have been a blockbuster steal a few weeks ago, might end up being an underwhelming acquisition given the current state of the Browns offense.  Jonathan is betting otherwise, and if he's right, he could quickly rise out of the middle of the pack.  If not, he's still going to have 2 empty spots at WR, which means he won't exactly be formidable.  In Jedi terms, that means he ends up getting shot in the back by some random stormtroopers.  Such is the fate for many of us in Jen's new empire.  A pretty even matchup with Ben this week should shed some more light on Jonathan's prospects.
+So far this has been a pretty middling year for Jonathan.  As predicted, he has struggled getting points at WR, but "help" is on the way in the form of OBJ.  What would have been a blockbuster steal a few weeks ago, might end up being an underwhelming acquisition given the current state of the Browns offense.  Jonathan is betting otherwise, and if he's right, he could quickly rise out of the middle of the pack.  If not, he's still going to have 2 empty spots at WR, which means he won't exactly be formidable.  In Jedi terms, that means he ends up getting shot in the back by some random stormtroopers.  Such is the fate for many of us in Jen's new empire.  A pretty even matchup with Ben this week should shed some more light on Jonathan's prospects.
 
 ### 7 - Tua Legit to Quit
 
@@ -120,7 +120,7 @@ As any of you who saw the debate last night may have gathered, Trump is clearly 
 
 > The Lions are bad, melons are gourds, and Ben is unpredictable...
 
-Ben hasn't exactly been lighting up the scoreboard, but he chose his moments wisely, as he is now sitting at 2-1 after beating up on two injury-depleted teams and looking as non-threating as possible in his matchup with Jen.  Is his team that threatening?  No.  But he's off to good start record wise, and Gronk has decide he actually wants to play football, so his TE situation may not be as dire as it once seemed.  Ben should remain in the middle of the pack, but the coronavirus situation has clearly dulled his penchant for unexpected moves.  Hopefully that will change, as the league could use a bit spice in these dark times.
+Ben hasn't exactly been lighting up the scoreboard, but he chose his moments wisely, as he is now sitting at 2-1 after beating up on two injury-depleted teams and looking as non-threating as possible in his matchup with Jen.  Is his team that threatening?  No.  But he's off to good start record wise, and Gronk has decided that he actually wants to play football, so his TE situation may not be as dire as it once seemed.  Ben should remain in the middle of the pack, but the coronavirus situation has clearly dulled his penchant for unexpected moves.  Hopefully that will change, as the league could use a bit of humor in these dark times.
 
 ### 10 - TompaBaeGronkaneers
 
