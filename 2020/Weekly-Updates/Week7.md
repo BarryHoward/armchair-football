@@ -104,7 +104,7 @@ More than half way through the season and Joe's very promising start has been so
 
 > Rule of Acquisition 211: Employees are the rungs on the ladder of success. Don't hesitate to step on them.
 
-Another year, another season of Anthony over-performing.  10th in points scored and 3rd in the standings, Anthony has found a way to squeak by some absolutely piddling opponents in an attempt to pretend to contend.  The really frustrating thing is that despite not having a great team, his schedule is quite favorable, so he's almost a shoe in for the playoffs.  He may not be making good decisions (You have an open IR spot, friend), but somehow he's still in a good position.  Again, just like the actual Eagles.  At this point, it's as if he's in this league just to annoy me.
+Another year, another season of Anthony over-performing.  10th in points scored and 3rd in the standings, Anthony has found a way to squeak by some absolutely piddling opponents in an attempt to pretend to contend.  The really frustrating thing is that despite not having a great team, his schedule is quite favorable, so he's almost a shoo-in for the playoffs.  He may not be making good decisions (You have an open IR spot, friend), but somehow he's still in a good position.  Again, just like the actual Eagles.  At this point, it's as if he's in this league just to annoy me.
 
 ### 7 - Haters Gonna Hate
 
