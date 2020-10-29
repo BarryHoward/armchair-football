@@ -3,22 +3,46 @@
 ## News
 
 <details>
-**No News**
+
+* Antonio Brown is Back!
+
+* Dez Bryant isn't really back.
+
+* The Falcons are Back!... to blowing leads.
+
 </details>
 
 ## Trades
 
 <details>
-**No Trades Were Made**
+
+### Trade 1 -- 10/11/20
+
+#### Exchange
+
+| Haters Gonna Hate | Matt's Team |
+|:---:|:---:|
+| Odell Beckham Jr | Amari Cooper |
+| Russell Gage |  |
+| D'Ernest Johnson |  |
+
+#### Opinion
+
+This seems like a lot for a WR1 to WR1 flip.  Odell is the better WR, but Amari is on a much better offense.
+
+#### Results
+
+And Odell is out for the season, lol...
+
 </details>
 
 # Power Rankings
 
 Author: Barry (The Art of the Deal)
 
-Dark days are upon us.  Corona is spiking, the stock market is down, and the doyers have claimed the baseball piece of metal.  In such a chaotic season, it is quite a challenge to invest in such a sorry lot of teams, so, as is tradition, I have turned to the Rules of Acquistion in order to make sense of it all.  If you don't know what the Rules of Acquisition are, you probably suck at Fantasy Football and are only being kept afloat by dumb luck.  That's right, this set of power rankings is Ferengi themed.  Deal with it.
+Dark days are upon us.  Corona is spiking, the stock market is down, and the doyers have claimed the baseball piece of metal.  In such a chaotic season, it is quite a challenge to invest in such a sorry lot of teams, so, as is tradition, I have turned to the Rules of Acquistion in order to make sense of it all.  If you don't know what the Rules of Acquisition are, you probably suck at Fantasy Football and are only being kept afloat by dumb luck.  That's right, this set of power rankings is Ferengi-themed.  Deal with it.
 
-## Grand Nagus
+## Grand Naguses
 
 ### 1 - BabyYodaFanClub
 
@@ -28,7 +52,7 @@ Dark days are upon us.  Corona is spiking, the stock market is down, and the doy
 
 > Rule of Acquisition 3: Never spend more for an acquisition than you have to.
 
-Jen seemingly is still the standout leader of the pack with a 7-0 record and a considerable points lead.  But upon closer inspection, the once dominant force in the league seems quite vulnerable.  Some would say she has been lucky the last three weeks, averaging only 98 pts, while others would say she's been efficient.  Either way, her point totals are trending in the wrong direction, and she's been a lot less Evil Queen and a lot more Silent Shrew the last couple weeks in chat.  Continued performances like this will no doubt cost her the title soon, but for now she's safe with a 2 game lead assuming she doesn't panic...
+Jen is seemingly still the standout leader of the pack with a 7-0 record and a considerable points lead.  But upon closer inspection, the once dominant force in the league seems quite vulnerable.  Some would say she has been lucky the last three weeks, averaging only 98 pts, while others would say she's been efficient.  Either way, her point totals are trending in the wrong direction, and she's been a lot less Evil Queen and a lot more Silent Shrew the last couple weeks in chat.  Continued performances like this will no doubt cost her the title soon, but for now she's safe with a 2 game lead assuming she doesn't panic...
 
 ### 2 - Tua Legit to Quit
 
@@ -40,7 +64,7 @@ Jen seemingly is still the standout leader of the pack with a 7-0 record and a c
 
 I had a couple guesses as to which teams would emerge from the middle of the aptly-named Jack Pack, and Jack himself was not one of them.  Having seemingly stumbled upon a very good RB2, Jack has ridden a very balanced team to a terrifying run we haven't seen from him in a while.  Faced with the most points scored against him, Jack has managed to almost close the seemingly cavernous points gap between Jen and the field and somehow has managed to end up 5-2.  Right now he's the league new rising star, despite everyone's best efforts to stop him.  If trends continue, I can see him setting up shop at the top of the standings before long.  He's got a lot of players on BYE, but he should still be able to handle Ben this week.
 
-## Jedi Master
+## Profiteers
 
 ### 3 - Mo ScreenZ Mo YardZ
 
@@ -56,7 +80,7 @@ A lot of chaos has transpired in the league this year, and somehow one of it's n
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 2 | 4-3-0 | 821.07 | 809.67 | 117.3 | 115.67 | 1-2-0 | 101.49 | 112.83 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 2 | 4-3-0 | 821.07 | 811.67 | 117.3 | 115.95 | 1-2-0 | 101.49 | 113.49 |
 
 > Rule of Acquisition 9: Opportunity plus instinct equals profit.
 
@@ -72,8 +96,6 @@ Until last week, the rage induced by Danielle's strange ability to put up wins s
 
 More than half way through the season and Joe's very promising start has been somewhat marred by two dissappointing losses against beatable opponents.  Particularly dissappointing is his wasted opportunity to end Jen's undefeated run.  While Joe may be doubting himself, his team is still solid if somewhat banged up.  Both his RB1s are questionable, and Mike Evans has a nagging case of seasonal invisibility.  But if Joe can ride out his injury wave, he should return to contender status.  Keeping up with the pack should be his priority for the next few weeks.
 
-## Padawans
-
 ### 6 - Eagle Eye
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
@@ -88,7 +110,7 @@ Another year, another season of Anthony overperforming.  10th in points scored a
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 1 | 4-3-0 | 789.15 | 737.22 | 112.74 | 105.32 | 1-2-0 | 113.42 | 105.61 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 1 | 4-3-0 | 789.15 | 737.32 | 112.74 | 105.33 | 1-2-0 | 113.42 | 105.64 |
 
 > Rule of Acquisition 194: It's always good business to know about new customers before they walk in your door.
 
@@ -102,7 +124,7 @@ As the old saying goes 'You should never judge a trade until the guy you traded 
 
 > Rule of Acquisition 62: The riskier the road, the greater the profit.
 
-In maybe one of this year's most shocking developments, the $50 waiver add of Mike Davis has paid dividends, and Jeff has come out of CMC's IR stint in the middle of the pack.  Even with CMC, his RB situation is pretty weak, and this team is probably not going to blow anyone away, but I'm pretty confident that this will be Jeff's first year not competing for the toilet bowl.  Now that he has weathered the storm though, Jeff has a solid chance at the entering the playoffs, which might satiate his gambling addiction just long enough to make it through this pandemic.
+In maybe one of this year's most shocking developments, the $50 waiver add of Mike Davis has paid dividends, and Jeff has come out of CMC's IR stint in the middle of the pack.  Even with CMC, his RB situation is pretty weak, and this team is probably not going to blow anyone away, but I'm pretty confident that this will be Jeff's first year not competing for the toilet bowl.  Emerging mostly intact from the CMC injury storm, Jeff has a solid chance at the entering the playoffs, which might satiate his gambling addiction just long enough to make it through this pandemic.
 
 ### 9 - danny pennies
 
@@ -112,17 +134,19 @@ In maybe one of this year's most shocking developments, the $50 waiver add of Mi
 
 > Rule of Acquisition 44:  Never confuse wisdom with luck.
 
-Another team hit by early injuries, Seething Suciu was a ball of bile for the first part of the year, but fortune has reversed for Dan as he has a healthy squad and has won three of his last four.  Insistent that there is no skill in fantasy football, Dan may soon be tempted to amend that position now that can take full advantage of the solid roster he has put together.  However, while his injuries came in bunches, so too did his weaker opponents, and now that his second half scheduled is stacked, and he will need his team firing on all cylinders.  Even with the challenging opponents ahead, I think he's got a playoff roster that can make a deep run if his luck holds.
+Another team hit by early injuries, Seething Suciu was a ball of bile for the first part of the year, but fortune has reversed for Dan as he has a healthy squad and has won three of his last four.  Insistent that there is no skill in fantasy football, Dan may soon be tempted to amend that position now that he can take full advantage of the solid roster he has put together.  However, while his injuries came in bunches, so too did his weaker opponents.  With a stacked second half schedule, he will need his team firing on all cylinders.  Even with the challenging opponents ahead, I think he's got a playoff roster that can make a deep run if his luck holds.
 
 ### 10 - The Art of the Deal
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 2 | 2-5-0 | 752.93 | 785.98 | 107.56 | 112.28 | 1-2-0 | 110.6 | 110.31 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 2 | 2-5-0 | 754.93 | 785.98 | 107.85 | 112.28 | 1-2-0 | 111.26 | 110.31 |
 
 > Rule of Acquisition 48: The bigger the smile, the sharper the knife.
 
 Struggling to find his rhythm early in the year, Barry finally began to hit his stride just in time to face bottom feeder Frank and struggling Danielle.  One look at the standings should clue you in on how those should-have-won matches ended up.  The two would-be cupcakes gave Barry's team indigestion, and now, despite having a good team with mediocre points, Barry's looking at a 2-5 record.  Any other year, this might be a death sentence, but since everybody is hovering at 4-3, there's still time for Barry to make moves, since that roster is clearly good when healthy, but he will have to take out some heavyweights to do it.  If he continues to falter, however, he's still close enough to the bottom of the standings to worry about toilet bowl contention.
+
+## Non-union workers
 
 ### 11 - melons are gourds
 
@@ -144,13 +168,11 @@ What started out as a promising year for the Detroit Darling has once again give
 
 It's official.  Odell is done for the season, and there's no take-backsies.  What looked like a solid trade on Matt's behalf soon turned ugly when Cleveland ruined yet another superstar, this time through injury.  Now Matt has to regroup for what could be a very important matchup as he takes on current league champion -- seriously, how did we let this happen? -- Alex in a contest to crawl out of last place.  It's been a season Matt would like to forget for many reasons, but he needs to pull it together, because it's in danger of getting a lot worse.
 
-## No Lobes
-
 ### 13 - Team Purple Reign
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| -- | 1-6-0 | 675.43 | 814.36 | 96.49 | 116.34 | 1-2-0 | 105.59 | 115.39 |
+| -- | 1-6-0 | 675.53 | 814.36 | 96.5 | 116.34 | 1-2-0 | 105.62 | 115.39 |
 
 > Rule of Acquisition 59: Free advice is seldom cheap.
 

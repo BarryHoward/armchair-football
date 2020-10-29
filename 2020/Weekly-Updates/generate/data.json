@@ -281,6 +281,34 @@
         ]
     },
     {
+        "Trades": [
+            {
+                "Traders": [
+                    {
+                        "Team": "Haters Gonna Hate",
+                        "Players": [
+                            "Odell Beckham Jr",
+                            "Russell Gage",
+                            "D'Ernest Johnson"
+                        ]
+                    },
+                    {
+                        "Team": "Matt's Team",
+                        "Players": [
+                            "Amari Cooper"
+                        ]
+                    }
+                ],
+                "Opinion": "This seems like a lot for a WR1 to WR1 flip.  Odell is the better WR, but Amari is on a much better offense.",
+                "Results": "And Odell is out for the season, lol...",
+                "Date": "10/11/20"
+            }
+        ],
+        "News": [
+            "Antonio Brown is Back!",
+            "Dez Bryant isn't really back.",
+            "The Falcons are Back!... to blowing leads."
+        ],
         "PowerRankings":{
             "Introduction": "Dark days are upon us.  Corona is spiking, the stock market is down, and the doyers have claimed the baseball piece of metal.  In such a chaotic season, it is quite a challenge to invest in such a sorry lot of teams, so, as is tradition, I have turned to the Rules of Acquistion in order to make sense of it all.  If you don't know what the Rules of Acquisition are, you probably suck at Fantasy Football and are only being kept afloat by dumb luck.  That's right, this set of power rankings is Ferengi-themed.  Deal with it.",
             "Ranks": [
@@ -327,7 +355,7 @@
                 {
                     "Team": "danny pennies",
                     "Quote": "Rule of Acquisition 44:  Never confuse wisdom with luck.",
-                    "Text": "Another team hit by early injuries, Seething Suciu was a ball of bile for the first part of the year, but fortune has reversed for Dan as he has a healthy squad and has won three of his last four.  Insistent that there is no skill in fantasy football, Dan may soon be tempted to amend that position now that he can take full advantage of the solid roster he has put together.  However, while his injuries came in bunches, so too did his weaker opponents, and now that his second half scheduled is stacked, and he will need his team firing on all cylinders.  Even with the challenging opponents ahead, I think he's got a playoff roster that can make a deep run if his luck holds."
+                    "Text": "Another team hit by early injuries, Seething Suciu was a ball of bile for the first part of the year, but fortune has reversed for Dan as he has a healthy squad and has won three of his last four.  Insistent that there is no skill in fantasy football, Dan may soon be tempted to amend that position now that he can take full advantage of the solid roster he has put together.  However, while his injuries came in bunches, so too did his weaker opponents.  With a stacked second half schedule, he will need his team firing on all cylinders.  Even with the challenging opponents ahead, I think he's got a playoff roster that can make a deep run if his luck holds."
                 },
                 {
                     "Team": "The Art of the Deal",
