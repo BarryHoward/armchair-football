@@ -27,7 +27,7 @@
                 "Mrs. OBJ": 124.73
             },
             {
-                "F's Dandy Team": 85.54,
+                "Team Purple Reign": 85.54,
                 "Tua Legit to Quit": 103.87
             }
         ]
@@ -56,7 +56,7 @@
             },
             {
                 "Mrs. OBJ": 134.10,
-                "F's Dandy Team": 132.30
+                "Team Purple Reign": 132.30
             },
             {
                 "Tua Legit to Quit": 119.25,
@@ -89,7 +89,7 @@
             },
             {
                 "noLuck": 104.59,
-                "F's Dandy Team": 76.40
+                "Team Purple Reign": 76.40
             },
             {
                 "Mrs. OBJ": 132.04,
@@ -164,7 +164,7 @@
                     "Text": "People handle grief in all sorts of ways.  Jeff handled it last year with a weirdly endearing form of nihilism.  Dan just seems to be pissed.  Losing one's WR1, TE1, RB3, etc to injuries is enough to turn anyone's eyes yellow, so I can forgive both Dan's recent demeanor and his place in the standings.  Luckily, Thomas and Kittle should be back this week or the next, and if they aren't back this week, he has the solace of matching up against Frank -- one of the few teams he has a chance against short-handed.  If he can hold out and get to a 2-2 record, a healthy squad could lead to him making a push down the stretch, but another loss could mean he's in toilet bowl contention.  The duel of dookies this week could have some surprising relevance."
                 },
                 {
-                    "Team": "F's Dandy Team",
+                    "Team": "Team Purple Reign",
                     "Quote": "There's a fine line between forging your own path and marching off a cliff...",
                     "Text": "I, for one, would like to thank Frank for diving head first into the fantasy waters, because this clearly hasn't been the start that a rookie would have hoped for.  As expected, Frank's team has struggled to keep up with veteran squads, and the one time they did perform, they fell victim to Danielle's voodoo, leaving Frank in a 2-way competition for the toilet bowl with Alex.  Hopefully Alex can give him some pointers on how to pull out of a nosedive if she's not too busy hoarding them all for herself."
                 },
@@ -183,5 +183,215 @@
             },
             "Author": "Barry (The Art of the Deal)"
         }
+    },
+    {
+        "Results": [
+            {
+                "The Art of the Deal": 94.35,
+                "Eagle Eye": 110.12
+            },
+            {
+                "A1 Since Day 1": 115.12,
+                "Tua Legit to Quit": 115.75
+            },
+            {
+                "Haters Gonna Hate": 128.01,
+                "melons are gourds": 106.84               
+            },
+            {
+                "danny pennies": 125.64,
+                "Team Purple Reign": 64.43
+            },
+            {
+                "BabyYodaFanClub": 111.70,
+                "Matt's Team": 103.55
+            },
+            {
+                "noLuck": 142.67,
+                "Mrs. OBJ": 125.72
+            },
+            {
+                "Mo ScreenZ Mo YardZ": 101.75,
+                "TompaBaeGronkaneers": 106.49
+            }
+        ]
+    },
+    {
+        "Results": [
+            {
+                "The Art of the Deal": 93.84,
+                "Matt's Team": 69.69
+            },
+            {
+                "Mo ScreenZ Mo YardZ": 125.73,
+                "A1 Since Day 1": 77.75
+            },
+            {
+                "Eagle Eye": 97.00,
+                "Haters Gonna Hate": 92.82             
+            },
+            {
+                "Mrs. OBJ": 90.07,
+                "danny pennies": 116.04
+            },
+            {
+                "BabyYodaFanClub": 109.46,
+                "Team Purple Reign": 94.74
+            },
+            {
+                "Tua Legit to Quit": 126.56,
+                "noLuck": 137.70
+            },
+            {
+                "melons are gourds": 112.57,
+                "TompaBaeGronkaneers": 128.56
+            }
+        ]
+    },
+    {
+        "Results": [
+            {
+                "The Art of the Deal": 101.59,
+                "Team Purple Reign": 117.47
+            },
+            {
+                "melons are gourds": 94.92,
+                "A1 Since Day 1": 112.24
+            },
+            {
+                "Matt's Team": 115.27,
+                "Haters Gonna Hate": 112.34           
+            },
+            {
+                "noLuck": 100.61,
+                "danny pennies": 107.32
+            },
+            {
+                "BabyYodaFanClub": 86.08,
+                "Mrs. OBJ": 70.63
+            },
+            {
+                "Mo ScreenZ Mo YardZ": 112.97,
+                "Tua Legit to Quit": 121.05
+            },
+            {
+                "Eagle Eye": 101.30,
+                "TompaBaeGronkaneers": 82.07
+            }
+        ]
+    },
+    {
+        "PowerRankings":{
+            "Introduction": "Dark days are upon us.  Corona is spiking, the stock market is down, and the doyers have claimed the baseball piece of metal.  In such a chaotic season, it is quite a challenge to invest in such a sorry lot of teams, so, as is tradition, I have turned to the Rules of Acquistion in order to make sense of it all.  If you don't know what the Rules of Acquisition are, you probably suck at Fantasy Football and are only being kept afloat by dumb luck.  That's right, this set of power rankings is Ferengi themed.  Deal with it.",
+            "Ranks": [
+                {
+                    "Team": "BabyYodaFanClub",
+                    "Quote": "Rule of Acquisition 3: Never spend more for an acquisition than you have to.",
+                    "Text": "Jen seemingly is still the standout leader of the pack with a 7-0 record and a considerable points lead.  But upon closer inspection, the once dominant force in the league seems quite vulnerable.  Some would say she has been lucky the last three weeks, averaging only 98 pts, while others would say she's been efficient.  Either way, her point totals are trending in the wrong direction, and she's been a lot less Evil Queen and a lot more Silent Shrew the last couple weeks in chat.  Continued performances like this will no doubt cost her the title soon, but for now she's safe with a 2 game lead assuming she doesn't panic..."
+                },
+                {
+                    "Team": "Tua Legit to Quit",
+                    "Quote": "Rule of Acquisition 95: Expand or die.",
+                    "Text": "I had a couple guesses as to which teams would emerge from the middle of the aptly-named Jack Pack, and Jack himself was not one of them.  Having seemingly stumbled upon a very good RB2, Jack has ridden a very balanced team to a terrifying run we haven't seen from him in a while.  Faced with the most points scored against him, Jack has managed to almost close the seemingly cavernous points gap between Jen and the field and somehow has managed to end up 5-2.  Right now he's the league new rising star, despite everyone's best efforts to stop him.  If trends continue, I can see him setting up shop at the top of the standings before long.  He's got a lot of players on BYE, but he should still be able to handle Ben this week."
+                },
+                {
+                    "Team": "Mo ScreenZ Mo YardZ",
+                    "Quote": "Rule of Acquisition 203: New customers are like razor-toothed gree-worms. They can be succulent, but sometimes they bite back.",
+                    "Text": "A lot of chaos has transpired in the league this year, and somehow one of it's newest members has found his way close to the top.  What should really worry the league is that a guy with seemingly little interest in football was the first to pounce on the hot new free agent acquisition -- the one, the only, the oft accused and subsequently unemployed, the once frosty-footed, Antonio Brown himself.  This either means that Michael has some sort of secret alert system set up or he is actually related to Adam Schefter.  Either way, this will probably give him the boost he needs to continue his winning ways and take Alex's place as the newbie that nobody saw coming."
+                },
+                {
+                    "Team": "Mrs. OBJ",
+                    "Quote": "Rule of Acquisition 9: Opportunity plus instinct equals profit.",
+                    "Text": "Until last week, the rage induced by Danielle's strange ability to put up wins she had no business getting was pretty humorous to me.  It is not anymore.  After two losses averaging 80pts, it seemed that Danielle was falling out of contention, but lo and behold, she managed to put up 144pt last week against your's truly despite starting an injured player.  Due to her overall trend, I have her ranked much lower than her actualy ranking as she's projected to again put up mid-80s points, but the damage is done, and now 2020 is officially the year of Covid, the Doyers, and Tyler Locket putting up 43pts at exactly the wrong time."
+                },
+                {
+                    "Team": "noLuck",
+                    "Quote": "Rule of Acquisition 263: Never allow doubt to tarnish your lust for latinum.",
+                    "Text": "More than half way through the season and Joe's very promising start has been somewhat marred by two dissappointing losses against beatable opponents.  Particularly dissappointing is his wasted opportunity to end Jen's undefeated run.  While Joe may be doubting himself, his team is still solid if somewhat banged up.  Both his RB1s are questionable, and Mike Evans has a nagging case of seasonal invisibility.  But if Joe can ride out his injury wave, he should return to contender status.  Keeping up with the pack should be his priority for the next few weeks."
+                },
+                {
+                    "Team": "Eagle Eye",
+                    "Quote": "Rule of Acquisition 211: Employees are the rungs on the ladder of success. Don't hesitate to step on them.",
+                    "Text": "Another year, another season of Anthony overperforming.  10th in points scored and 3rd in the standings, Anthony has found a way to squeak by some absolutely piddling opponents in an attempt to pretend to contend.  The really frustrating thing is that despite not having a great team, his schedule is quite favorable, so he's almost a shoe in for the playoffs.  He may not be making good decisions (You have an open IR spot, friend), but somehow he's still in a good position.  Again, just like the actual Eagles.  At this point, it's as if he's in this league just to annoy me."
+                },
+                {
+                    "Team": "Haters Gonna Hate",
+                    "Quote": "Rule of Acquisition 194: It's always good business to know about new customers before they walk in your door.",
+                    "Text": "As the old saying goes 'You should never judge a trade until the guy you traded away goes on the IR', so now I feel pretty confident that Jonathan won his Amari Cooper trade with newcomer Matt.  Is it enough to drag him out of the middle of the pack?  Probably not.  Even by his own admission, this remains a medicore squad at best.  If Ekeler returns, that could change, but for now, his ceiling seems to be a first round playoff exit.  He has also informed me that being Superman is boring, so maybe all this mediocrity is by design."
+                },
+                {
+                    "Team": "TompaBaeGronkaneers",
+                    "Quote": "Rule of Acquisition 62: The riskier the road, the greater the profit.",
+                    "Text": "In maybe one of this year's most shocking developments, the $50 waiver add of Mike Davis has paid dividends, and Jeff has come out of CMC's IR stint in the middle of the pack.  Even with CMC, his RB situation is pretty weak, and this team is probably not going to blow anyone away, but I'm pretty confident that this will be Jeff's first year not competing for the toilet bowl.  Now that he has weathered the storm though, Jeff has a solid chance at the entering the playoffs, which might satiate his gambling addiction just long enough to make it through this pandemic."
+                },
+                {
+                    "Team": "danny pennies",
+                    "Quote": "Rule of Acquisition 44:  Never confuse wisdom with luck.",
+                    "Text": "Another team hit by early injuries, Seething Suciu was a ball of bile for the first part of the year, but fortune has reversed for Dan as he has a healthy squad and has won three of his last four.  Insistent that there is no skill in fantasy football, Dan may soon be tempted to amend that position now that can take full advantage of the solid roster he has put together.  However, while his injuries came in bunches, so too did his weaker opponents, and now that his second half scheduled is stacked, and he will need his team firing on all cylinders.  Even with the challenging opponents ahead, I think he's got a playoff roster that can make a deep run if his luck holds."
+                },
+                {
+                    "Team": "The Art of the Deal",
+                    "Quote": "Rule of Acquisition 48: The bigger the smile, the sharper the knife.",
+                    "Text": "Struggling to find his rhythm early in the year, Barry finally began to hit his stride just in time to face bottom feeder Frank and struggling Danielle.  One look at the standings should clue you in on how those should-have-won matches ended up.  The two would-be cupcakes gave Barry's team indigestion, and now, despite having a good team with mediocre points, Barry's looking at a 2-5 record.  Any other year, this might be a death sentence, but since everybody is hovering at 4-3, there's still time for Barry to make moves, since that roster is clearly good when healthy, but he will have to take out some heavyweights to do it.  If he continues to falter, however, he's still close enough to the bottom of the standings to worry about toilet bowl contention."
+                },
+                {
+                    "Team": "melons are gourds",
+                    "Quote": "Rule of Acquisition 217: You can't free a fish from water.",
+                    "Text": "What started out as a promising year for the Detroit Darling has once again given way to another Ben's bottom bowl bereavement.  Perhaps it is the nature of any person who invests so heavily in the Lions (and I appreciate the irony considering how many Falcons players I picked up this year), but Ben seems destined to teeter near the bottom of the standings.  Chances are he will again avoid the toilet bowl, as his team seems just good enough to keep Matt Patricia employed and to keep Ben somewhat invested in the league."
+                },
+                {
+                    "Team": "Matt's Team",
+                    "Quote": "Rule of Acquisition 16: A deal is a deal.",
+                    "Text": "It's official.  Odell is done for the season, and there's no take-backsies.  What looked like a solid trade on Matt's behalf soon turned ugly when Cleveland ruined yet another superstar, this time through injury.  Now Matt has to regroup for what could be a very important matchup as he takes on current league champion -- seriously, how did we let this happen? -- Alex in a contest to crawl out of last place.  It's been a season Matt would like to forget for many reasons, but he needs to pull it together, because it's in danger of getting a lot worse."
+                },
+                {
+                    "Team": "Team Purple Reign",
+                    "Quote": "Rule of Acquisition 59: Free advice is seldom cheap.",
+                    "Text": "Now that Frank has graciously remembered that his team is scoring less than 100pts per week, it's back to his regularly scheduled toilet bowl avoidance dance.  Despite all the league's advice to him on draft day, Frank continues to falter (except of course when I need him to) with a subpar roster that got quite a bit worse when Dak went down.  He still looks better than Alex, though, but he's in a precarious position until he finds a way to get another win.  If CMC plays for Jeff, he will need another miracle to pull that off."
+                },
+                {
+                    "Team": "A1 Since Day 1",
+                    "Quote": "Rule of Acquisition 109: Dignity and an empty sack is worth the sack.",
+                    "Text": "To those of you afraid of Alex's voodoo, rest assured, her season isn't coming back from the dead at this point.  The clear favorite for the toilet bowl, the champ is doing everything in her power to prove last season was the fluke of end all flukes.  While most of the people near the bottom have injuries or luck to blame, I can assure that this is just a poor roster.  Alex will need to do all she can to avoid the embarassment/honor of getting both league trophies back to back from here on out.  I'm not optimistic for her."
+                }
+            ],
+            "Tiers": {
+                "1": "Grand Nagus",
+                "3": "Jedi Master",
+                "6": "Padawans",
+                "13": "No Lobes"
+            },
+            "Author": "Barry (The Art of the Deal)"
+        },
+        "Results": [
+            {
+                "The Art of the Deal": 136.36,
+                "Mrs. OBJ": 143.78
+            },
+            {
+                "A1 Since Day 1": 74.37,
+                "Eagle Eye": 80.20
+            },
+            {
+                "Team Purple Reign": 104.55,
+                "Haters Gonna Hate": 135.11          
+            },
+            {
+                "Tua Legit to Quit": 132.21,
+                "danny pennies": 121.32
+            },
+            {
+                "BabyYodaFanClub": 98.27,
+                "noLuck": 85.55
+            },
+            {
+                "Mo ScreenZ Mo YardZ": 107.02,
+                "melons are gourds": 80.20
+            },
+            {
+                "TompaBaeGronkaneers": 120.33,
+                "Matt's Team": 91.44
+            }
+        ]
     }
 ]
