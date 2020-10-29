@@ -282,12 +282,12 @@
     },
     {
         "PowerRankings":{
-            "Introduction": "Dark days are upon us.  Corona is spiking, the stock market is down, and the doyers have claimed the baseball piece of metal.  In such a chaotic season, it is quite a challenge to invest in such a sorry lot of teams, so, as is tradition, I have turned to the Rules of Acquistion in order to make sense of it all.  If you don't know what the Rules of Acquisition are, you probably suck at Fantasy Football and are only being kept afloat by dumb luck.  That's right, this set of power rankings is Ferengi themed.  Deal with it.",
+            "Introduction": "Dark days are upon us.  Corona is spiking, the stock market is down, and the doyers have claimed the baseball piece of metal.  In such a chaotic season, it is quite a challenge to invest in such a sorry lot of teams, so, as is tradition, I have turned to the Rules of Acquistion in order to make sense of it all.  If you don't know what the Rules of Acquisition are, you probably suck at Fantasy Football and are only being kept afloat by dumb luck.  That's right, this set of power rankings is Ferengi-themed.  Deal with it.",
             "Ranks": [
                 {
                     "Team": "BabyYodaFanClub",
                     "Quote": "Rule of Acquisition 3: Never spend more for an acquisition than you have to.",
-                    "Text": "Jen seemingly is still the standout leader of the pack with a 7-0 record and a considerable points lead.  But upon closer inspection, the once dominant force in the league seems quite vulnerable.  Some would say she has been lucky the last three weeks, averaging only 98 pts, while others would say she's been efficient.  Either way, her point totals are trending in the wrong direction, and she's been a lot less Evil Queen and a lot more Silent Shrew the last couple weeks in chat.  Continued performances like this will no doubt cost her the title soon, but for now she's safe with a 2 game lead assuming she doesn't panic..."
+                    "Text": "Jen is seemingly still the standout leader of the pack with a 7-0 record and a considerable points lead.  But upon closer inspection, the once dominant force in the league seems quite vulnerable.  Some would say she has been lucky the last three weeks, averaging only 98 pts, while others would say she's been efficient.  Either way, her point totals are trending in the wrong direction, and she's been a lot less Evil Queen and a lot more Silent Shrew the last couple weeks in chat.  Continued performances like this will no doubt cost her the title soon, but for now she's safe with a 2 game lead assuming she doesn't panic..."
                 },
                 {
                     "Team": "Tua Legit to Quit",
@@ -322,12 +322,12 @@
                 {
                     "Team": "TompaBaeGronkaneers",
                     "Quote": "Rule of Acquisition 62: The riskier the road, the greater the profit.",
-                    "Text": "In maybe one of this year's most shocking developments, the $50 waiver add of Mike Davis has paid dividends, and Jeff has come out of CMC's IR stint in the middle of the pack.  Even with CMC, his RB situation is pretty weak, and this team is probably not going to blow anyone away, but I'm pretty confident that this will be Jeff's first year not competing for the toilet bowl.  Now that he has weathered the storm though, Jeff has a solid chance at the entering the playoffs, which might satiate his gambling addiction just long enough to make it through this pandemic."
+                    "Text": "In maybe one of this year's most shocking developments, the $50 waiver add of Mike Davis has paid dividends, and Jeff has come out of CMC's IR stint in the middle of the pack.  Even with CMC, his RB situation is pretty weak, and this team is probably not going to blow anyone away, but I'm pretty confident that this will be Jeff's first year not competing for the toilet bowl.  Emerging mostly intact from the CMC injury storm, Jeff has a solid chance at the entering the playoffs, which might satiate his gambling addiction just long enough to make it through this pandemic."
                 },
                 {
                     "Team": "danny pennies",
                     "Quote": "Rule of Acquisition 44:  Never confuse wisdom with luck.",
-                    "Text": "Another team hit by early injuries, Seething Suciu was a ball of bile for the first part of the year, but fortune has reversed for Dan as he has a healthy squad and has won three of his last four.  Insistent that there is no skill in fantasy football, Dan may soon be tempted to amend that position now that can take full advantage of the solid roster he has put together.  However, while his injuries came in bunches, so too did his weaker opponents, and now that his second half scheduled is stacked, and he will need his team firing on all cylinders.  Even with the challenging opponents ahead, I think he's got a playoff roster that can make a deep run if his luck holds."
+                    "Text": "Another team hit by early injuries, Seething Suciu was a ball of bile for the first part of the year, but fortune has reversed for Dan as he has a healthy squad and has won three of his last four.  Insistent that there is no skill in fantasy football, Dan may soon be tempted to amend that position now that he can take full advantage of the solid roster he has put together.  However, while his injuries came in bunches, so too did his weaker opponents, and now that his second half scheduled is stacked, and he will need his team firing on all cylinders.  Even with the challenging opponents ahead, I think he's got a playoff roster that can make a deep run if his luck holds."
                 },
                 {
                     "Team": "The Art of the Deal",
@@ -356,10 +356,9 @@
                 }
             ],
             "Tiers": {
-                "1": "Grand Nagus",
-                "3": "Jedi Master",
-                "6": "Padawans",
-                "13": "No Lobes"
+                "1": "Grand Naguses",
+                "3": "Profiteers",
+                "11": "Non-union workers"
             },
             "Author": "Barry (The Art of the Deal)"
         },
