@@ -136,7 +136,7 @@ Welp, Jeff made the very shrewd move of trading all of last year's injuries for 
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| -- | 1-2-0 | 315.38 | 329.96 | 105.13 | 109.99 | 1-2-0 | 105.13 | 109.99 |
+| -- | 1-2-0 | 315.38 | 330.96 | 105.13 | 110.32 | 1-2-0 | 105.13 | 110.32 |
 
 > Matt began to draft a below average team in my estimation...
 
@@ -146,7 +146,7 @@ Welp, Jeff made the very shrewd move of trading all of last year's injuries for 
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| -- | 1-2-0 | 272.73 | 303.54 | 90.91 | 101.18 | 1-2-0 | 90.91 | 101.18 |
+| -- | 1-2-0 | 273.73 | 303.54 | 91.24 | 101.18 | 1-2-0 | 91.24 | 101.18 |
 
 > Perhaps it's not healthy to delve too deeply into the mind of Suciu...
 
@@ -154,7 +154,7 @@ People handle grief in all sorts of ways.  Jeff handled it last year with a weir
 
 ## Younglings
 
-### 13 - F's Dandy Team
+### 13 - Team Purple Reign
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

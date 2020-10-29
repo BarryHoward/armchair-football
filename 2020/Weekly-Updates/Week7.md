@@ -24,7 +24,7 @@ Dark days are upon us.  Corona is spiking, the stock market is down, and the doy
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| -- | 7-0-0 | 861.59 | 675.06 | 123.08 | 96.44 | 3-0-0 | 97.94 | 83.64 |
+| -- | 7-0-0 | 861.59 | 674.06 | 123.08 | 96.29 | 3-0-0 | 97.94 | 83.31 |
 
 > Rule of Acquisition 3: Never spend more for an acquisition than you have to.
 
@@ -66,7 +66,7 @@ Until last week, the rage induced by Danielle's strange ability to put up wins s
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 1 | 4-3-0 | 801.1 | 782.15 | 114.44 | 111.74 | 1-2-0 | 107.95 | 110.72 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 1 | 4-3-0 | 800.1 | 782.15 | 114.3 | 111.74 | 1-2-0 | 107.62 | 110.72 |
 
 > Rule of Acquisition 263: Never allow doubt to tarnish your lust for latinum.
 
@@ -108,7 +108,7 @@ In maybe one of this year's most shocking developments, the $50 waiver add of Mi
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 3 | 4-3-0 | 743.05 | 690.86 | 106.15 | 98.69 | 2-1-0 | 114.89 | 107.63 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg' width='15px'> 3 | 4-3-0 | 744.05 | 690.86 | 106.29 | 98.69 | 2-1-0 | 114.89 | 107.63 |
 
 > Rule of Acquisition 44:  Never confuse wisdom with luck.
 
@@ -138,7 +138,7 @@ What started out as a promising year for the Detroit Darling has once again give
 
 | Change | Record | Total Points | Total Points Against | Avg Points | Avg Points Against | Record (Last 3) | Avg Points (Last 3) | Avg Points Against (Last 3)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 1 | 2-5-0 | 695.33 | 768.17 | 99.33 | 109.74 | 1-2-0 | 92.13 | 108.84 |
+| <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg' width='15px'> 1 | 2-5-0 | 695.33 | 769.17 | 99.33 | 109.88 | 1-2-0 | 92.13 | 108.84 |
 
 > Rule of Acquisition 16: A deal is a deal.
 

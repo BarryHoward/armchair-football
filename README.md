@@ -29,11 +29,11 @@ As decreed by Queen Alex, this is not a league for plebs, only the elite can sur
 
 ## Current Officers
 
-* Commissioner             Jonathan "Too good for GE" Reed
-* Assistant Commissioner   Vacant (I think)
-* Treasurer                Jeff "Invisible Hand" Arredondo
-* Scribe                   Barry "Drama Drinker" Howard
-* Enforcer                 Jen "The Kneecapper" Strollo
+* Commissioner --              Jonathan "Too good for GE" Reed
+* Assistant Commissioner --    Vacant (I think)
+* Treasurer --                 Jeff "Invisible Hand" Arredondo
+* Scribe --                    Barry "Drama Drinker" Howard
+* Enforcer --                  Jen "Spin Move" Strollo
 
 ## Getting Around
 
