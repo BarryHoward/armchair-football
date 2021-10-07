@@ -16,7 +16,7 @@
 
 Author: Barry (The Rules of Acquisition)
 
-Never has my excitement for a football season been so quickly drowned in a baththub of my own tears.  If this season continues on this path, these power rankings will soon be classified as hate speech.  But I'm mostly good for now.  In honor of our new overlord, please enjoy these Star Wars themed power rankings...
+Yet another underperforming year for me so far.  I just want you to know that I hate Jeff and all the rest of you in that order.
 
 ## Behemoths
 
