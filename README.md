@@ -26,6 +26,7 @@ As decreed by Queen Alex, this is not a league for plebs, only the elite can sur
 * 2017 - Todd Kasper
 * 2018 - Barry Howard
 * 2019 - Alex Miller-Browne
+* 2020 - Jennifer Strollo
 
 ## Current Officers
 
