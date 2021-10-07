@@ -14,11 +14,21 @@ Welcome to the ATL Armchair Football League, a high-drama league filled with GE 
 
 ## A Word from our Current Champion
 
-As decreed by Queen Alex, this is not a league for plebs, only the elite can survive. To be a winner, is to be part of the bad and bougie social class. I suggest you strive for that. 
+Dear Losers,
+
+I bet it hurt to watch my reign of dominance last season.
+
+Your envy fuels me, keep up the jealousy.
 
 <p align="center">
-    <img src='https://media.giphy.com/media/Qe5C3J0wRkyGs/giphy.gif' align="middle" width="400px">
+    <img src="https://c.tenor.com/Fm3aC8opfFwAAAAC/bts-mic-drop.gif" align="middle" width="400px">
 </p>
+
+https://www.youtube.com/watch?v=kTlv5_Bs8aw
+
+Sincerely, Jen
+
+
 
 
 ## Past Champions
