@@ -2,6 +2,7 @@
 
 ## Links
 
-* [League](https://football.fantasysports.yahoo.com/f1/114414)
+* [League](https://archive.fantasysports.yahoo.com/nfl/2020/114414)
 
-* [Draft](https://football.fantasysports.yahoo.com/f1/114414/draft)
+* [Draft](https://archive.fantasysports.yahoo.com/archive/nfl/2020/114414/draftresults)
+
