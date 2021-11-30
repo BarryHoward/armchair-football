@@ -146,5 +146,248 @@
                 "Matt's Team": 123.17
             }
         ]
+    },
+    {
+        "Results": [
+            {
+                "The Rules of Acquisition": 109.65,
+                "Mo ScreenZ Mo YardZ": 125.63
+            },
+            {
+                "A1 Since Day 1": 102.11,
+                "melons are gourds": 164.77
+            },
+            {
+                "PostMahomes": 83.88,
+                "noLuck": 138.09
+            },
+            {
+                "Stream Butter": 117.68,
+                "Haters Gonna Hate": 104.68
+            },
+            {
+                "Tua Legit to Quit": 162.95,
+                "Matt's Team": 114.53
+            }
+        ]
+    },
+    {
+        "Results": [
+            {
+                "The Rules of Acquisition": 132.89,
+                "Haters Gonna Hate": 158.60
+            },
+            {
+                "melons are gourds": 139.05,
+                "Matt's Team": 125.42
+            },
+            {
+                "A1 Since Day 1": 121.08,
+                "noLuck": 129.34
+            },
+            {
+                "Stream Butter": 101.70,
+                "PostMahomes": 118.78
+            },
+            {
+                "Tua Legit to Quit": 85.57,
+                "Mo ScreenZ Mo YardZ": 123.77
+            }
+        ]
+    },
+    {
+        "Results": [
+            {
+                "The Rules of Acquisition": 136.86,
+                "PostMahomes": 74.74
+            },
+            {
+                "Mo ScreenZ Mo YardZ": 124.88,
+                "Matt's Team": 122.40
+            },
+            {
+                "melons are gourds": 127.23,
+                "noLuck": 105.09
+            },
+            {
+                "Stream Butter": 118.38,
+                "A1 Since Day 1": 125.59
+            },
+            {
+                "Tua Legit to Quit": 101.73,
+                "Haters Gonna Hate": 95.05
+            }
+        ]
+    },
+    {
+        "Results": [
+            {
+                "The Rules of Acquisition": 107.70,
+                "A1 Since Day 1": 94.11
+            },
+            {
+                "Haters Gonna Hate": 155.80,
+                "Mo ScreenZ Mo YardZ": 96.83
+            },
+            {
+                "Matt's Team": 86.69,
+                "noLuck": 123.66
+            },
+            {
+                "Stream Butter": 98.72,
+                "melons are gourds": 95.87
+            },
+            {
+                "PostMahomes": 90.20,
+                "Tua Legit to Quit": 97.86
+            }
+        ]
+    },
+    {
+        "Results": [
+            {
+                "The Rules of Acquisition": 90.61,
+                "melons are gourds": 91.99
+            },
+            {
+                "PostMahomes": 86.74,
+                "Mo ScreenZ Mo YardZ": 70.11
+            },
+            {
+                "Haters Gonna Hate": 75.58,
+                "Matt's Team": 68.58
+            },
+            {
+                "Stream Butter": 150.49,
+                "noLuck": 111.98
+            },
+            {
+                "A1 Since Day 1": 106.39,
+                "Tua Legit to Quit": 102.06
+            }
+        ]
+    },
+    {
+        "Results": [
+            {
+                "The Rules of Acquisition": 93.12,
+                "noLuck": 111.54
+            },
+            {
+                "A1 Since Day 1": 131.95,
+                "Mo ScreenZ Mo YardZ": 93.04
+            },
+            {
+                "Haters Gonna Hate": 120.34,
+                "PostMahomes": 109.24
+            },
+            {
+                "Stream Butter": 74.97,
+                "Matt's Team": 73.50
+            },
+            {
+                "Tua Legit to Quit": 99.44,
+                "melons are gourds": 110.45
+            }
+        ]
+    },
+    {
+        "Results": [
+            {
+                "The Rules of Acquisition": 120.35,
+                "Stream Butter": 120.88
+            },
+            {
+                "melons are gourds": 158.33,
+                "Mo ScreenZ Mo YardZ": 91.42
+            },
+            {
+                "A1 Since Day 1": 149.03,
+                "Haters Gonna Hate": 84.84
+            },
+            {
+                "PostMahomes": 81.85,
+                "Matt's Team": 77.09
+            },
+            {
+                "noLuck": 137.77,
+                "Tua Legit to Quit": 120.66
+            }
+        ]
+    },
+    {
+        "PowerRankings":{
+            "Introduction": "Welcome to the Playoff Preview / Lazy Boy Power Rankings!",
+            "Ranks": [
+                {
+                    "Team": "noLuck",
+                    "Text": "Mr. Consistency"
+                },
+                {
+                    "Team": "melons are gourds",
+                    "Text": "Sleeping Giant"
+                },
+                {
+                    "Team": "Haters Gonna Hate",
+                    "Text": "Choke Job Inc."
+                },
+                {
+                    "Team": "A1 Since Day 1",
+                    "Text": "Make Way for the Queen"
+                },
+                {
+                    "Team": "Stream Butter",
+                    "Text": "Fantasy Football is Bullshit"
+                },
+                {
+                    "Team": "The Rules of Acquisition",
+                    "Text": "Fantasy Football is Bullshit"
+                },
+                {
+                    "Team": "Mo ScreenZ Mo YardZ",
+                    "Text": "Dude, where's my RB?"
+                },
+                {
+                    "Team": "PostMahomes",
+                    "Text": "Chaos isn't a Ladder.  It's a Chute."
+                },
+                {
+                    "Team": "Tua Legit to Quit",
+                    "Text": "4 Losses.  Do I hear 5?"
+                },
+                {
+                    "Team": "Matt's Team",
+                    "Text": "Does the toilet bowl come with cash?"
+                }
+            ],
+            "Tiers": {
+                "1": "Contenders",
+                "6": "Pretenders"
+            },
+            "Author": "Barry (The Rules of Acquisition)"
+        },
+        "News": ["Pay Your DAMN Fees!"],
+        "Results": [
+            {
+                "The Rules of Acquisition": 110.98,
+                "Matt's Team": 68.54
+            },
+            {
+                "noLuck": 129.80,
+                "Mo ScreenZ Mo YardZ": 100.97
+            },
+            {
+                "Haters Gonna Hate": 109.35,
+                "melons are gourds": 97.62
+            },
+            {
+                "PostMahomes": 84.12,
+                "A1 Since Day 1": 126.25
+            },
+            {
+                "Stream Butter": 121.55,
+                "Tua Legit to Quit": 117.75
+            }
+        ]
     }
 ]

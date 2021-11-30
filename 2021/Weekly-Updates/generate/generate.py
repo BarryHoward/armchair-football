@@ -3,7 +3,7 @@ import json
 
 import jinja2
 
-GEN_INDEX = 4
+GEN_INDEX = 12
 UP_ARROW = 'https://upload.wikimedia.org/wikipedia/commons/f/fe/Green-Up-Arrow.svg'
 DOWN_ARROW = 'https://upload.wikimedia.org/wikipedia/commons/6/62/RedDownArrow.svg'
 
