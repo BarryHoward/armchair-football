@@ -81,13 +81,13 @@ There are 7 official playoff contenders, but 5 contenders in reality.  The scena
             * Alex wins both games and Jen does not outscore Alex by 125 points - 45%
             * Jeff wins both games and Jeff outscores Jen by 85 points - 1%
 
-4. **Haters Gonna Hate (7-5-0 | 1402.34)  --  70.0%**
+4. **Haters Gonna Hate (7-5-0 | 1402.34)  --  69.3%**
 
     * Opponents: noLuck & Stream Butter
     * Conditions:
         1. Jonathan wins both game - 30%
-        2. Jonathan loses one game AND less than three of these events occurs - 35.6%%:
-            * Ben wins at least one game OR Jonathan does not outscore Ben by 88 points - 95%
+        2. Jonathan loses one game AND less than three of these events occurs - 34.8%%:
+            * Ben wins at least one game OR Jonathan does not outscore Ben by 88 points - 105%
             * Jen wins at least one game OR Jen outscores Jonathan by 113 points - 76%
             * Alex wins both games AND Jonathan does not outscore Alex by 13 points - 40%
             * Jeff wins both games AND Jeff outscores Jonathan by 198 points - 0%
