@@ -12,9 +12,6 @@ As per the preseason meeting.  The payouts are as follows:
     - Second Place $80
     - Third Place $40
 
-A lot is coming down to the final weeks of the season, so it has been bequeathed that I break down the playoff spots and what chances each team has at them.  Let the soothsaying begin.
-
-Unless specified, the information under a team's name is the list of ways they can be awarded the corresponding prize/position, with "CLINCHED" meaning guaranteed.
 
 ## Current Top Weekly Scorer Leaderboard
 
@@ -22,12 +19,19 @@ Unless specified, the information under a team's name is the list of ways they c
 |:-------------------:|:--------------:|:-----:|
 | melons are gourds   | 2, 5, 11       | $30   |
 | Haters Gonna Hate   | 3, 6, 8        | $30   |
-| noLuck              | 12             | $10   |
+| Mo ScreenZ Mo Yardz | 1              | $10   |
+| PostMahomes         | 4              | $10   |
+| The Rules of Acquisition | 7         | $10   |
 | Stream Butter       | 9              | $10   |
 | A1 Since Day 1      | 10             | $10   |
-| PostMahomes         | 4              | $10   |
-| Mo ScreenZ Mo Yardz | 1              | $10   |
-| The Rules of Acquisition | 7         | $10   |
+| noLuck              | 12             | $10   |
+
+
+
+# Odds
+
+Below I have broken down the odds as calculated for each prize up for grabs (Points Championship, Pity Prize, Playoffs, and the illustrious Toilet Bowl).  These are of course only estimates, but they are also infallible.  If something doesn't happen as predicted, clearly cheating happened.  I have spoken.
+
 
 ## Points Championship
 
@@ -47,6 +51,101 @@ Unless specified, the information under a team's name is the list of ways they c
 | Haters Gonna Hate   | 1365.96 |   92.18    |     46.09  |  noLuck & Stream Butter                   | 2%  |
 | melons are gourds   | 1348.02 |   110.12   |     55.06  |  PostMahomes & A1 Since Day 1             | 1%  |
 | Tua Legit to Quit   | 1342.05 |   116.09   |     58.045 |  The Rules of Acquisition & Matt's Team   | 0%  |
+
+
+## Playoffs
+
+There are 7 official playoff contenders, but 5 contenders in reality.  The scenarios are more complicated for this, so I have broken each down in terms of conditions and my calculations for each probability, eventually combining into a single number representing each team's chance of making the playoffs.  I will be accepting betting offers comparable to these chances.  Please inquire within.
+
+1. **noLuck (10-2-0 | 1459.57)  --  100%**
+    * CLINCHED
+2. **melons are gourds (8-4-0 | 1489.93)  --  99.5%**
+
+    * Opponents: PostMahomes & A1 Since Day
+    * Conditions:
+        1. Ben wins either game - 85%
+        2. Ben loses both games AND less than three of these events occurs - 14.5%:
+            * Jen wins at least one game OR Jen outscores Ben by 201 points - 76%
+            * Jonathan wins both games OR Jonathan wins one game and outscores Ben by 88 points - 30%
+            * Alex wins both games and outscores Ben by 76 points - 15%
+            * Jeff wins both games and outscores Ben by 286 points - 0%
+
+3. **Stream Butter (8-4-0 | 1289.65)  --  91.4%**
+
+    * Opponents: Mo ScreenZ Mo YardZ & Haters Gonna Hate
+    * Conditions:
+        1. Jen wins either game - 76%
+        2. Jen loses both games AND less than three of these events occurs - 15.4%:
+            * Ben wins at least one game OR Jen does not outscore Ben by 201 points - 100%
+            * Jonathan wins both games OR Jonathan wins one game and Jen does not outscore Jonathan by 113 points - 80%
+            * Alex wins both games and Jen does not outscore Alex by 125 points - 45%
+            * Jeff wins both games and Jeff outscores Jen by 85 points - 1%
+
+4. **Haters Gonna Hate (7-5-0 | 1402.34)  --  70.0%**
+
+    * Opponents: noLuck & Stream Butter
+    * Conditions:
+        1. Jonathan wins both game - 30%
+        2. Jonathan loses one game AND less than three of these events occurs - 35.6%%:
+            * Ben wins at least one game OR Jonathan does not outscore Ben by 88 points - 95%
+            * Jen wins at least one game OR Jen outscores Jonathan by 113 points - 76%
+            * Alex wins both games AND Jonathan does not outscore Alex by 13 points - 40%
+            * Jeff wins both games AND Jeff outscores Jonathan by 198 points - 0%
+        3.  Jonathan loses both games AND none of these events occur - 4.5%:
+            * Alex wins both games OR Alex wins one game and Jonathan does not outscore Alex by 13 points - 75%
+            * Jeff wins both games OR Jeff wins one game and Jeff outscores Jonathan by 198 points - 9%
+            * Michael wins both games and Michael outscores Jonathan by 94 points - 1%
+
+
+5. **A1 Since Day 1 (6-6-0 | 1414.17)  --  39.5%**
+
+    * Opponents: Matt's Team & melons are gourds
+    * Conditions:
+        1. Alex wins both games AND less than three of these events occur - 32.7%:
+            * Ben wins at least one game OR Alex does not outscore Ben by 76 points - 90%
+            * Jen wins at least one game OR Jen outscores Alex by 125 points - 76%
+            * Jonathan wins both games OR Jonathan wins one game and Jonathan outscores Alex by 13 points - 40%
+            * Jeff wins both games and Jeff outscores Alex by 210 points - 0%
+        2. Alex wins one game AND none of these events occur - 6.8%:
+            * Jonathan wins at least one game OR Jonathan outscores Alex by 13 points - 85%
+            * Jeff wins both games OR Jeff wins one game and outscores Alex by 210 points - 9%
+            * Michael wins both games and Michael outscores Alex by 106 points - 0%
+
+6. **PostMahomes (6-6-0 | 1204.62)  --  1%
+
+    * Opponents: melons are gourds & noLuck
+    * Conditions:
+        1. Jeff wins both games AND less than three of these events occur - 1%:
+            * Ben wins at least one game OR Jeff does not outscore Ben by 286 points - 100%
+            * Jen wins at least one game OR Jeff does not outscore Jen by 85 points - 99%
+            * Jonathan wins both games OR Jonathan wins one game and Jeff does not outscore Jonathan by 198 points - 80%
+            * Alex wins both games and Jeff does not outscore Alex by 210 points - 45%
+        2. Jeff wins one game AND none of these events occur - 0%:
+            * Jonathan wins at least one game OR Jeff does not outscore Jonathan by 198 points - 100%
+            * Alex wins both games OR Alex wins one game and Jeff does not outscore Alex by 210 points - 100%
+            * Michael wins both games and Jeff does not outscore Michael by 104 points - 14%
+
+7. **Mo ScreenZ Mo YardZ (5-7-0 | 1308.51)  --  .006%**
+
+    * Opponents: Stream Butter and The Rules of Acquisition
+    * Conditions:
+        1. Michael wins both games AND none of these events occur - .006%:
+            * Jonathan wins at least one game OR Michael does not outscore Jonathan by 94 points - 99%
+            * Alex wins both games OR Alex wins one game and Michael does not outscore Alex by 106 points - 95%
+            * Jeff wins both games OR Jeff wins one game and Jeff outscores Michael by 104 points - 9%
+
+
+## Toilet Bowl
+
+Unless someone benches their team, this one is all but decided.
+
+|        Teams             |  Points | Difference    | Games Ahead | Opponents                          | Percentage |
+|:------------------------:|:-------:|:-------------:|:-----------:|:-----------------------------------------:|:---:|
+| Tua Legit to Quit        | 1328.77 |  + 190.52     |     2       |  The Rules of Acquisition & Matt's Team   | 0%  |
+| The Rules of Acquisition | 1307.72 |  + 169.47     |     2       |  Tua Legit to Quit & Mo ScreenZ Mo YardZ  | 0%  | 
+| Matt's Team              | 1138.25 |         0     |     0       |  A1 Since Day 1 & Tua Legit to Quit       | 100%  |
+
+
 
 
 
