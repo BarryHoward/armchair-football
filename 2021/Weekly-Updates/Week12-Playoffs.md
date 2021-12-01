@@ -111,7 +111,7 @@ There are 7 official playoff contenders, but 5 contenders in reality.  The scena
             * Jeff wins both games OR Jeff wins one game and outscores Alex by 210 points - 9%
             * Michael wins both games and Michael outscores Alex by 106 points - 0%
 
-6. **PostMahomes (6-6-0 | 1204.62)  --  1%
+6. **PostMahomes (6-6-0 | 1204.62)  --  1%**
 
     * Opponents: melons are gourds & noLuck
     * Conditions:
